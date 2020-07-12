@@ -17,7 +17,7 @@ h3 button {
   font-size: 1.5rem;
   line-height: 1.3;
   margin-top: 1.5rem;
-  border-top: 2px solid #000;
+  border-top: 2px solid #333;
   padding-top: .25rem;
 }
 .quire-page .content > h2:first-child {
@@ -31,7 +31,7 @@ h3 button {
   font-size: 1.25rem;
   font-style: normal;
   margin-top: 1.5rem;
-  border-top: 2px solid #000;
+  border-top: 2px solid #333;
 }
 .quire-page .content *:not(div) + h2,
 .quire-page .content *:not(div) + h3 {
@@ -54,23 +54,26 @@ h3 button {
  
 /* Differentiate levels more distinctly */
 .quire-page .content h3 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 .quire-page .content h4 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .quire-page .content h5 {
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+}
+.quire-page .content h6 {
+  font-size: 1.15rem;
+  font-weight: bold;
 }
 
 /* Marks, Inscriptions, and Armorials 
 ============================================================================= */
 /* Adjust borders so that they work as section breaks */
 .content .quire-figure.silver-marks {
-  border-top-width: 0;
-  padding-top: 0;
-  border-bottom-color: black;
+  border-bottom: 1px solid #333;
+  padding-bottom: 1rem;
 }
 .content .quire-figure.silver-marks:last-child {
   border-bottom-width: 0;
