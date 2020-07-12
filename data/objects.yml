@@ -3,16 +3,15 @@ object_display_order:
   - artist
   - date
   - weight
-  - location
 object_list:
   - id: 1
     title: "Pair of Tureens, Liners, and Stands (*paire de terrines, doublures, et plats*)"
-    artist: "Thomas Germain (French, 1673-1748, master 1720), arms added by François Thomas Germain (French, 1726-1791, master 1748)"
-    date: "Paris, 1726-1729, arms added 1764"
+    artist: "Thomas Germain (French, 1673–1748, master 1720), arms added by François Thomas Germain (French, 1726–1791, master 1748)"
+    date: "Paris, 1726–1729, arms added 1764"
     medium: "Silver"
     weight: "8620 g (277.139 ozt. / 277 oz. 2.78 dwt.)"
     location: "J. Paul Getty Museum"
-    inv_no: "82.DG.12.1.a-c"
+    inv_no: "82.DG.12.1.a–c"
     link: "https://www.getty.edu/art/collection/objects/5725/"
     figure:
       - id: "gm_00658501"
