@@ -14,5 +14,5 @@
 # Use these settings for Netlify
 #
 
-baseURL: "https://quire-demo.netlify.com"
+baseURL: "https://french-silver.netlify.app"
 relativeURLs: true
