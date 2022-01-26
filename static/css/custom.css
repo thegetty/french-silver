@@ -3,7 +3,8 @@ https://inclusive-components.design/collapsible-sections/
 ============================================================================= */
 
 h2 button,
-h3 button {
+h3 button,
+h4 button {
   all: inherit;
   border: 0;
   display: flex;
@@ -23,15 +24,20 @@ h3 button {
 .quire-page .content > h2:first-child {
   padding-top: 1.75rem;
 }
-.quire-page .content h3 {
+.quire-page .content h3,
+.quire-page .content h4 {
   letter-spacing: -0.01em;
 }
-.quire-page .content h3 {
+.quire-page .content h3,
+.quire-page .content h4 {
   font-weight: normal;
   font-size: 1.25rem;
   font-style: normal;
   margin-top: 1.5rem;
-  border-top: 2px solid #333;
+  /* border-top: 2px solid #333; */
+}
+.quire-page .content h3 {
+  font-weight: 700;
 }
 .quire-page .content *:not(div) + h2,
 .quire-page .content *:not(div) + h3 {
@@ -51,7 +57,7 @@ h3 button {
 [aria-expanded] rect {
   fill: currentColor;
 }
- 
+
 /* Differentiate levels more distinctly */
 .quire-page .content h3 {
   font-size: 1.5rem;
@@ -68,7 +74,7 @@ h3 button {
   font-weight: bold;
 }
 
-/* Marks, Inscriptions, and Armorials 
+/* Marks, Inscriptions, and Armorials
 ============================================================================= */
 /* Adjust borders so that they work as section breaks */
 .content .quire-figure.silver-marks {
@@ -104,7 +110,7 @@ h3 button {
   }
   /* Better space headings, esp. in Marks section */
   .quire-page .content h2 {
-    border-top-width: 0; 
+    border-top-width: 0;
   }
   .quire-page .content > h2:first-child {
     padding-top: 0;
