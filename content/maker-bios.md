@@ -1,5 +1,5 @@
 ---
-layout: page
 title: Maker Biographies
+layout: page
 order: 200
 ---
