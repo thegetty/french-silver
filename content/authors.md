@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About the Authors
+layout: page
 order: 230
 ---
 

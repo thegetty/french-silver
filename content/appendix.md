@@ -1,6 +1,5 @@
 ---
-title: Acknowledgements
-subtitle:
+title: Appendix
 order: 210
-layout: essay
+layout: page
 ---
