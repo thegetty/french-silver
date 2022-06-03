@@ -11,13 +11,15 @@
 # Title & Description
 title: French Silver in the J. Paul Getty Museum
 subtitle:
-reading_line:
+reading_line: With technical contributions by Jessica Chasen, Arlen Heginbotham, and Julie Wolfe
 short_title:
 
 description:
   one_line:
   full: >-
-    TK
+    The collection of seventeenth- and eighteenth-century French silver at the J. Paul Getty Museum is of extraordinary quality and state of preservation. Each piece is remarkable for its beauty, inventive form, skillful execution, illustrious provenance, and the renown of its maker. Never having been the subject of a cohesive study, this catalogue is the first to thoroughly explore these exquisite objects with over two hundred fifty color photographs, bringing into focus miniscule makers’ marks, inscriptions, and heraldic armorials.
+
+    The publication begins with an essay that details the formation of the Museum’s collection of French silver, several pieces of which were selected by Mr. Getty himself, and continues with notes to the reader concerning the regulations of the historic Parisian guild of gold- and silversmiths that set quality controls and consumer protections. The ten catalogue cover a total of thirty-three pieces along with comprehensive descriptions, provenance and exhibition histories, and technical information. The related commentaries shed light on the function of these objects and the roles they played in the daily lives of their prosperous owners. The catalogue includes maker biographies and a full bibliography.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -28,8 +30,8 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
-  url:
+  isbn: "978-1-60606-830-4"
+  url: https://www.getty.edu/publications/french-silver/
 
 publisher:
   - name: J. Paul Getty Museum
@@ -113,23 +115,23 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+  - type:
+    name:
+    identifer:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+    identifier:
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -145,4 +147,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image:
