@@ -3,8 +3,8 @@ title: Foreword
 order: 4
 layout: essay
 contributor:
-- first_name: Timothy
-  last_name: Potts
+  - first_name: Timothy
+    last_name: Potts
 ---
 
 Although small in size, the J. Paul Getty Museum’s collection of seventeenth- and eighteenth-century French silver enjoys international renown for the exceptional quality and prestigious provenance of many of its objects. Proportionally little French silver from this period survives due to episodic melting downs during periods of austerity and upheaval, including the French Revolution. The extraordinary quality and richness of the Getty’s holdings reflect the discerning taste of those who built the collection, as well as their astute approach to seizing opportunities presented by the art market. While the Museum’s founder, J. Paul Getty (1892–1976), collected mostly British silver during his lifetime, the successful bid for three major examples of French silver at an important auction in 1971, five years before his death, marked a spectacular start of the collection. Gillian Wilson (1941–2019), whom Mr. Getty hired as the Museum’s decorative arts curator in 1971, started to expand the silver collection in 1981, when the founder’s bequest to the institution was being finalized: it is thanks to the significant additions she continued to make until her retirement in 2003 that the Museum holds such an outstanding, coherent group of French silver dating from the seventeenth and eighteenth centuries.
