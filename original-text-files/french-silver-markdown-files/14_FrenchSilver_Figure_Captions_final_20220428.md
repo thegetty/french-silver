@@ -456,7 +456,7 @@ caption: Robert Joseph Auguste (French, 1723–1805), *One of a Pair of Candelab
 
 credit: New York, Metropolitan Museum of Art, bequest of Catherine D. Wentworth, 1948, 48.187.389a,b
 
-**{{Bios}}**
+**[[Bios]]**
 
 id:
 
@@ -540,7 +540,7 @@ caption: Unknown bronze caster; painted, gilded, and varnished surface attribute
 
 credit: Los Angeles, J. Paul Getty Museum, 83.DA.280
 
-**{{Mark, inscription, armorial, cat. and plate captions}}**
+**[[Mark, inscription, armorial, cat. and plate captions]]**
 
 id:
 
@@ -620,7 +620,7 @@ label_text: Cat. 1.10
 
 caption: Water fountain (82.DG.17), x-axial view.
 
-\[cat. 1.10 – x-axial 360° view QTVR\] {{Question from Charissa: Does the QTVR file show a x-axial view?}}
+\[cat. 1.10 – x-axial 360° view QTVR\] [[Question from Charissa: Does the QTVR file show a x-axial view?]]
 
 id:
 
