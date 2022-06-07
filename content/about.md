@@ -1,8 +1,7 @@
 ---
 title: About
 order: 300
-pdf: false
-epub: false
+layout: page
 ---
 
 {{ publication.description.full }}
@@ -13,10 +12,10 @@ epub: false
 
 ### Chicago
 
-*French Silver in the J. Paul Getty Museum*, by Charissa Bremer-David. Los Angeles: J. Paul Getty Museum, 2023. http://www.getty.edu/publications/french-silver/.
+Bremer-David, Charissa. *French Silver in the J. Paul Getty Museum*. Los Angeles: J. Paul Getty Museum, 2023. http://www.getty.edu/publications/french-silver/.
 
 ### MLA
-*French Silver in the J. Paul Getty Museum*, by Charissa Bremer-David. The J. Paul Getty Museum, 2023. http://www.getty.edu/publications/french-silver/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
+Bremer-David, Charissa. *French Silver in the J. Paul Getty Museum*. The J. Paul Getty Museum, 2023. http://www.getty.edu/publications/french-silver/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
 
 ### Permanent URL
 
@@ -62,19 +61,19 @@ This publication was created using Quire™, a multiformat publishing tool from 
 
 Unless otherwise indicated, the text and images of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 
-**Published by the J. Paul Getty Museum, Los Angeles**<br />
-Getty Publications<br />
-1200 Getty Center Drive, Suite 500<br />
-Los Angeles, California 90049-1682<br />
-[getty.edu/publications](http://www.getty.edu/publications/)<br />
+**Published by the J. Paul Getty Museum, Los Angeles**
+Getty Publications
+1200 Getty Center Drive, Suite 500
+Los Angeles, California 90049-1682
+[getty.edu/publications](http://www.getty.edu/publications/)
 
-Ruth Evans Lane, *Project Editor* <br />
-Zsofia Jilling, *Manuscript Editor* <br />
-Greg Albers, *Digital Publications Manager* <br />
-Kurt Hauser, *Cover Design* <br />
-Victoria Gallina, *Production* <br />
-Nancy Rivera, *Image and Rights Acquisition* <br />
-Erin Cecele Dunigan and Dina Murokh, *Digital Assistants* <br />
+Ruth Evans Lane, *Project Editor*
+Zsofia Jilling, *Manuscript Editor*
+Greg Albers, *Digital Publications Manager*
+Kurt Hauser, *Cover Design*
+Victoria Gallina, *Production*
+Nancy Rivera, *Image and Rights Acquisition*
+Erin Cecele Dunigan and Dina Murokh, *Digital Assistants* 
 
 
 

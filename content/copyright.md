@@ -20,19 +20,19 @@ Unless otherwise indicated, the text and images of this work are licensed under 
 First edition, 2023
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/french-silver/](https://github.com/thegetty/french-silver), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
-**Published by the J. Paul Getty Museum, Los Angeles**<br />
-Getty Publications<br />
-1200 Getty Center Drive, Suite 500<br />
-Los Angeles, California 90049-1682<br />
-[getty.edu/publications](http://www.getty.edu/publications/)<br />
+**Published by the J. Paul Getty Museum, Los Angeles**
+Getty Publications
+1200 Getty Center Drive, Suite 500
+Los Angeles, California 90049-1682
+[getty.edu/publications](http://www.getty.edu/publications/)
 
-Ruth Evans Lane, *Project Editor* <br />
-Zsofia Jilling, *Manuscript Editor* <br />
-Greg Albers, *Digital Publications Manager* <br />
-Kurt Hauser, *Cover Design* <br />
-Victoria Gallina, *Production* <br />
-Nancy Rivera, *Image and Rights Acquisition* <br />
-Erin Cecele Dunigan and Dina Murokh, *Digital Assistants* <br />
+Ruth Evans Lane, *Project Editor*
+Zsofia Jilling, *Manuscript Editor*
+Greg Albers, *Digital Publications Manager*
+Kurt Hauser, *Cover Design*
+Victoria Gallina, *Production*
+Nancy Rivera, *Image and Rights Acquisition*
+Erin Cecele Dunigan and Dina Murokh, *Digital Assistants*
 
 Distributed in the United States and Canada by the University of Chicago Press
 
