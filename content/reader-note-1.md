@@ -33,12 +33,6 @@ Authentic marks on French silver of the *ancien régime* can identify the maker,
 
 Technical and scientific analysis, undertaken by conservators at the J. Paul Getty Museum, informs our empirical knowledge of each object in this catalogue, from fabrication to current state of condition. These investigations continue as analytical methods evolve and refine our interpretation of data. Updated reports will be published periodically on the art collection pages of the Getty Museum website (https://www.getty.edu/art/collection/). One object, the complex Franco-Anglo water fountain ([**cat. no. 1**](#_top)), is accompanied here, however, with an exemplary technical summary compiled by Jessica Chasen (formerly Assistant Conservator, Decorative Arts and Sculpture Conservation, at the J. Paul Getty Museum and presently Associate Conservator, Objects Conservation, at the Los Angeles County Museum of Art).
 
-{% backmatter %}
-
-## Notes
-
-{% endbackmatter %}
-
 [^1]: In 1723 the Parisian guild, or corporation, of goldsmiths, jewelers, and enamelers appointed the goldsmith Pierre Le Roy to codify and clarify the accumulated statutes and laws governing their craft and retail trade. The first edition of the revised regulations was printed in 1734 as *Statuts et privileges du corps des marchands orfèvres-joyailliers de la ville de Paris* (Statutes and Privileges of the Corporation of Merchant Goldsmiths-Jewelers of the City of Paris). Twenty-five years later in 1759, a second edition was printed and became the definitive version. A facsimile of this rare publication was published in 2003 ([[Le Roy 1759/2003]]).
 
 [^2]: [[Perrin 1993]], 20.
