@@ -6,7 +6,7 @@ Charissa Bremer-David
 
 \[ primary plate TK – modeled after OTMM gm_00659201.TIF (full view of pair together) \]
 
-**{{Link to bios: Thomas Germain and François Thomas Germain}}**
+**[[Link to bios: Thomas Germain and François Thomas Germain]]**
 
 title: Pair of Lidded Tureens, Liners, and Stands (*Paire de pots à oille couvertes, doublures et plateaux*)
 
@@ -44,7 +44,7 @@ component08: 82.DG.13.2.d (Stand)
 
 ### 82.DG.13.1.a–d
 
-(**cat. 6.1**) **{{Charissa would like to insert image here, but there is no figure callout.}}**
+(**cat. 6.1**) **[[Charissa would like to insert image here, but there is no figure callout.]]**
 
 \[ cat. 6.1 TK – modeled after OTMM gm_00701901.TIF (single tureen .1 partially in front of upright stand) \]
 
@@ -174,7 +174,7 @@ The interior, near the top, is scratched with the Roman numeral “I” (**inscr
 
 H: 4.1 × W: 46.2 × D: 47.1 cm, 3,200 g (1 5/8 × 18 3/16 × 18 9/16 in., 102 ozt., 17.648 dwt.)
 
-(**cat. 6.3**) **{{Again, Charissa would like to include the image of the stand here, but there is no figure callout.}}**
+(**cat. 6.3**) **[[Again, Charissa would like to include the image of the stand here, but there is no figure callout.]]**
 
 \[ cat 6.3 TK - .2 stand, upright, alone \]
 
@@ -230,7 +230,7 @@ Dom Gaspar de Bragança was granted the right to surmount his coat of arms with 
 
 ## Bibliography 
 
-{{*Les trésors* 1955}}, 91, no. 455 (“lent from a private collection, Paris”), and plates 164–65; *Magnificient Silver / Magnifique orfèvrerie*, sale cat., Christie’s, Geneva, April 27, 1976: 124–25, lot 446 “A Pair of Magnificent Louis XV Soup-Tureens and Stands by Thomas Germain / Magnifique paire de soupieres Louis XV, leurs couvercles, leurs doublures et leur présentoirs, par Thomas Germain”; {{“Some Acquisitions” 1983}}, 324, no. 115; {{Wilson, Sassoon, and Bremer-David 1983}}, 39–45, no. 7, “Pair of Tureens and Stands”; {{Sassoon and Wilson 1986}}, 67–68, no. 150; {{Barr 1987}}, 129; *French Silver in the J. Paul Getty Museum*, exh. brochure (Malibu, CA: J. Paul Getty Museum, 1988), 2, 7–9, fig. 5; {{Bremer-David et al. 1993}}, 114, no. 190; {{Wilson and Hess 2001}, 97, no. 196; {{Bremer-David 2011}}, 6–7, 122, no. 36, fig. 3; {{Hellman 2011a}}, 108–11, figs. 65a–b; {{Hellman 2011b}}; {{Bremer-David 2015}}, figs. 1–2; {{Murdoch 2021}}, 190n19.
+[[*Les trésors* 1955]], 91, no. 455 (“lent from a private collection, Paris”), and plates 164–65; *Magnificient Silver / Magnifique orfèvrerie*, sale cat., Christie’s, Geneva, April 27, 1976: 124–25, lot 446 “A Pair of Magnificent Louis XV Soup-Tureens and Stands by Thomas Germain / Magnifique paire de soupieres Louis XV, leurs couvercles, leurs doublures et leur présentoirs, par Thomas Germain”; [[“Some Acquisitions” 1983]], 324, no. 115; [[Wilson, Sassoon, and Bremer-David 1983]], 39–45, no. 7, “Pair of Tureens and Stands”; [[Sassoon and Wilson 1986]], 67–68, no. 150; [[Barr 1987]], 129; *French Silver in the J. Paul Getty Museum*, exh. brochure (Malibu, CA: J. Paul Getty Museum, 1988), 2, 7–9, fig. 5; [[Bremer-David et al. 1993]], 114, no. 190; [[Wilson and Hess 2001}, 97, no. 196; [[Bremer-David 2011]], 6–7, 122, no. 36, fig. 3; [[Hellman 2011a]], 108–11, figs. 65a–b; [[Hellman 2011b]]; [[Bremer-David 2015]], figs. 1–2; [[Murdoch 2021]], 190n19.
 
 [^1]: The historic weights in the old French units of *marc*, *once*, and *gros* tallied the sum of all the component parts of one of the pair: lid, liner, tureen, and stand (82.DG.13.1.a–d). That combined weight was then the equivalent of 10,153.423 grams, which is 371.073 grams heavier than currently measured. Given this discrepancy, perhaps the heavier weight may have included any associated serving spoon(s).
 
@@ -254,33 +254,33 @@ Dom Gaspar de Bragança was granted the right to surmount his coat of arms with 
 
 [^7]: The following information derives from Technical Report, November 12, 2021, by Julie Wolfe, Decorative Arts and Sculpture Conservation, J. Paul Getty Museum: Each stand was raised from sheet metal that was finished by repoussé and chasing techniques. Each rim was separately cast in eight sections, pinned, and soldered in place. X-radiography shows that the thickness of the sheet metal diminishes in the area where the armorial and coronet are located. This indicates that a previous engraved coat of arms has been removed by polishing and re-engraved with a subsequent armorial.
 
-[^8]: {{Bremer-David 2015}}, figs. 1–2.
+[^8]: [[Bremer-David 2015]], figs. 1–2.
 
-[^9]: {{Bapst 1887}}, 54–55n1.
+[^9]: [[Bapst 1887]], 54–55n1.
 
 [^10]: X-ray fluorescence spectroscopy conducted by Julie Wolfe, Decorative Arts and Sculpture Conservation, J. Paul Getty Museum, shows that the silver alloys for all parts of this pair of lidded tureens, liners, and stands are closely similar and within an acceptable degree of variation consistent with the production of a single artisanal workshop active in Paris during the eighteenth century, despite the fabrication of the parts over a span of seven years (see [**Appendix: Table 1**](#_top)). Quantitative X-ray Fluorescence Spectroscopy Report, December 10, 2021, by Arlen Heginbotham and Julie Wolfe, Decorative Arts and Sculpture Conservation, J. Paul Getty Museum.
 
-[^11]: Information drawn from the postmortem inventory of Thomas Germain. Paris, Archives nationales de France, Minutier central, XXXVI, 460, August 27, 1748. An unspecified number of working models in lead, copper, and silver, valued at 1,500 livres, was inventoried in both the lodgings and the workshop at this time. See {{Bapst 1887}}, 88.
+[^11]: Information drawn from the postmortem inventory of Thomas Germain. Paris, Archives nationales de France, Minutier central, XXXVI, 460, August 27, 1748. An unspecified number of working models in lead, copper, and silver, valued at 1,500 livres, was inventoried in both the lodgings and the workshop at this time. See [[Bapst 1887]], 88.
 
 [^12]: Michèle Bimbenet-Privat, verbal communication, May 2018, notes on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum. Teresa Leonor M. Vale, though, has speculated that one liner (82.DG.13.2.b), at least, could have been intended for an unfinished commission of a Portuguese cardinal (see [**note 23**](#_top)).
 
-[^13]: Paris, Archives nationales de France, Minutier central, XXXVI, 460, August 27, 1748, nos. 224, 226, 227. Stéphane Boiron summarized these entries as “un surtout et deux pots à oille, deux terrines couvertes et leur plats et un pot à oille couvert et son plat” in {{Boiron 2019}}, 49, 60n7. See also {{Bapst 1887}}, 88.
+[^13]: Paris, Archives nationales de France, Minutier central, XXXVI, 460, August 27, 1748, nos. 224, 226, 227. Stéphane Boiron summarized these entries as “un surtout et deux pots à oille, deux terrines couvertes et leur plats et un pot à oille couvert et son plat” in [[Boiron 2019]], 49, 60n7. See also [[Bapst 1887]], 88.
 
-[^14]: See {{Fuhring 2005b}}.
+[^14]: See [[Fuhring 2005b]].
 
-[^15]: Thomas Germain’s personal library included a volume by Meissonnier, valued at 60 livres, when inventoried in 1748. See {{Bapst 1887}}, 70n3.
+[^15]: Thomas Germain’s personal library included a volume by Meissonnier, valued at 60 livres, when inventoried in 1748. See [[Bapst 1887]], 70n3.
 
-[^16]: The drawings are in a private collection. One, showing a *pot à oille* and stand, is analyzed in {{Fuhring 2005c}}, 132–33, no. 40, and 327, no. 40nn1–5. Access to the drawings was kindly facilitated by the private collector and Peter Fuhring.
+[^16]: The drawings are in a private collection. One, showing a *pot à oille* and stand, is analyzed in [[Fuhring 2005c]], 132–33, no. 40, and 327, no. 40nn1–5. Access to the drawings was kindly facilitated by the private collector and Peter Fuhring.
 
-[^17]: Thomas Germain employed the goldsmith Pierre Germain (called *le Romain*) in the 1720s. The etching by Jacques Jean Pasquier after Pierre Germain was published in {{Germain 1748}}, part 2, plate 76. **{If acceptable, link plate 76 to this url: <https://archive.org/details/elementsdorfevre00germ/page/n167/mode/2up>}}**
+[^17]: Thomas Germain employed the goldsmith Pierre Germain (called *le Romain*) in the 1720s. The etching by Jacques Jean Pasquier after Pierre Germain was published in [[Germain 1748]], part 2, plate 76. **{If acceptable, link plate 76 to this url: <https://archive.org/details/elementsdorfevre00germ/page/n167/mode/2up>]]**
 
 [^18]: “Etat des desseins de sceaux, pots à oille, terrines, corbeilles: \[première boîte\] 8 \[feuilles de dessin\] de pots à oilles, terrines, et corbeilles. N.9 Etat générale des modeles en cuivre et étain concernent l’Orfèvrerie: \[boîte\] 23: no. 1, 24 plombs chouxfleurs; no.2, 5 cuivres feuilles de chouxfleurs. \[boîte\] 24: no. 5, 50 feuilles de persil, cerfeuil, pimprenelle, 43 plombs, 7 argent. \[boîte\] 25: no. 5, 9 gousses de petites pois cuivres; no. 10, 24 coquilles de morilles plombs; no. 11, 18 coquilles de cornichons. \[boîte\] 28: différens poissons: no. 9, 3 écrevisses entières, 1 relevée, 2 pates, cuivres.” Paris, Archives nationales de France, Minutier central, LXXXIII, 511, May 22, 1765. *Délivrance de mobilier par François Thomas Germain, sculpteur orfèvre du roi* (author’s translation)*.* Images of the document were kindly shared by Peter Fuhring.
 
-[^19]: In the monograph on François Thomas Germain, Christiane Perrin noted that *terrines* and *pots à oille* were, incontestably, the wares most in demand, as they were essential vessels for meals served *à la française* ({{Perrin 1993}}, 86).
+[^19]: In the monograph on François Thomas Germain, Christiane Perrin noted that *terrines* and *pots à oille* were, incontestably, the wares most in demand, as they were essential vessels for meals served *à la française* ([[Perrin 1993]], 86).
 
 [^20]: See [**notes 1**](#_top) and [**2**](file:///C:\Users\Henry%20David\Downloads\notes%202) above.
 
-[^21]: The second baron Carrington owned several properties that were significantly renovated or refurbished during his lifetime. See {{Harris 2007}}, 72–74, and {{Morris 1880}}, vol. 6, 5–6, ill. Thus far, provenance research has not found the Getty vessels among the Carrington family possessions sold at auction by lord Carrington’s son and heir, the marquess of Lincolnshire, nor by his descendants. “Carrington, Baron (l, 1796),” *Cracroft’s Peerage: The Complete Guide to the British Peerage and Baronetage*, updated July 1, 2019, <http://www.cracroftspeerage.co.uk/carrington1796.htm>.
+[^21]: The second baron Carrington owned several properties that were significantly renovated or refurbished during his lifetime. See [[Harris 2007]], 72–74, and [[Morris 1880]], vol. 6, 5–6, ill. Thus far, provenance research has not found the Getty vessels among the Carrington family possessions sold at auction by lord Carrington’s son and heir, the marquess of Lincolnshire, nor by his descendants. “Carrington, Baron (l, 1796),” *Cracroft’s Peerage: The Complete Guide to the British Peerage and Baronetage*, updated July 1, 2019, <http://www.cracroftspeerage.co.uk/carrington1796.htm>.
 
 [^22]: See [**note 7**](#_top) above.
 
@@ -288,13 +288,13 @@ Dom Gaspar de Bragança was granted the right to surmount his coat of arms with 
 
 [^24]: This identification was first proposed in 1986 by Ole Rostock, of the Societas Heraldica Scandinavica, and independently repeated in 1990 by Paulo Lowndes Marques, who was then chairman of the British Historical Society of Portugal. Ole Rostock, letter to Gillian Wilson, November 18, 1986, and Paulo Lowndes Marques, letter to Gillian Wilson, November 29, 1990, both on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum.
 
-[^25]: The salvers on stands are in the Palácio Nacional da Ajuda, Lisbon, inv. 5157 (dating to 1550–1600 and 1700–25) and 5158 (dating to 1700–25). See {{Godinho 1992}}, 226–27, nos. 335–36, “Salver on Stand.”
+[^25]: The salvers on stands are in the Palácio Nacional da Ajuda, Lisbon, inv. 5157 (dating to 1550–1600 and 1700–25) and 5158 (dating to 1700–25). See [[Godinho 1992]], 226–27, nos. 335–36, “Salver on Stand.”
 
-[^26]: The portrait of 1760, by an unidentified painter, is in the Museu Pio XII, Braga, Portugal. For a concise biography of Dom Gaspar de Bragança and his art patronage, see {{Vale 2016a}}, 353–59, 374–75nn6–20, 404, figs. 46–47, 418–19, figs. 87–89. See also {{Mendonça 2004}}.
+[^26]: The portrait of 1760, by an unidentified painter, is in the Museu Pio XII, Braga, Portugal. For a concise biography of Dom Gaspar de Bragança and his art patronage, see [[Vale 2016a]], 353–59, 374–75nn6–20, 404, figs. 46–47, 418–19, figs. 87–89. See also [[Mendonça 2004]].
 
-[^27]: {{Lencastre 2012}}, 160–66, 177, 240nn249–56, and 241n267. For a partial list of the knights of the Order of Christ (*cavaleiros da Ordem de Cristo*), see “Cavaleiros da Ordem de Cristo,” Geneall, accessed June 10, 2020, <https://geneall.net/pt/titulo/6160/cavaleiros-da-ordem-de-cristo/>. Concerning the Order’s rules of membership, see {{Dutra 1970}}.
+[^27]: [[Lencastre 2012]], 160–66, 177, 240nn249–56, and 241n267. For a partial list of the knights of the Order of Christ (*cavaleiros da Ordem de Cristo*), see “Cavaleiros da Ordem de Cristo,” Geneall, accessed June 10, 2020, <https://geneall.net/pt/titulo/6160/cavaleiros-da-ordem-de-cristo/>. Concerning the Order’s rules of membership, see [[Dutra 1970]].
 
-[^28]: {{Vale 2016b}}.
+[^28]: [[Vale 2016b]].
 
 [^29]: Martin Norton of S. J. Phillips, letter to Gillian Wilson, September 4, 2000, on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum.
 

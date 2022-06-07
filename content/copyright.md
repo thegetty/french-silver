@@ -38,7 +38,7 @@ Distributed in the United States and Canada by the University of Chicago Press
 
 Distributed outside the United States and Canada by Yale University Press, London
 
-{% cip-data %}
+
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -53,7 +53,7 @@ Library of Congress Cataloging-in-Publication Data
 - LC record available at
 - LC ebook record available at
 
-{% endcip-data %}
+
 
 Front cover:
 Back cover:

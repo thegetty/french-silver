@@ -43,7 +43,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 
 © 2023 J. Paul Getty Trust
 
-{% cc-icon %}
+
 <svg class="quire-copyright__icon">
 <switch>
   <use xlink:href="#cc"></use>
@@ -58,7 +58,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
   </foreignObject>
 </switch>
 </svg>
-{% endcc-icon %}
+
 
 Unless otherwise indicated, the text and images of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -76,7 +76,7 @@ Victoria Gallina, *Production* <br />
 Nancy Rivera, *Image and Rights Acquisition* <br />
 Erin Cecele Dunigan and Dina Murokh, *Digital Assistants* <br />
 
-{% cip-data %}
+
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -91,7 +91,7 @@ Library of Congress Cataloging-in-Publication Data
 - LC record available at
 - LC ebook record available at
 
-{% endcip-data %}
+
 
 Front cover:
 Back cover:

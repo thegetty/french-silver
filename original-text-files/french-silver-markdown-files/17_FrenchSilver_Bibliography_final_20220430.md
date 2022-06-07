@@ -2,7 +2,7 @@
 
 Bibliography
 
-{{Note for Greg and digital team: A few of these are not in alpha order. They moved out of sequence during copyediting, and I didn’t fix the order since Quire will sort these anyway. Also, I added a “sort” value for the few names with diacritics.}}
+[[Note for Greg and digital team: A few of these are not in alpha order. They moved out of sequence during copyediting, and I didn’t fix the order since Quire will sort these anyway. Also, I added a “sort” value for the few names with diacritics.]]
 
 short: “Acquisitions” 1985
 

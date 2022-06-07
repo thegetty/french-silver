@@ -208,7 +208,7 @@ XRF results^1^ from the technical examination of objects in this catalogue
 
 \*\* Silver L/K ratio depressed.
 
-^1^ Values in gray are below the detection limit (defined as “critical value” at 95-percent confidence per {{Kadachi et al. 2012}}).
+^1^ Values in gray are below the detection limit (defined as “critical value” at 95-percent confidence per [[Kadachi et al. 2012]]).
 
 ^2^ Number of measurements taken at each site.
 

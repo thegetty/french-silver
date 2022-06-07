@@ -114,82 +114,82 @@ Four brothers in the Paris-based Martin family worked as varnish painters (*vern
 
 The Martin family of *vernissuers* had a long and prosperous production spanning some forty years from the 1720s to around 1770. Applications of their house-branded *vernis de Martin* were applied to boxes, toilette services, objects, scientific instruments, furniture, harpsicords, wall paneling (*boiserie*), and carriages. They collaborated routinely with merchants of luxury goods (*marchands merciers*) Thomas Joachin Hébert, Simon Phillipe Poirier, and Lazare Duvaux. Duvaux’s day books itemize extensive work by Étienne Simon Martin from 1755 to 1759. The family was patronized by the Crown’s office of royal buildings (*bâtiments du roi*), the French royal family, the abbé Jean-Antoine Nollet, the marquise de Pompadour, the Prince of Liechtenstein, and Frederick the Great of Prussia. Notable commissions included: paneling for madame de Châtelet at the Château de Cirey, in 1738; the cabinet of the dauphine Marie Josèphe de Saxe at Versailles, in 1748–49; a cabinet for the marquise de Pompadour at Versailles, in 1750; a two-wheeled gig (*chaise de poste*) for monsieur de Tournehem, in 1751; Madame Victoire’s cabinet at Versailles, in 1756; and paneling for Frederick the Great at Sanssouci, Potsdam, in 1760. Similar varnishing techniques were legitimately utilized by other practitioners, whose works are described as being in the manner of *vernis de Martin* or, if specifically localized, *vernis de Paris*.
 
-[^1]: This brief biography draws from {{Forray-Carlier et al. 2011}}; H.C., “Roëttiers, Jacques (dit Jacques III),” *Le Poinçon de Paris et autres* (blog), June 16, 2019, <https://orfevrerie.wordpress.com/2019/06/16/les-roettiers/>; and {{Nocq 1968}}, vol. 1, 31­–33, “Auguste (Robert-Joseph).”
+[^1]: This brief biography draws from [[Forray-Carlier et al. 2011]]; H.C., “Roëttiers, Jacques (dit Jacques III),” *Le Poinçon de Paris et autres* (blog), June 16, 2019, <https://orfevrerie.wordpress.com/2019/06/16/les-roettiers/>; and [[Nocq 1968]], vol. 1, 31­–33, “Auguste (Robert-Joseph).”
 
-[^2]: For a fuller account of Auguste’s deliveries of tablewares to the Crown in the 1780s, see {{Carlier 1993­a}}.
+[^2]: For a fuller account of Auguste’s deliveries of tablewares to the Crown in the 1780s, see [[Carlier 1993­a]].
 
-[^3]: This brief biography derives from {{Nocq 1968}}, vol. 1, 259–60, and {{Dennis 1960}}, vol. 2, 51–52, nos. 96–98.
+[^3]: This brief biography derives from [[Nocq 1968]], vol. 1, 259–60, and [[Dennis 1960]], vol. 2, 51–52, nos. 96–98.
 
 [^4]: Michèle Bimbenet-Privat, email to author, April 18, 2018, on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum.
 
-[^5]: The gilded-silver ewer and basin sold from the collection of Belgian art dealer Bernard de Leye in *The Exceptional Collection of Bernard de Leye*­, sale cat., Kunsthaus Lempertz, Cologne, July 15, 2021: lot 181, <https://www.lempertz.com/en/catalogues/lot/1182-1/181-a-royal-presentation-gift-silver-lavabo-garniture-for-the-marquis-and-marquise-of-montmelas.html>. For the names of the two clients of 1789, see {{Brault and Bottineau 1959}}, 7.
+[^5]: The gilded-silver ewer and basin sold from the collection of Belgian art dealer Bernard de Leye in *The Exceptional Collection of Bernard de Leye*­, sale cat., Kunsthaus Lempertz, Cologne, July 15, 2021: lot 181, <https://www.lempertz.com/en/catalogues/lot/1182-1/181-a-royal-presentation-gift-silver-lavabo-garniture-for-the-marquis-and-marquise-of-montmelas.html>. For the names of the two clients of 1789, see [[Brault and Bottineau 1959]], 7.
 
-[^6]: Their locations have not been tracked since the mid-1960s when they were in private collections ({{Fregnac 1965}}, 216–19).
+[^6]: Their locations have not been tracked since the mid-1960s when they were in private collections ([[Fregnac 1965]], 216–19).
 
 [^7]: Five pieces were bequeathed to the Metropolitan Museum of Art by Catherine D. Wentworth in 1948: a mustard or milk pot of 1763–64 (inv. 48.187.410); a pair of candlesticks of 1767–68, engraved with a double-shield armorial (inv. 48.187.25a, b, .26a, b; and a pair of candelabra of 1768–69 (inv. 48.187.393a, b, .394a, b). A sixth piece was given by Jayne Wrightsman in 1980: an ewer of 1784–85 with a handle formed as the upper torso and head of Narcissus, probably from a toilette set (inv. 1980.79, <https://www.metmuseum.org/art/collection/search/206816>).
 
-[^8]: Musée des arts décoratifs, Paris: a cream pot (*pot à crème*) of 1759–60 (inv. 30077); a gilded-silver double salt (*salière double*) of 1762–63, with the armorial of Baron Jérôme Pichon (inv. 26866 A–B); and a chocolate pot (*chocolatière*) of 1786–87 (inv. 30008). See {{Mabille 1984}}, 48, no. 62 (*pot à crème*), and no. 63 (*salière double*).
+[^8]: Musée des arts décoratifs, Paris: a cream pot (*pot à crème*) of 1759–60 (inv. 30077); a gilded-silver double salt (*salière double*) of 1762–63, with the armorial of Baron Jérôme Pichon (inv. 26866 A–B); and a chocolate pot (*chocolatière*) of 1786–87 (inv. 30008). See [[Mabille 1984]], 48, no. 62 (*pot à crème*), and no. 63 (*salière double*).
 
-[^9]: {{Nocq 1968}}, vol. 1, 296–97. Images of Louis Cordier’s mark were kindly confirmed by Michèle Bimbenet-Privat, as they were not reproduced by Nocq.
+[^9]: [[Nocq 1968]], vol. 1, 296–97. Images of Louis Cordier’s mark were kindly confirmed by Michèle Bimbenet-Privat, as they were not reproduced by Nocq.
 
 [^10]: *Collection D. David-Weill (Troisième vente d’orfèvrerie)—Orfèvrerie XIIe au XIXe siècle*, sale cat., Hôtel Drouot, Paris, May 4–5, 1972: lot 25.
 
 [^11]: They were advertised by the consortium of French antique dealers known as Proantic, founded in 2009.
 
-[^12]: {{Dennis 1960}}, vol. 1, 93, no. 103 (formerly in the collection of Jean Block); {{Fuhring, Bimbenet-Privat, and Kugel 2005}}, vol. 2, 57–58, no. 137.
+[^12]: [[Dennis 1960]], vol. 1, 93, no. 103 (formerly in the collection of Jean Block); [[Fuhring, Bimbenet-Privat, and Kugel 2005]], vol. 2, 57–58, no. 137.
 
-[^13]: Paris, Archives nationales de France, Minutier central, I, 240, October 13, 1710 (the historical document was not consulted; the citation draws upon the descriptive notary catalogue by Mireille Rambaud and Catherine Grodecki, *Artisans XVIIIe siècle*, 1956–1977, originally compiled as a paper resource, since adapted and now searchable online at https://[francearchives.fr](http://francearchives.fr/)). Paris, Archives nationales de France, online catalogue, Minutes de Nicolas Charles Le Prévost (MC/ET/I/239–MC/ET/I/287), Minutes. 1710, octobre–décembre (MC/ET/I/240), <https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_041108&udId=c1p6ro4ofaqb--qmcv2xwn7gtd&details=true&gotoArchivesNums=false&auSeinIR=true&formCaller=GENERALISTE&fullText=Simon%20Gallien&optionFullText=ET>. This brief biography also draws upon {{Nocq 1968}}, vol. 2, 208–9.
+[^13]: Paris, Archives nationales de France, Minutier central, I, 240, October 13, 1710 (the historical document was not consulted; the citation draws upon the descriptive notary catalogue by Mireille Rambaud and Catherine Grodecki, *Artisans XVIIIe siècle*, 1956–1977, originally compiled as a paper resource, since adapted and now searchable online at https://[francearchives.fr](http://francearchives.fr/)). Paris, Archives nationales de France, online catalogue, Minutes de Nicolas Charles Le Prévost (MC/ET/I/239–MC/ET/I/287), Minutes. 1710, octobre–décembre (MC/ET/I/240), <https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_041108&udId=c1p6ro4ofaqb--qmcv2xwn7gtd&details=true&gotoArchivesNums=false&auSeinIR=true&formCaller=GENERALISTE&fullText=Simon%20Gallien&optionFullText=ET>. This brief biography also draws upon [[Nocq 1968]], vol. 2, 208–9.
 
 [^14]: Paris, Archives nationales de France, Minutier central, XCI, 580, March 1, 1710. See also Paris, Archives nationales de France, online catalogue, Minutes de Jean Carnot (MC/ET/XCI/356–MC/ET/XCI/591), Minutes, janvier–1710, octobre, mars (MC/ET/XCI/580), <https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_042940&udId=c1p72wn2wwkr--172t539n2tsok&details=true&gotoArchivesNums=false&auSeinIR=true&formCaller=GENERALISTE&fullText=Simon%20Gallien&optionFullText=ET>. See [**note 13**](#_top).
 
 [^15]: Paris, Archives nationales de France, Minutier central, XXVII, 165, May 13, 1727, and XXVII, 228, July 8, 1744. See also Paris, Archives nationales de France, online catalogue, Minutes de Nicolas Duport (MC/ET/XXVII/1–MC/ET/XXVII/165), Minutes, 1727 janvier–20 mai, (MC/ET/XXVII/165), <https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_041761&udId=c1p6x464izj7-k2wxzy6e5118&details=true&gotoArchivesNums=false&auSeinIR=true&formCaller=GENERALISTE&fullText=Simon%20Gallien&optionFullText=ET>; and Minutes de Jérôme Duport (MC/ET/XXVII/166–MC/ET/XXVII/859), Minutes, 1744, juillet–15 octobre, (MC/ET/XXVII/228), <https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_041762&udId=c1p6x4epa2a3-1hlnfjp0ql1uy&details=true&gotoArchivesNums=false&auSeinIR=true&formCaller=GENERALISTE&fullText=Simon%20Gallien&optionFullText=ET>. See [**note 13**](#_top).
 
-[^16]: The ceremonial sword sold in *Chosen pieces provenant de la collection de la princesse Minnie de Beau-Craon du Château de Haroué*, sale cat., AuctionArt, Rémy le Fur et Associés, Hôtel Richelieu, Paris, June 15, 2015: 29–39, lot 6, “Importante et unique épée de grand écuyer de Lorrine,” <http://www.auctionartparis.com/public/upload/1c1c8a6dd2f16de9374dd6cbd42805c0.pdf>. The entry reproduced Gallien’s signed invoice and description of the work. Musée de Lorraine de Nancy, Palais des ducs de Lorraine, inv. 2017.1.1, <https://www.musee-lorrain.nancy.fr/fr/collections/les-oeuvres-majeures/epee-de-grand-ecuyer-du-duc-de-lorraine-184>. See {{Martin 2009}}, 306n60.
+[^16]: The ceremonial sword sold in *Chosen pieces provenant de la collection de la princesse Minnie de Beau-Craon du Château de Haroué*, sale cat., AuctionArt, Rémy le Fur et Associés, Hôtel Richelieu, Paris, June 15, 2015: 29–39, lot 6, “Importante et unique épée de grand écuyer de Lorrine,” <http://www.auctionartparis.com/public/upload/1c1c8a6dd2f16de9374dd6cbd42805c0.pdf>. The entry reproduced Gallien’s signed invoice and description of the work. Musée de Lorraine de Nancy, Palais des ducs de Lorraine, inv. 2017.1.1, <https://www.musee-lorrain.nancy.fr/fr/collections/les-oeuvres-majeures/epee-de-grand-ecuyer-du-duc-de-lorraine-184>. See [[Martin 2009]], 306n60.
 
-[^17]: Musée des arts décoratifs, Paris, inv. 26896 A,B, <http://collections.lesartsdecoratifs.fr/flambeau-55>. See {{Mabille 1984}}, 73–78, no. 105, “Paire de flambeaux.” Additionally, a pair of two branch candelabra of 1740 sold in *Magnificient Silver / Magnifique orfèvrerie*, sale cat., Christie’s, Geneva, April 27, 1976: 119, lot 436, “A Pair of Fine Louis XV Two-Light Candelabra.”
+[^17]: Musée des arts décoratifs, Paris, inv. 26896 A,B, <http://collections.lesartsdecoratifs.fr/flambeau-55>. See [[Mabille 1984]], 73–78, no. 105, “Paire de flambeaux.” Additionally, a pair of two branch candelabra of 1740 sold in *Magnificient Silver / Magnifique orfèvrerie*, sale cat., Christie’s, Geneva, April 27, 1976: 119, lot 436, “A Pair of Fine Louis XV Two-Light Candelabra.”
 
-[^18]: Two place settings of cutlery and a serving spoon of 1734–35 sold in *Livres anciens, dessins et tableaux anciens, ceramique, orfèvrerie allemande, objets d’art, meubles, tapis et tapisseries*, sale cat., Brissonneu et Daguerre, Hôtel Drouot, Paris, May 17, 2013: 51, lot 141, “Ensemble de deux couverts, une cuiller.” The mustard pot of 1739–40, from the collection of J. L. Bonnefoy, was on public view in 1974. See {{*Louis XV* 1974}}, 352, no. 475.
+[^18]: Two place settings of cutlery and a serving spoon of 1734–35 sold in *Livres anciens, dessins et tableaux anciens, ceramique, orfèvrerie allemande, objets d’art, meubles, tapis et tapisseries*, sale cat., Brissonneu et Daguerre, Hôtel Drouot, Paris, May 17, 2013: 51, lot 141, “Ensemble de deux couverts, une cuiller.” The mustard pot of 1739–40, from the collection of J. L. Bonnefoy, was on public view in 1974. See [[*Louis XV* 1974]], 352, no. 475.
 
-[^19]: {{Heal 1972}}, 30, 157; {{Grimwade 1990}}, 158–59, 518–19.
+[^19]: [[Heal 1972]], 30, 157; [[Grimwade 1990]], 158–59, 518–19.
 
-[^20]: It is preserved in the British Museum, London, Prints and Drawings, Trade Cards, inv. Heal,67.156, <https://research.britishmuseum.org/research/collection_online/search.aspx?people=124124&peoA=124124-2-60>. The opportunity to study the trade card was kindly facilitated by Hugo Chapman, Head of the Prints and Drawings Department, British Museum, and by Sheila O’Connell. See also {{O’Connell 2003}}, 99, no. I.86.
+[^20]: It is preserved in the British Museum, London, Prints and Drawings, Trade Cards, inv. Heal,67.156, <https://research.britishmuseum.org/research/collection_online/search.aspx?people=124124&peoA=124124-2-60>. The opportunity to study the trade card was kindly facilitated by Hugo Chapman, Head of the Prints and Drawings Department, British Museum, and by Sheila O’Connell. See also [[O’Connell 2003]], 99, no. I.86.
 
-[^21]: This brief summary draws principally from {{Bapst 1887}}, 108; {{Perrin 1993}}, 16–33; and {{Fuhring, Bimbenet-Privat, and Kugel 2005}}, vol. 2, 95, no. 245.
+[^21]: This brief summary draws principally from [[Bapst 1887]], 108; [[Perrin 1993]], 16–33; and [[Fuhring, Bimbenet-Privat, and Kugel 2005]], vol. 2, 95, no. 245.
 
-[^22]: {{Perrin 1993}}, 81.
+[^22]: [[Perrin 1993]], 81.
 
-[^23]: This brief summary draws principally from {{Bapst 1887}}, 38–39, 91–98; {{Perrin 1993}}, 19–20, 34–38, 88–89; {{Fuhring, Bimbenet-Privat, and Kugel 2005}}, vol. 2, 61–62, no. 148; {{Fuhring 2005c}}, 338–39; and {{Thompson 2019}}. Nicolas de Largilliere’s portrait of Thomas Germain and his wife, Anne Denise Gauchelet, is in the Museu Calouste Gulbenkian, Lisbon, inv. 431, <https://gulbenkian.pt/museu/en/works_museu/portrait-of-thomas-germain-and-his-wife/>.
+[^23]: This brief summary draws principally from [[Bapst 1887]], 38–39, 91–98; [[Perrin 1993]], 19–20, 34–38, 88–89; [[Fuhring, Bimbenet-Privat, and Kugel 2005]], vol. 2, 61–62, no. 148; [[Fuhring 2005c]], 338–39; and [[Thompson 2019]]. Nicolas de Largilliere’s portrait of Thomas Germain and his wife, Anne Denise Gauchelet, is in the Museu Calouste Gulbenkian, Lisbon, inv. 431, <https://gulbenkian.pt/museu/en/works_museu/portrait-of-thomas-germain-and-his-wife/>.
 
-[^24]: {{Grimwade 1990}}, 140–41, 264, 579; {{Mitchell 2017}}, 457–58.
+[^24]: [[Grimwade 1990]], 140–41, 264, 579; [[Mitchell 2017]], 457–58.
 
-[^25]: {{Bray 1852}}, vol. 2, 201; {{Oman 1961}}, 44–47, fig. 8. One gilded-silver chalice and standing paten from a set of four from the service are on loan from the Rector and Churchwardens of Saint James’s, Piccadilly, to the Victoria and Albert Museum, London, <http://collections.vam.ac.uk/item/O109443/chalice-leake-ralph/>.
+[^25]: [[Bray 1852]], vol. 2, 201; [[Oman 1961]], 44–47, fig. 8. One gilded-silver chalice and standing paten from a set of four from the service are on loan from the Rector and Churchwardens of Saint James’s, Piccadilly, to the Victoria and Albert Museum, London, <http://collections.vam.ac.uk/item/O109443/chalice-leake-ralph/>.
 
 [^26]: The dish is visible in a showcase in the Exhibition Room, *Goldsmiths’ Hall Virtual Tour*, Goldsmiths’ Company, accessed April 9, 2022, https://www.pan3sixty.co.uk/virtual_tours/goldsmiths-company/#exhibition-room.
 
-[^27]: {{Bimbenet-Privat 2002}}, vol. 1, 206, 410–11, and vol. 2, 210–11, no. 66. This brief biography draws upon the work of Michèle Bimbenet-Privat and David M. Mitchell.
+[^27]: [[Bimbenet-Privat 2002]], vol. 1, 206, 410–11, and vol. 2, 210–11, no. 66. This brief biography draws upon the work of Michèle Bimbenet-Privat and David M. Mitchell.
 
-[^28]: {{Bimbenet-Privat 2002}}, vol. 1, 410.
+[^28]: [[Bimbenet-Privat 2002]], vol. 1, 410.
 
 [^29]: Ibid.
 
-[^30]: {{Shaw 1911}}, 68.
+[^30]: [[Shaw 1911]], 68.
 
-[^31]: {{Shaw 1911}}, 91.
+[^31]: [[Shaw 1911]], 91.
 
-[^32]: David M. Mitchell noted the apparent presence of two Jean Le Roys, one active in Paris and the other in London in the 1660s. David M. Mitchell, email to author, November 8, 2018, on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum. The situation is succinctly summarized in {{Pijzel-Dommisse 2008}}, 43n31.
+[^32]: David M. Mitchell noted the apparent presence of two Jean Le Roys, one active in Paris and the other in London in the 1660s. David M. Mitchell, email to author, November 8, 2018, on file in the Sculpture and Decorative Arts Department, J. Paul Getty Museum. The situation is succinctly summarized in [[Pijzel-Dommisse 2008]], 43n31.
 
-[^33]: Naturalization lists, apprenticeship contracts, merchant ledgers, and extant marks testify to Jean Leroy’s business and family networks. {{Mitchell 2000}}, 123 and 123n139.
+[^33]: Naturalization lists, apprenticeship contracts, merchant ledgers, and extant marks testify to Jean Leroy’s business and family networks. [[Mitchell 2000]], 123 and 123n139.
 
-[^34]: The Parisian goldsmith Jean Catillon signed the apprenticeship contract for Leroy’s fifteen-year-old son, Pierre, with Jean Frère on January 22, 1662. Pointedly, Jean Catillon had an English journeyman in his atelier in 1680. The journeyman’s work on a bracelet was substandard. Bimbenet-Privat cites this document in {{Bimbenet-Privat 2002}}, vol. 1, 406, 410. On the activities of the *marchand joaillier* Jean Catillon (died 1702), who counted the French royal family among his clients, see {{Castelluccio 2014}}, 111, 186, 201, 369, 385, 391.
+[^34]: The Parisian goldsmith Jean Catillon signed the apprenticeship contract for Leroy’s fifteen-year-old son, Pierre, with Jean Frère on January 22, 1662. Pointedly, Jean Catillon had an English journeyman in his atelier in 1680. The journeyman’s work on a bracelet was substandard. Bimbenet-Privat cites this document in [[Bimbenet-Privat 2002]], vol. 1, 406, 410. On the activities of the *marchand joaillier* Jean Catillon (died 1702), who counted the French royal family among his clients, see [[Castelluccio 2014]], 111, 186, 201, 369, 385, 391.
 
-[^35]: {{Bimbenet-Privat 2002}}, vol. 1, 410.
+[^35]: [[Bimbenet-Privat 2002]], vol. 1, 410.
 
 [^36]: Edinburgh, Royal Bank of Scotland, Backwell’s Ledgers, vol. P, fol. 649, and vol. R, fol. 593. Citation courtesy of David M. Mitchell.
 
-[^37]: {{Bimbenet-Privat 2002}}, vol. 2, 94–95, no. 24. Cabarin’s perfume flask, with the mark of Jean Leroy on its base, is in the Victoria and Albert Museum, London, inv. 806&B-1892, <http://collections.vam.ac.uk/item/O91709/perfume-flask-cabarin-genevieve/>.
+[^37]: [[Bimbenet-Privat 2002]], vol. 2, 94–95, no. 24. Cabarin’s perfume flask, with the mark of Jean Leroy on its base, is in the Victoria and Albert Museum, London, inv. 806&B-1892, <http://collections.vam.ac.uk/item/O91709/perfume-flask-cabarin-genevieve/>.
 
-[^38]: {{Bimbenet-Privat 2002}}, vol. 2, 52–53, no. 2; {{Mitchell 2017}}, 109.
+[^38]: [[Bimbenet-Privat 2002]], vol. 2, 52–53, no. 2; [[Mitchell 2017]], 109.
 
 [^39]: See [**note 37**](file:///C:\Users\Henry%20David\Downloads\note%2036) above.
 
-[^40]: Information drawn from {{Courajod 1873}}, vol. 1, cxxiii–ccxxx; {{Sonenscher 1989}}, 225–27; {{Czarnocka 1994}}; {{Wolvesperges 2001}}; {{Forray-Carlier 2014a}}; and {{Forray-Carlier 2014b}}.
+[^40]: Information drawn from [[Courajod 1873]], vol. 1, cxxiii–ccxxx; [[Sonenscher 1989]], 225–27; [[Czarnocka 1994]]; [[Wolvesperges 2001]]; [[Forray-Carlier 2014a]]; and [[Forray-Carlier 2014b]].
