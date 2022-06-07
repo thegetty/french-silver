@@ -5,6 +5,8 @@ layout: essay
 contributor:
   - first_name: Timothy
     last_name: Potts
+    title: Maria Hummer-Tuttle and Robert Tuttle Director
+    affiliation: J. Paul Getty Museum
 ---
 
 Although small in size, the J. Paul Getty Museum’s collection of seventeenth- and eighteenth-century French silver enjoys international renown for the exceptional quality and prestigious provenance of many of its objects. Proportionally little French silver from this period survives due to episodic melting downs during periods of austerity and upheaval, including the French Revolution. The extraordinary quality and richness of the Getty’s holdings reflect the discerning taste of those who built the collection, as well as their astute approach to seizing opportunities presented by the art market. While the Museum’s founder, J. Paul Getty (1892–1976), collected mostly British silver during his lifetime, the successful bid for three major examples of French silver at an important auction in 1971, five years before his death, marked a spectacular start of the collection. Gillian Wilson (1941–2019), whom Mr. Getty hired as the Museum’s decorative arts curator in 1971, started to expand the silver collection in 1981, when the founder’s bequest to the institution was being finalized: it is thanks to the significant additions she continued to make until her retirement in 2003 that the Museum holds such an outstanding, coherent group of French silver dating from the seventeenth and eighteenth centuries.
@@ -16,9 +18,3 @@ The introductory essay on how the Getty’s collection of French silver was fo
 In many ways, this publication offers much more than a scholarly catalogue of the French silver collection. It also provides insights into French aristocratic life, with explanations of the display and use of silverware in royal residences and Parisian *hôtels particuliers*; into French gastronomy, with a few examples of recipes; and into European artistic taste, with information about the alteration of certain objects and their collecting histories through their minutely documented provenances.
 
 I congratulate former decorative arts curator Charissa Bremer-David on this rich, important work of scholarship, whose manuscript she completed in the summer of 2020, shortly before her retirement, and whose publication she followed so assiduously through to its publication. We are indebted also to Getty colleagues in Decorative Arts and other departments of the Museum who ensured that work on this project continued despite the many difficulties encountered during the pandemic. Special thanks are due to to Anne-Lise Desmas, Getty’s senior curator of sculpture and decorative arts, for her stewardship of the collection and her ongoing commitment to continuing this distinguished series of scholarly catalogues.
-
-> Timothy Potts
->
-> *Maria Hummer-Tuttle and Robert Tuttle Director*
->
-> *J. Paul Getty Museum*
