@@ -55,13 +55,31 @@ contributor:
     bio: "Charissa Bremer-David is an object-based art historian specializing in early modern European decorative arts. She has worked with the collection of the J. Paul Getty Museum for many years, serving as curator of sculpture and decorative arts from 2008 to her retirement in 2020. She curated several exhibitions, notably *Woven Gold, Tapestries of Louis XIV* (2015) and *Paris: Life and Luxury in the Eighteenth Century* (2011) and edited their accompanying catalogues and has published extensively on French tapestries. Her research interests span material culture, East-West trade, provenance, the development of the trans-Atlantic art market and the birth of American art museums at the turn of the twentieth century."
     url:
     pic:
+  - id: aheginbotham
+    type: secondary
+    first_name: Arlen
+    last_name: Heginbotham
+    title: Conservator of Decorative Arts and Sculpture
+    affiliation: J. Paul Getty Museum
+    bio: "Arlen Heginbotham is conservator of decorative arts and sculpture at the J. Paul Getty Museum."
+    url:
+    pic:
+  - id: jwolfe
+    type: secondary
+    first_name: Julie
+    last_name: Wolfe
+    title: Conservator of Decorative Arts and Sculpture
+    affiliation: J. Paul Getty Museum
+    bio: "Julie Wolfe is conservator of decorative arts and sculpture at the J. Paul Getty Museum."
+    url:
+    pic:
   - id:
-    type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
-    bio:
+    type: jchasen
+    first_name: Jessica
+    last_name: Chasen
+    title: Associate Curator, Objects
+    affiliation: Los Angeles County Museum of Art
+    bio: "Jessica Chasen is an associate objects conservator at the Los Angeles County Museum of Art. Previously, she was an assistant conservator in Decorative Arts and Sculpture Conservation at the J. Paul Getty Museum and in Science at the Getty Conservation Institute."
     url:
     pic:
 
