@@ -11,7 +11,7 @@
 # Title & Description
 title: French Silver in the J. Paul Getty Museum
 subtitle:
-reading_line: With technical contributions by Jessica Chasen, Arlen Heginbotham, and Julie Wolfe
+reading_line:
 short_title:
 
 description:
@@ -62,8 +62,6 @@ contributor:
     title: Conservator of Decorative Arts and Sculpture
     affiliation: J. Paul Getty Museum
     bio: "Arlen Heginbotham is conservator of decorative arts and sculpture at the J. Paul Getty Museum."
-    url:
-    pic:
   - id: jwolfe
     type: secondary
     first_name: Julie
@@ -71,17 +69,13 @@ contributor:
     title: Conservator of Decorative Arts and Sculpture
     affiliation: J. Paul Getty Museum
     bio: "Julie Wolfe is conservator of decorative arts and sculpture at the J. Paul Getty Museum."
-    url:
-    pic:
-  - id:
-    type: jchasen
+  - id: jchasen
+    type: secondary
     first_name: Jessica
     last_name: Chasen
     title: Associate Curator, Objects
     affiliation: Los Angeles County Museum of Art
     bio: "Jessica Chasen is an associate objects conservator at the Los Angeles County Museum of Art. Previously, she was an assistant conservator in Decorative Arts and Sculpture Conservation at the J. Paul Getty Museum and in Science at the Getty Conservation Institute."
-    url:
-    pic:
 
 # ------------------------------------------------------------------------------
 # Copright & License
