@@ -51,6 +51,7 @@ module.exports = (eleventyConfig) => {
       console.warn(`[iiif:tileImage:${name}] Starting`)
     }
     await sharp(input)
+      // .png()
       .tile({
         id: iiifId,
         layout: 'iiif',
