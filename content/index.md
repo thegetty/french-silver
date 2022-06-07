@@ -1,0 +1,10 @@
+---
+title: Cover
+order: 1
+layout: cover
+menu: false
+toc: false
+image:
+---
+
+{{ publication.description.full }}
