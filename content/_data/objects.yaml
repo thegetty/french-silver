@@ -1,49 +1,30 @@
 object_display_order:
-  - artist
-  - year
-  - dimensions
+  - title
+  - maker01
+  - maker02
+  - maker03
+  - place_date
   - medium
-  - location
+  - dimensions01
+  - dimensions02
+  - accession_number
+  - component01
+  - component02
+  - component03
+  - component04
+  - component05
+  - component06
+  - component07
+  - component08
+  - link
 object_list:
-  - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/125690/
+  - id: "07"
+    title: "Tray for Lidded Beakers (*Gantière pour gobelets couverts*)"
+    maker01: "François Thomas Germain (French, 1726–1791, master 1748)"
+    place_date: "Paris, 1750–51/52"
+    medium: "Silver"
+    dimensions01: "H: 3.6 × W: 22.2 × D: 20.2 cm, 578.08 g (1 7/16 × 8 3/4 × 7 15/16 in., 18 ozt. 11.714 dwt.)"
+    accession_number: "71.DG.78"
+    link: https://www.getty.edu/art/collection/object/103SD0
     figure:
-      - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
-  - id: 2
-    title: Pea Pickers, Nipomo, California
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print, with applied pigment
-    dimensions: 29.5 cm × 24.4 cm (7 <sup>11</sup>⁄<sub>16</sub> in × 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/130784/
-    figure:
-      - id: "pickers"
-  - id: 3
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/45651/
-    figure:
-      - id: "duo"
-  - id: 4
-    title: Burroughs Family, Hale County, Alabama
-    artist: Walker Evans
-    year: 1935
-    medium: Gelatin silver print
-    dimensions: 19.2 x 24.1 (7 <sup>9</sup>⁄<sub>16</sub> x 9 <sup>1</sup>⁄<sub>2</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/34753/
-    figure:
-      - id: "family"
+      - id: cat-07
