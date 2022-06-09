@@ -25,6 +25,12 @@ After the retirement of Gillian Wilson, a newly combined curatorial department o
 
 Thus far, the French silver at the J. Paul Getty Museum features works by Parisian masters exclusively; it is a small but exceptionally superlative assemblage. Most pieces exhibit an extraordinary virtuosity and inventiveness of design and form, a high quality of execution and finishing, a distinguished provenance, and an excellent state of preservation. Among public collections of North America, the Museum’s holdings most closely parallel those of the Detroit Institute of Arts, which were built up by the notable collectors Elizabeth Parke Firestone (1897–1990) and Harvey S. Firestone, Jr. (1898–1973), near contemporaries of Getty.[^18] In terms of the world’s great collections of eighteenth-century French silver, the Museum’s pieces would fit well within those of the Musée du Louvre in Paris, the Museu Nacional de Arte Antiga and the Museu Calouste Gulbenkian in Lisbon, and the State Hermitage in Saint Petersburg, all of which are rich with works by the Germain family of goldsmiths.
 
+{% backmatter %}
+
+## Notes
+
+{% endbackmatter %}
+
 [^1]: J. Paul Getty’s preference for British silver, to the near exclusion of other national schools, dated back to the 1930s. Early anecdotal indicators of his preferences appear in his diary entry for October 10, 1938, when he visited the highly regarded Parisian dealer of French silver Jacques Helft, and another entry for November 4, 1938, when he visited the London art firm S. J. Phillips. The former entry mentioned only French furniture and no silver, while the latter recorded in detail the cleaning and repair of some of Getty’s British silver. Getty Research Institute, Institutional Records and Archives, IA40009, *J. Paul Getty Diaries*, *August 27–November 13, 1938*: 30, October 13, 1938, and 10, November 4, 1938, <http://hdl.handle.net/10020/2010ia16v1>. Four works in this catalogue passed through the dealer Jacques Helft ([**cat. nos. 1**](#_top), [**6**](#_top), and [**7**](#_top)), while two passed through S. J. Phillips ([**cat. nos. 5**](#_top) and [**6**](#_top)).
 
 [^2]: A 1942 inventory of Getty’s silver collection in his New York City residence listed more than forty-one silver serving vessels and two sets of cutlery, each comprising more than one hundred pieces. Getty Research Institute, Institutional Records and Archives, IA20009, Inventory, 1942, J. Paul Getty Family Collected Papers, Box 1986.IA.48-05, Folder 27.

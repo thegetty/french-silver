@@ -106,6 +106,12 @@ Four brothers in the Paris-based Martin family worked as varnish painters (*vern
 
 The Martin family of *vernissuers* had a long and prosperous production spanning some forty years from the 1720s to around 1770. Applications of their house-branded *vernis de Martin* were applied to boxes, toilette services, objects, scientific instruments, furniture, harpsicords, wall paneling (*boiserie*), and carriages. They collaborated routinely with merchants of luxury goods (*marchands merciers*) Thomas Joachin Hébert, Simon Phillipe Poirier, and Lazare Duvaux. Duvaux’s day books itemize extensive work by Étienne Simon Martin from 1755 to 1759. The family was patronized by the Crown’s office of royal buildings (*bâtiments du roi*), the French royal family, the abbé Jean-Antoine Nollet, the marquise de Pompadour, the Prince of Liechtenstein, and Frederick the Great of Prussia. Notable commissions included: paneling for madame de Châtelet at the Château de Cirey, in 1738; the cabinet of the dauphine Marie Josèphe de Saxe at Versailles, in 1748–49; a cabinet for the marquise de Pompadour at Versailles, in 1750; a two-wheeled gig (*chaise de poste*) for monsieur de Tournehem, in 1751; Madame Victoire’s cabinet at Versailles, in 1756; and paneling for Frederick the Great at Sanssouci, Potsdam, in 1760. Similar varnishing techniques were legitimately utilized by other practitioners, whose works are described as being in the manner of *vernis de Martin* or, if specifically localized, *vernis de Paris*.
 
+{% backmatter %}
+
+## Notes
+
+{% endbackmatter %}
+
 [^1]: This brief biography draws from [[Forray-Carlier et al. 2011]]; H.C., “Roëttiers, Jacques (dit Jacques III),” *Le Poinçon de Paris et autres* (blog), June 16, 2019, <https://orfevrerie.wordpress.com/2019/06/16/les-roettiers/>; and [[Nocq 1968]], vol. 1, 31­–33, “Auguste (Robert-Joseph).”
 
 [^2]: For a fuller account of Auguste’s deliveries of tablewares to the Crown in the 1780s, see [[Carlier 1993­a]].

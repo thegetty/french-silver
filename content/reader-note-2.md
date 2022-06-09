@@ -7,7 +7,11 @@ contributor:
   - id: cbremer
 ---
 
+{% backmatter %}
 
+## Notes
+
+{% endbackmatter %}
 
 [^1]: Silver bullion weight, when measured in grams, is typically factored to the third decimal point and rounded up or down. Michèle Bimbenet-Privat, Conservateur général au département des Objets d’art, Musée du Louvre, observed that, generally, French *ancien régime* weight measurements for silver plate did not achieve the same degree of precision as the modern era. Communication from Michèle Bimbenet-Privat of March 6, 2021. On the relevance of scratch weights, or historic weights scratched into antique silver plate, see [[Burstyn 2005]].
 
