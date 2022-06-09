@@ -1,28 +1,146 @@
 object_display_order:
-  - maker01
-  - maker02
-  - maker03
+  - maker
   - place_date
   - medium
-  - dimensions01
-  - dimensions02
+  - dimensions
   - accession_number
-  - component01
-  - component02
-  - component03
-  - component04
-  - component05
-  - component06
-  - component07
-  - component08
+  - component
 object_list:
+  - id: "01"
+    title: "Water Fountain (*Fontaine*), transformed from a Water Flagon (*Buire*)"
+    maker: |
+      - "[Jean Leroy](/makers/#jean-leroy) (English, born France, active 1625–63, master 1625)"
+      - "probably altered by [Ralph Leake](/makers/#ralph-leake) (English, died 1716, active 1664–?, elected freeman of the Worshipful Company of Goldsmiths of the City of London 1671)"
+      - "and [Phillips Garden](/makers/#phillips-garden) (British, active 1730–63, elected freeman of the Worshipful Company of Goldsmiths of the City of London 1738)"
+    place_date: "Paris, 1661–63, altered London 1698, and again London 1758–62"
+    medium: "Silver"
+    dimensions: "Overall: H: 65.1 × W: 35.9 × D: 36.2 cm, 11,250 g (25 5/8 × 14 1/8 × 14 1/4 in., 361 ozt., 13.918 dwt.)"
+    accession_number: "82.DG.17"
+    component: |
+      - 82.DG.17.a (Lid)
+      - 82.DG.17.b (Vessel)
+    link: https://www.getty.edu/art/collection/object/103SH2
+    figure:
+    - id: "dog1"
+  - id: "02"
+    title: "Lidded Bowl (*Écuelle couverte*)"
+    maker: |
+      - Lid: Unknown maker
+      - Bowl: [Louis Cordier](/makers/#louis-cordier) (French, active 1692–1748, master 1692)
+    place_date: "Paris, 1727–28, exterior surfaces regilded electrolytically after the mid-nineteenth century and before 1923"
+    medium: "Gilded silver"
+    dimensions: "Overall: H: 10.8 × W: 29.8 × D: 18.3 cm, 739.13 g (4 1/4 × 11 3/4 × 7 3/16 in., 23 ozt., 15.271 dwt.)"
+    accession_number: "71.DG.77"
+    component: |
+      - 71.DG.77.a (Lid)
+      - 71.DG.77.b (Bowl)
+    link: https://www.getty.edu/art/collection/object/103SCY
+    figure:
+    - id: "dog1"
+  - id: "03"
+    title: "Pair of Tureens, Liners, and Stands (*Paire de terrines, doublures et plateaux*)"
+    maker: |
+      - "Thomas Germain (French, 1673–1748, master 1720)"
+      - "armorials by François Thomas Germain (French, 1726–1791, master 1748)"
+    place_date: "Paris, 1726, 1728–29, armorials added 1764"
+    medium: "Silver"
+    dimensions:
+      - "Overall (82.DG.12.1.a–c): H: 18.5 (approx.) × W: 56.7 × D: 40.6 cm, 8,620 g (7 1/4 (approx.) × 22 5/16 × 16 in., 277 ozt., 2.788 dwt.)"
+      - "Overall (82.DG.12.2.a–c): H: 19.1 (approx.) × W: 57 × D: 40.6 cm, 8720 g (7 1/2 (aprox.) × 22 7/16 × 16 in., 280 ozt., 7.09 dwt.)"
+    accession_number: "82.DG.12.1–.2"
+    component: |
+      - 82.DG.12.1.a (Liner)
+      - 82.DG.12.1.b (Tureen)
+      - 82.DG.12.1.c (Stand)
+      - 82.DG.12.2.a (Liner)
+      - 82.DG.12.2.b (Tureen)
+      - 82.DG.12.2.c (Stand)
+    link: https://www.getty.edu/art/collection/object/103SH0
+    figure:
+    - id: "dog1"
+  - id: "04"
+    title: "Pair of Decorative Bronzes: Sugar Casters in the Form of Cane Field Laborers (*Sucriers à poudre en forme d’ouvriers des champs de canne*)"
+    maker: |
+      - "Bronze caster and goldsmith unknown"
+      - "Painted, varnished, and gilded surface by [Étienne Simon Martin](/makers/#the-martin-family) (French, 1703–1770) and [Guillaume Martin](/makers/#the-martin-family) (French, 1689–1749)"
+    place_date: "Paris, 1738–39"
+    medium: "Painted, varnished, and gilded bronze, silver, and gilded metal (a copper alloy)"
+    dimensions:
+      - "Overall (88.DH.127.1.a–c): H: 22.9 × W: 11.4 × D: 15.2 cm (9 × 4 1/2 × 6 in.)"
+      - "Overall (88.DH.127.2.a–c): H: 23.2 × W: 11.9 × D: 13.7 cm (9 1/4 × 4 11/16 × 5 5/16 in.)"
+    accession_number: "88.DH.127.1–.2"
+    component: |
+      - 88.DH.127.1.a (Sugar caster lid)
+      - 88.DH.127.1.b (Sugar caster vessel)
+      - 88.DH.127.1.c (Figure with base)
+      - 88.DH.127.2.a (sugar caster lid)
+      - 88.DH.127.2.b (sugar caster vessel)
+      - 88.DH.127.2.c (Figure with base)
+    link: https://www.getty.edu/art/collection/object/105X80
+    figure:
+    - id: "dog1"
+  - id: "05"
+    title:
+    maker: |
+    place_date:
+    medium:
+    dimensions:
+    accession_number:
+    component: |
+    link:
+    figure:
+    - id: "dog1"
+  - id: "06"
+    title:
+    maker: |
+    place_date:
+    medium:
+    dimensions:
+    accession_number:
+    component: |
+    link:
+    figure:
+    - id: "dog1"
   - id: "07"
     title: "Tray for Lidded Beakers (*Gantière pour gobelets couverts*)"
-    maker01: "[François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)"
+    maker: "[François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)"
     place_date: "Paris, 1750–51/52"
     medium: "Silver"
-    dimensions01: "H: 3.6 × W: 22.2 × D: 20.2 cm, 578.08 g (1 7/16 × 8 3/4 × 7 15/16 in., 18 ozt. 11.714 dwt.)"
+    dimensions: "H: 3.6 × W: 22.2 × D: 20.2 cm, 578.08 g (1 7/16 × 8 3/4 × 7 15/16 in., 18 ozt. 11.714 dwt.)"
     accession_number: "71.DG.78"
     link: https://www.getty.edu/art/collection/object/103SD0
     figure:
-    - id: "example-image-service-3"
+    - id: "dog1"
+  - id: "08"
+    title:
+    maker: |
+    place_date:
+    medium:
+    dimensions:
+    accession_number:
+    component: |
+    link:
+    figure:
+    - id: "dog1"
+  - id: "09"
+    title:
+    maker: |
+    place_date:
+    medium:
+    dimensions:
+    accession_number:
+    component: |
+    link:
+    figure:
+    - id: "dog1"
+  - id: "10"
+    title:
+    maker: |
+    place_date:
+    medium:
+    dimensions:
+    accession_number:
+    component: |
+    link:
+    figure:
+    - id: "dog1"
