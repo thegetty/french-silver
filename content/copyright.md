@@ -1,8 +1,9 @@
 ---
 title: Copyright
 layout: page
-toc: false
 order: 2
+toc: false
+outputs: [pdf, epub]
 ---
 
 {% backmatter %}
