@@ -106,7 +106,7 @@ object_list:
     title: "Pair of Lidded Tureens, Liners, and Stands (*Paire de pots à oille couvertes, doublures et plateaux*)"
     maker: |
       - "[Thomas Germain](/makers/#thomas-germain) (French, 1673–1748, master 1720)"
-      - "and F[François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)"
+      - "and [François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)"
     place_date: "Paris, 1744–50, armorials altered 1838–68"
     medium: "Silver"
     dimensions: |
@@ -164,7 +164,7 @@ object_list:
 
   - id: "10"
     title: "Two Girandoles (*Deux girandoles*)"
-    maker: "Robert Joseph Auguste (French, 1723–1805, master 1757)"
+    maker: "[Robert Joseph Auguste](/makers/#robert-joseph-auguste) (French, 1723–1805, master 1757)"
     place_date: "Paris, 1778–79 and 1781–82"
     medium: "Silver, iron, and brass"
     dimensions: |
