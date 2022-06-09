@@ -3,8 +3,6 @@ title: Note to the Reader II
 subtitle: Historic Units of Measure and Currency
 order: 8
 layout: essay
-contributor:
-  - id: cbremer
 ---
 
 {% backmatter %}
