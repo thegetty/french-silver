@@ -27,12 +27,12 @@ Where gilded surfaces were analyzed with XRF, quantitative results for the base 
 
 {% endbackmatter %}
 
-[^1]: [[Mass and Masten 2012a]].
+[^1]: {% cite 'Mass and Matsen 2012a' %}.
 
-[^2]: [[Borges et al. 2017]].
+[^2]: {% cite 'Borges et al. 2017' %}.
 
-[^3]: [[Heginbotham and Solé 2017]]; [[Heginbotham et al. 2019]].
+[^3]: {% cite 'Heginbotham and Solé 2017' %}; {% cite 'Heginbotham et al. 2019' %}.
 
-[^4]: [[Heginbotham and Solé 2017]].
+[^4]: {% cite 'Heginbotham and Solé 2017' %}.
 
-[^5]: [[Kadachi and Al-Eshaikh 2012]].
+[^5]: {% cite 'Kadachi and Al-Eshaikh 2012' %}.
