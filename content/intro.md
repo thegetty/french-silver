@@ -33,15 +33,15 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^2]: A 1942 inventory of Getty’s silver collection in his New York City residence listed more than forty-one silver serving vessels and two sets of cutlery, each comprising more than one hundred pieces. Getty Research Institute, Institutional Records and Archives, IA20009, Inventory, 1942, J. Paul Getty Family Collected Papers, Box 1986.IA.48-05, Folder 27.
 
-[^3]: [[Getty 1941]], 391.
+[^3]: {% cite 'Getty 1941' %}, 391.
 
-[^4]: [[Le Vane and Getty 1955]], 68–69.
+[^4]: {% cite 'Le Vane and Getty 1955' %}, 68–69.
 
-[^5]: [[“Sutton Place” 1961]] 47, 49. Once settled at Sutton Place, Getty also acquired twentieth-century tablewares of gold. Frederick Wight, “The Romans, the Regency and J. Paul Getty,” *ARTnews* 73, no. 2 (February 1974): 52–55 and cover.
+[^5]: {% cite '“Sutton Place” 1961' %} 47, 49. Once settled at Sutton Place, Getty also acquired twentieth-century tablewares of gold. Frederick Wight, “The Romans, the Regency and J. Paul Getty,” *ARTnews* 73, no. 2 (February 1974): 52–55 and cover.
 
 [^6]: “Inventory of Sutton Place Gold and Silver \[compiled at the J. Paul Getty Museum, Malibu\], January 20, 1981,” on file in the Sculpture and Decorative Arts Department, the J. Paul Getty Museum.
 
-[^7]: See the survey of the most important pieces in [[Sassoon and Wilson 1986]], 127–36, nos. 267–301. The bulk of the deaccessioned British gold and silver sold over three sales at auction: *Important English and Continental Silver and Objects of Vertu*, Christie’s, New York, April 19, 1990, lots 43–50; *Important English and Continental Silver*, Sotheby’s, New York, April 19, 1991, lots 184–215; *Important English and Continental Silver*, Sotheby’s, New York, October 16, 1996, lot 323.
+[^7]: See the survey of the most important pieces in {% cite 'Sassoon and Wilson 1986' %}, 127–36, nos. 267–301. The bulk of the deaccessioned British gold and silver sold over three sales at auction: *Important English and Continental Silver and Objects of Vertu*, Christie’s, New York, April 19, 1990, lots 43–50; *Important English and Continental Silver*, Sotheby’s, New York, April 19, 1991, lots 184–215; *Important English and Continental Silver*, Sotheby’s, New York, October 16, 1996, lot 323.
 
 [^8]: Getty Research Institute, Institutional Records and Archives, IA40009, *J. Paul Getty Diaries*, *April 18, 1971–July 28, 1972*: 40, November 18, 1972, <http://hdl.handle.net/10020/2010ia16v25>.
 
@@ -51,9 +51,9 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^11]: *Collection D. David-Weill (deuxième vente d’orfèvrerie)—Orfèvrerie France XVe au XVIIIe siècle*, sale cat., Palais Galliéra, Paris, November 24, 1971: lots. 14, 17, and 24. There is no written indication that Getty consulted Gillian Wilson concerning these purchases at auction, as she had not yet taken up her curatorial appointment.
 
-[^12]: The silver is mentioned but not described in [[Frel, Fredericksen, and Wilson 1978]], 117.
+[^12]: The silver is mentioned but not described in {% cite 'Frel, Fredericksen, and Wilson 1978' %}, 117.
 
-[^13]: To have a sense of the range of publications announcing the water fountain’s acquisition, see the broad outreach to specialists, [[“Some Acquisitions” 1983]], 324, no. 114, and the seminal scholarly article by Wilson ([[Wilson 1983 \| 1983]]).
+[^13]: To have a sense of the range of publications announcing the water fountain’s acquisition, see the broad outreach to specialists, {% cite '“Some Acquisitions” 1983' %}, 324, no. 114, and the seminal scholarly article by Wilson ({% cite 'Wilson 1983' %}).
 
 [^14]: The purchase of the Gallien sugar casters was financed, in part, through a negotiated exchange of a gilded-silver ewer and basin by Paul de Lamerie, of 1736–37, that had been distributed from the estate of J. Paul Getty to the Museum (78.DG.177.1–2).
 
@@ -63,4 +63,4 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^17]: J. Paul Getty Museum, inv. 81.DF.96.1–4, <https://www.getty.edu/art/collection/objects/5716/francois-thomas-germain-after-a-design-by-pierre-contant-d'ivry-four-wall-lights-two-pairs-french-1756/?dz=#6437c4353e32f2095523414ef6743796c38ec76e>.
 
-[^18]: [[Albainy 1999]].
+[^18]: {% cite 'Albainy 1999' %}.
