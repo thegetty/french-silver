@@ -37,10 +37,10 @@ Technical and scientific analysis, undertaken by conservators at the J. Paul Get
 
 {% endbackmatter %}
 
-[^1]: In 1723 the Parisian guild, or corporation, of goldsmiths, jewelers, and enamelers appointed the goldsmith Pierre Le Roy to codify and clarify the accumulated statutes and laws governing their craft and retail trade. The first edition of the revised regulations was printed in 1734 as *Statuts et privileges du corps des marchands orfèvres-joyailliers de la ville de Paris* (Statutes and Privileges of the Corporation of Merchant Goldsmiths-Jewelers of the City of Paris). Twenty-five years later in 1759, a second edition was printed and became the definitive version. A facsimile of this rare publication was published in 2003 ([[Le Roy 1759/2003]]).
+[^1]: In 1723 the Parisian guild, or corporation, of goldsmiths, jewelers, and enamelers appointed the goldsmith Pierre Le Roy to codify and clarify the accumulated statutes and laws governing their craft and retail trade. The first edition of the revised regulations was printed in 1734 as *Statuts et privileges du corps des marchands orfèvres-joyailliers de la ville de Paris* (Statutes and Privileges of the Corporation of Merchant Goldsmiths-Jewelers of the City of Paris). Twenty-five years later in 1759, a second edition was printed and became the definitive version. A facsimile of this rare publication was published in 2003 ({% cite 'Le Roy 1759/2003' %}).
 
-[^2]: [[Perrin 1993]], 20.
+[^2]: {% cite 'Perrin 1993' %}, 20.
 
-[^3]: Before the Revolution, the assay test usually involved scraping a sample of metal from the silver piece, weighing the scrap, melting it down in a quantity of lead, boiling off the alloys, and weighing the remaining solid silver mass. [[Hoopes 1954]], 7–8; [[Dennis 1960]], vol. 2, 16.
+[^3]: Before the Revolution, the assay test usually involved scraping a sample of metal from the silver piece, weighing the scrap, melting it down in a quantity of lead, boiling off the alloys, and weighing the remaining solid silver mass. {% cite 'Hoopes 1954' %}, 7–8; {% cite 'Dennis 1960' %}, vol. 2, 16.
 
-[^4]: The best compendium of *ancien régime* silver marks is [[Bimbenet-Privat and Fontaines 1995]]. The portable volume by Louis Carré contains later marks as well ([[Carré 1990]]).
+[^4]: The best compendium of *ancien régime* silver marks is {% cite 'Bimbenet-Privat and Fontaines 1995' %}. The portable volume by Louis Carré contains later marks as well ({% cite 'Carré 1990' %}).

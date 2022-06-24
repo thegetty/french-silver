@@ -3,6 +3,10 @@ title: Appendix
 subtitle: Silver Alloy Analysis by X-ray Fluorescence Spectroscopy
 order: 210
 layout: page
+contributor:
+  - id: jchasen
+  - id: aheginbotham
+  - id: jwolfe
 ---
 
 The alloy composition of the silver objects in this catalogue has been characterized using X-ray fluorescence spectroscopy (XRF) ([**Table 1**](#_top)). This analysis was conducted to assist with the overall technical study of the works in this catalogue, particularly to identify potential alterations and restorations. XRF is a rapid, multielemental, and completely nondestructive analytical technique and is thus well suited to the study of works of art. XRF is a surface-analysis technique that measures the composition of the silver artifacts to a depth of only several tens of microns. Therefore, the XRF results may not represent the bulk alloy if silver-enriched or -depleted layers are present on the surface of the metal. Repeated annealing and pickling of silver, as commonly occurs when raising hollow forms from sheet, is known to result in silver enrichment of several tens of microns at the surface, though repeated polishing over time can remove the enriched layer.[^1] One method for detecting surface enrichment or depletion is to evaluate the ratio of silver L and K emission lines in an XRF spectrum.[^2] This method was used to flag some measurements as potentially nonrepresentative of the bulk. Results in the table with excessively high or low silver L-to-K (L/K) ratios are marked with \* and \*\* respectively.
@@ -27,12 +31,12 @@ Where gilded surfaces were analyzed with XRF, quantitative results for the base 
 
 {% endbackmatter %}
 
-[^1]: [[Mass and Masten 2012a]].
+[^1]: {% cite 'Mass and Matsen 2012a' %}.
 
-[^2]: [[Borges et al. 2017]].
+[^2]: {% cite 'Borges et al. 2018' %}.
 
-[^3]: [[Heginbotham and Solé 2017]]; [[Heginbotham et al. 2019]].
+[^3]: {% cite 'Heginbotham and Solé 2017' %}; {% cite 'Heginbotham et al. 2019' %}.
 
-[^4]: [[Heginbotham and Solé 2017]].
+[^4]: {% cite 'Heginbotham and Solé 2017' %}.
 
-[^5]: [[Kadachi and Al-Eshaikh 2012]].
+[^5]: {% cite 'Kadachi and Al-Eshaikh 2012' %}.
