@@ -24,6 +24,8 @@ module.exports = function(eleventyConfig) {
   return function(params) {
     const { collections, pageData } = params
 
+    if (!pageData) return
+
     const footerLinks = resourceLinks.filter(({ type }) => type === 'footer-link')
 
     return html`
@@ -35,7 +37,7 @@ module.exports = function(eleventyConfig) {
         ${menuHeader({ currentURL: pageData.url })}
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
           <h3 class="visually-hidden">Table of Contents</h3>
-          <ul>${menuList({ navigation: eleventyNavigation(collections.menu) })}</ul>
+          ${menuList({ navigation: eleventyNavigation(collections.menu) })}
         </nav>
 
         ${menuResources()}
