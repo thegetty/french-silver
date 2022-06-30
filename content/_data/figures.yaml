@@ -946,8 +946,7 @@ figure_list:
     label: "Mark 7.2"
     caption: "Tray (71.DG.78), detail of a warden’s mark, a crowned *K*."
 
-  - id:
-    id: "Mark-7-3"
+  - id: "mark-7-3"
     label: "Mark 7.3"
     caption: "Tray (71.DG.78), detail of a charge mark, a crowned *A* with palm and laurel branches."
 
