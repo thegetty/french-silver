@@ -327,6 +327,7 @@ figure_list:
     credit: "Los Angeles, J. Paul Getty Museum, 83.DA.280"
 
   - id: "plate-1-1"
+    src: "figures/plate-1-1.jpg"
     label: "Plate 1.1"
     caption: "Water fountain (cat. no. 1), front with armorial."
 
@@ -383,6 +384,7 @@ figure_list:
     caption: "Water fountain (82.DG.17), X-radiograph."
 
   - id: "plate-2-1"
+    src: "figures/plate-2-1.jpg"
     label: "Plate 2.1"
     caption: "Lidded bowl (cat. no. 2)."
 
@@ -451,6 +453,7 @@ figure_list:
     caption: "Lidded bowl (71.DG.77), from above."
 
   - id: "plate-3-1"
+    src: "figures/plate-3-1.jpg"
     label: "Plate 3.1"
     caption: "Pair of liners, tureens, and stands (cat. no. 3)."
 
@@ -591,6 +594,7 @@ figure_list:
     caption: "Tureen (82.DG.12.2.b), detail of one armorial cartouche of the Melo e Castro family."
 
   - id: "plate-4-1"
+    src: "figures/plate-4-1.jpg"
     label: "Plate 4.1"
     caption: "Sugar casters in the form of cane field laborers (cat. no. 4)."
 
@@ -703,6 +707,7 @@ figure_list:
     caption: "Sugar caster (88.DH.127.TK), x-axial view. **cat. 4.10 – 88.DH.127.1 or 88.DH.127.2 360° x-axial view of one figure**"
 
   - id: "plate-5-1"
+    src: "figures/plate-5-1.jpg"
     label: "Plate 5.1"
     caption: "Pair of sugar casters (cat. no. 5)."
 
@@ -791,6 +796,7 @@ figure_list:
     caption: "Lid (84.DG.744.2.a), view from above showing the variety of flowers."
 
   - id: "plate-6-1"
+    src: "figures/plate-6-1.jpg"
     label: "Plate 6.1"
     caption: "Pair of lidded tureens, liners, and stands (cat. no. 6). **plate 6.1 TK – modeled after OTMM gm_00659201.TIF (full view of pair together)**"
 
@@ -935,6 +941,7 @@ figure_list:
     caption: "Lid (82.DG.13.1.a), detail of the cauliflower finial surrounded by shellfish, an open pea pod, a gherkin, and a morel."
 
   - id: "plate-7-1"
+    src: "figures/plate-7-1.jpg"
     label: "Plate 7.1"
     caption: "Tray (cat. no. 7)."
 
@@ -975,6 +982,7 @@ figure_list:
     caption: "Tray (71.DG.78), detail of the chased and engraved surface."
 
   - id: "plate-8-1"
+    src: "figures/plate-8-1.jpg"
     label: "Plate 8.1"
     caption: "*La machine d’argent* (cat. no. 8)."
 
@@ -1027,6 +1035,7 @@ figure_list:
     caption: "*La machine d’argent* (2005.43), detail of cauliflower from above."
 
   - id: "plate-9-1"
+    src: "figures/plate-9-1.jpg"
     label: "Plate 9.1"
     caption: "Sauceboat on stand (cat. no. 9)."
 
@@ -1087,6 +1096,7 @@ figure_list:
     caption: "Sauceboat stand (71.DG.76.b), underneath."
 
   - id: "plate-10-1"
+    src: "figures/plate-10-1.jpg"
     label: "Plate 10.1"
     caption: "Pair of girandoles (cat. no. 10)."
 
