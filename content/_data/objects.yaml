@@ -22,7 +22,7 @@ object_list:
       - 82.DG.17.b (Vessel)
     link: https://www.getty.edu/art/collection/object/103SH2
     figure:
-    - id: "dog1"
+    - id: "plate-1-1"
 
   - id: "02"
     title: "Lidded Bowl (*Écuelle couverte*)"
@@ -38,7 +38,7 @@ object_list:
       - 71.DG.77.b (Bowl)
     link: https://www.getty.edu/art/collection/object/103SCY
     figure:
-    - id: "dog1"
+    - id: "plate-2-1"
 
   - id: "03"
     title: "Pair of Tureens, Liners, and Stands (*Paire de terrines, doublures et plateaux*)"
@@ -60,7 +60,7 @@ object_list:
       - 82.DG.12.2.c (Stand)
     link: https://www.getty.edu/art/collection/object/103SH0
     figure:
-    - id: "dog1"
+    - id: "plate-3-1"
 
   - id: "04"
     title: "Pair of Decorative Bronzes: Sugar Casters in the Form of Cane Field Laborers (*Sucriers à poudre en forme d’ouvriers des champs de canne*)"
@@ -82,7 +82,7 @@ object_list:
       - 88.DH.127.2.c (Figure with base)
     link: https://www.getty.edu/art/collection/object/105X80
     figure:
-    - id: "dog1"
+    - id: "plate-4-1"
 
   - id: "05"
     title: "Two Sugar Casters (*Deux sucriers à poudre*)"
@@ -100,7 +100,7 @@ object_list:
       - 84.DG.744.2.b (Vessel)
     link: https://www.getty.edu/art/collection/object/103SJG
     figure:
-    - id: "dog1"
+    - id: "plate-5-1"
 
   - id: "06"
     title: "Pair of Lidded Tureens, Liners, and Stands (*Paire de pots à oille couvertes, doublures et plateaux*)"
@@ -124,7 +124,7 @@ object_list:
       - 82.DG.13.2.d (Stand)
     link: https://www.getty.edu/art/collection/object/103SH1
     figure:
-    - id: "dog1"
+    - id: "plate-6-1"
 
   - id: "07"
     title: "Tray for Lidded Beakers (*Gantière pour gobelets couverts*)"
@@ -135,7 +135,7 @@ object_list:
     accession_number: "71.DG.78"
     link: https://www.getty.edu/art/collection/object/103SD0
     figure:
-    - id: "dog1"
+    - id: "plate-7-1"
 
   - id: "08"
     title: "*La machine d’argent*, or Centerpiece for a Table (*Surtout de table*)"
@@ -146,7 +146,7 @@ object_list:
     accession_number: "2005.43"
     link: https://www.getty.edu/art/collection/object/103QTE
     figure:
-    - id: "dog1"
+    - id: "plate-8-1"
 
   - id: "09"
     title: "Sauceboat on Stand (*Saucière* *sur support*)"
@@ -160,7 +160,7 @@ object_list:
       - 71.DG.76.b (Stand)
     link: https://www.getty.edu/art/collection/object/103SCW
     figure:
-    - id: "dog1"
+    - id: "plate-9-1"
 
   - id: "10"
     title: "Two Girandoles (*Deux girandoles*)"
@@ -173,4 +173,4 @@ object_list:
     accession_number: "82.DG.42.1–.2"
     link:
     figure:
-    - id: "dog1"
+    - id: "plate-10-1"
