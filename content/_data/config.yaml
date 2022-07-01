@@ -19,10 +19,10 @@ params:
   biblioHeading: Bibliography
   citationPageLocationDivider: ', '
   citationPopupStyle: text # text | icon
-  contributorByline: name-title # name | name-title | false
+  contributorByline: name # name | name-title | false
   displayBiblioShort: true
   entryPageObjectLinkText: View in Collection
-  entryPageSideBySideLayout: false
+  entryPageSideBySideLayout: true
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true
