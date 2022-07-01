@@ -20,10 +20,4 @@ In many ways, this publication offers much more than a scholarly catalogue of th
 
 I congratulate former decorative arts curator Charissa Bremer-David on this rich, important work of scholarship, whose manuscript she completed in the summer of 2020, shortly before her retirement, and whose publication she followed so assiduously through to its publication. We are indebted also to Getty colleagues in Decorative Arts and other departments of the Museum who ensured that work on this project continued despite the many difficulties encountered during the pandemic. Special thanks are due to to Anne-Lise Desmas, Getty’s senior curator of sculpture and decorative arts, for her stewardship of the collection and her ongoing commitment to continuing this distinguished series of scholarly catalogues.
 
-{% for contributor in contributor %}
-
-{{ contributor.first_name }} {{ contributor.last_name }}
-*{{ contributor.title }}*
-*{{ contributor.affiliation }}*
-
-{% endfor %}
+{% contributors context=pageContributors format='name-title-block' align='right' %}
