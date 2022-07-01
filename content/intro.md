@@ -53,7 +53,7 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^12]: The silver is mentioned but not described in {% cite 'Frel, Fredericksen, and Wilson 1978' %}, 117.
 
-[^13]: To have a sense of the range of publications announcing the water fountain’s acquisition, see the broad outreach to specialists, {% cite '“Some Acquisitions” 1983' %}, 324, no. 114, and the seminal scholarly article by Wilson ({% cite 'Wilson 1983' %}).
+[^13]: To have a sense of the range of publications announcing the water fountain’s acquisition, see the broad outreach to specialists, {% cite '“Some Acquisitions” 1983' %}, 324, no. 114, and the seminal scholarly article by Wilson ({% cite 'Wilson 1983' '' '1983' %}).
 
 [^14]: The purchase of the Gallien sugar casters was financed, in part, through a negotiated exchange of a gilded-silver ewer and basin by Paul de Lamerie, of 1736–37, that had been distributed from the estate of J. Paul Getty to the Museum (78.DG.177.1–2).
 
