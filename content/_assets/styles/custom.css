@@ -1,0 +1,91 @@
+:root {
+  --accent-color: #007FA9;
+  /* same as $accent-color in content/_assets/styles/variables.scss */
+}
+
+/* COVER
+============================================================================= */
+/*
+Spectral
+https://github.com/productiontype/Spectral
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+
+Spectral Light
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/spectral-light.woff2") format("woff2"),
+       url("../fonts/spectral/spectral-light.woff") format("woff"),
+       url("../fonts/spectral/spectral-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* Spectral Semi-Bold
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/spectral-semibold.woff2") format("woff2"),
+       url("../fonts/spectral/spectral-semibold.woff") format("woff"),
+       url("../fonts/spectral/spectral-semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Cover customization to match previous collection catalogues */
+.hero-body .container.is-fluid {
+  bottom: 0;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 3rem;
+  text-align: center;
+  background: -webkit-linear-gradient(top, transparent, rgba(0,0,0,0.7));
+  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.7));
+  text-shadow: 3px 3px 5px rgba(0,0,0,0.9);
+}
+.quire-cover__hero .title {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+.quire-cover__hero .title .title-large {
+  display: block;
+  font-size: 5.25rem;
+  font-weight: 300;
+  padding-top: 5px
+}
+.quire-cover__hero .contributor {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.35rem;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .5px;
+  margin-top: 2rem;
+}
+.quire-cover__hero .contributor em {
+  font-style: normal;
+}
+.quire-cover__more .hero-more {
+  background: var(--accent-color);
+}
+@media print {
+  .quire-cover__hero .hero-body .container {
+    width: 100%;
+    padding-bottom: 1in;
+  }
+  .quire-cover__hero .title {
+    font-size: 22pt;
+  }
+  .quire-cover__hero .title .title-large {
+    font-size: 60pt;
+  }
+  .title-page .contributor {
+    max-width: 4.75in;
+    float: right;
+  }
+  .title-page .contributor p {
+    margin-bottom: 1em;
+  }
+}
