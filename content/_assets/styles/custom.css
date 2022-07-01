@@ -89,3 +89,10 @@ Spectral Light
     margin-bottom: 1em;
   }
 }
+
+/* TOMBSTONES
+============================================================================= */
+/* Spacing for list items, especially for Makers and Components */
+.quire-entry__tombstone table ul li {
+  margin-bottom: .5rem;
+}
