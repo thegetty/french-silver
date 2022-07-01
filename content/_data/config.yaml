@@ -22,7 +22,7 @@ params:
   contributorByline: name-title # name | name-title | false
   displayBiblioShort: true
   entryPageObjectLinkText: View in Collection
-  entryPageSideBySideLayout: false
+  entryPageSideBySideLayout: true
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true
