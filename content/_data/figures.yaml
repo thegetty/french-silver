@@ -155,14 +155,15 @@ figure_list:
   - id: "cat-1-10"
     src: ""
     preset:
+    media_type: axial
     label: "Cat. 1.10"
     caption: "Water fountain (82.DG.17), x-axial view. **cat. 1.10 – x-axial 360° view QTVR] [Question from Charissa - Does the QTVR file show a x-axial view?]**"
     credit: ""
     alt: ""
 
   - id: "cat-1-11"
-    src: ""
-    preset:
+    src: "figures/cat-1-11.jpg"
+    # preset: zoom
     label: "Cat. 1.11"
     caption: "Water fountain (82.DG.17), X-radiograph."
     credit: ""
@@ -385,8 +386,9 @@ figure_list:
     alt: ""
 
   - id: "cat-4-10"
-    src: ""
+    src: "figures/cat-4-10.jpg"
     preset:
+    media_type: axial
     label: "Cat. 4.10"
     caption: "Sugar caster (88.DH.127.TK), x-axial view. **cat. 4.10 – 88.DH.127.1 or 88.DH.127.2 360° x-axial view of one figure**"
     credit: ""
@@ -515,6 +517,7 @@ figure_list:
   - id: "cat-6-4"
     src: ""
     preset:
+    media_type: axial
     label: "Cat. 6.4"
     caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view. **cat.6.4 = 360° x-axial of one tureen on stand 82.DG.13.1.a–d {or 82.DG.13.2.a–d TBD}**"
     credit: ""
@@ -579,6 +582,7 @@ figure_list:
   - id: "cat-8-4"
     src: ""
     preset:
+    media_type: axial
     label: "Cat. 8.4"
     caption: "*La machine d’argent* (2005.43), x-axial view. **cat. 8.4 - 360° x-axial view TK**"
     credit: ""
@@ -619,6 +623,7 @@ figure_list:
   - id: "cat-9-2"
     src: ""
     preset:
+    media_type: axial
     label: "Cat. 9.2"
     caption: "Sauceboat on stand (71.DG.76.a–b), x-axial view. **cat. 9.2 - 360° x-axial of sauceboat on stand 71.DG.76 TK**"
     credit: ""
@@ -681,31 +686,31 @@ figure_list:
     alt: ""
 
   - id: "fig-1-10"
-    src: ""
-    preset:
+    src: "figures/fig-1-10.jpg"
+    # preset: zoom
     label: "Fig. 1.10"
     caption: "X-radiograph of vessel (82.DG.17.b), with the separately cast components of the collar highlighted above the lion mask. One cast section of ornament is highlighted in green and another in yellow."
     credit: ""
     alt: ""
 
   - id: "fig-1-11"
-    src: ""
-    preset:
+    src: "figures/fig-1-11.jpg"
+    # preset: zoom
     label: "Fig. 1.11"
     caption: "X-radiograph of vessel (82.DG.17.b) showing the skirt beneath the proper-left handle, with the separately cast component highlighted. One set of ornaments is highlighted in green and another in yellow. Circles draw attention to the repeated casting flaws."
     credit: ""
     alt: ""
 
   - id: "fig-1-12"
-    src: ""
-    preset:
+    src: "figures/fig-1-12.jpg"
+    # preset: zoom
     label: "Fig. 1.12"
     caption: "Visible light image of vessel (82.DG.17.b) showing the corresponding area of the exterior patch highlighted in red. The fine separation on cartouche below the shell is denoted by the solid red line."
     credit: ""
     alt: ""
 
   - id: "fig-1-13"
-    src: ""
+    src: "figures/fig-1-13.jpg"
     preset:
     label: "Fig. 1.13"
     caption: "X-radiograph of vessel (82.DG.17.b) showing the interior and exterior repair patch. Red highlighting indicates exterior patch material, the solid red line emphasizes the fine exterior separation, and dotted red lines represent seams visible on the interior."
@@ -713,15 +718,15 @@ figure_list:
     alt: ""
 
   - id: "fig-1-14"
-    src: ""
-    preset:
+    src: "figures/fig-1-14.jpg"
+    # preset: zoom
     label: "Fig. 1.14"
     caption: "X-radiograph of lid (82.DG.17.a) showing repaired casting porosity and solid hands and feet and dolphin’s tail."
     credit: ""
     alt: ""
 
   - id: "fig-1-15"
-    src: ""
+    src: "figures/fig-1-15.jpg"
     preset:
     label: "Fig. 1.15"
     caption: "Underside of body, foot, and base of vessel (82.DG.17.b) revealing large pallions of solder along the top of the square base. The top sheet of the base has a round cutout of the center, which has been soldered to the foot."
@@ -729,7 +734,7 @@ figure_list:
     alt: ""
 
   - id: "fig-1-16"
-    src: ""
+    src: "figures/fig-1-16.jpg"
     preset:
     label: "Fig. 1.16"
     caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14 [crossed out].” Image captured at 20x magnification with a Keyence digital microscope."
@@ -761,8 +766,8 @@ figure_list:
     alt: ""
 
   - id: "fig-1-5"
-    src: ""
-    preset:
+    src: "figures/fig-1-5.jpg"
+    # preset: zoom
     label: "Fig. 1.5"
     caption: "Robert Adam (British, 1728–1792), *Study of Cistern and Fountain*, ca. 1760. Pencil sketch, 14.4 × 20.3 cm (5 11/16 × 7 15/16 in.)."
     credit: "London, Sir John Soane’s Museum. Photo: © Sir John Soane’s Museum, London, SM Adam Volume 54 Series III/1"
@@ -777,8 +782,8 @@ figure_list:
     alt: ""
 
   - id: "fig-1-7"
-    src: ""
-    preset:
+    src: "figures/fig-1-7.jpg"
+    # preset: zoom
     label: "Fig. 1.7"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *For Sir Nathaniel Curzon Baronet: Study of Vase, Cistern, and Fountain*, 1761. Pen, ink, and pencil, 29 × 40.9 cm (11 7/16 × 16 1/6 in.)."
     credit: "London, Sir John Soane’s Museum. Photo: © Sir John Soane’s Museum, London, SM Adam Volume 25/81, 82, 83"
@@ -793,8 +798,8 @@ figure_list:
     alt: ""
 
   - id: "fig-1-9"
-    src: ""
-    preset:
+    src: "figures/fig-1-9.jpg"
+    # preset: zoom
     label: "Fig. 1.9"
     caption: "Photograph of water fountain (82.DG.17.a–b), with original portions highlighted in blue. Areas with uncertain attribution but which may be original, such as the vessel rim and the putto and dolphin finial, are not highlighted."
     credit: ""
@@ -1337,8 +1342,8 @@ figure_list:
     alt: ""
 
   - id: "inscription-9-1"
-    src: ""
-    preset:
+    src: "figures/inscription-9-1.jpg"
+    # preset: zoom
     label: "Inscription 9.1"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of the scratch weight in troy ounces below an alphanumeric inscription."
     credit: ""
@@ -1361,8 +1366,8 @@ figure_list:
     alt: ""
 
   - id: "mark-10-10"
-    src: ""
-    preset:
+    src: "figures/mark-10-10.jpg"
+    # preset: zoom
     label: "Mark 10.10"
     caption: "Girandole (84.DG.42.2), underneath the fluted column, from which branch three arms, detail of the maker’s mark (consisting of the initials “R.J.A.,” partially struck), a warden’s mark (a crowned *S*), and a charge mark (a cipher of two *L*s, facing and interlaced)."
     credit: ""
@@ -1385,7 +1390,7 @@ figure_list:
     alt: ""
 
   - id: "mark-10-4"
-    src: ""
+    src: "figures/mark-10-4.jpg"
     preset:
     label: "Mark 10.4"
     caption: "Girandole (84.DG.42.1), central drip pan surface, detail of a letter *G* (referring to a Hanoverian inventory of 1800)."
@@ -1401,15 +1406,15 @@ figure_list:
     alt: ""
 
   - id: "mark-10-6"
-    src: ""
-    preset:
+    src: "figures/mark-10-6.jpg"
+    # preset: zoom
     label: "Mark 10.6"
     caption: "Girandole (84.DG.42.1), brass disc securing the internal threaded iron rod, detail of the letters “G G G” (referring to a Hanoverian inventory of 1800)."
     credit: ""
     alt: ""
 
   - id: "mark-10-7"
-    src: ""
+    src: "figures/mark-10-7.jpg"
     preset:
     label: "Mark 10.7"
     caption: "Girandole (84.DG.42.2), underneath the base, detail of a warden’s mark, a crowned *P*."
@@ -1417,7 +1422,7 @@ figure_list:
     alt: ""
 
   - id: "mark-10-8"
-    src: ""
+    src: "figures/mark-10-8.jpg"
     preset:
     label: "Mark 10.8"
     caption: "Girandole (84.DG.42.2), underneath the base, detail of a charge mark, the monogram for the city of Paris, “P A R I S.”"
@@ -1425,7 +1430,7 @@ figure_list:
     alt: ""
 
   - id: "mark-10-9"
-    src: ""
+    src: "figures/mark-10-9.jpg"
     preset:
     label: "Mark 10.9"
     caption: "Girandole (84.DG.42.2), on the exterior of the foot ring, detail of a discharge mark, an ewer."
@@ -1593,8 +1598,8 @@ figure_list:
     alt: ""
 
   - id: "mark-3-4"
-    src: ""
-    preset:
+    src: "figures/mark-3-4.jpg"
+    # preset: zoom
     label: "Mark 3.4"
     caption: "Tureen (82.DG.12.1.b), X-radiograph of the bottom of the tureen showing the visible marks on both the top and bottom surfaces, and the neighboring top and bottom center punches. Where there are noticeable solder-like repairs of the underside of the tureen, which are not easily seen in the X-ray, these areas have been highlighted in green. The blue lines indicate possible marks that have been intentionally obliterated. "
     credit: ""
@@ -1913,7 +1918,7 @@ figure_list:
     alt: ""
 
   - id: "mark-6-12"
-    src: ""
+    src: "figures/mark-6-12.jpg"
     preset:
     label: "Mark 6.12"
     caption: "Tureen (82.DG.13.2.c), detail of a discharge mark, a boar head."
@@ -1945,7 +1950,7 @@ figure_list:
     alt: ""
 
   - id: "mark-6-3"
-    src: ""
+    src: "figures/mark-6-3.jpg"
     preset:
     label: "Mark 6.3"
     caption: "Liner (82.DG.13.1.b), detail of a countermark, a laurel leaf."
@@ -1953,8 +1958,8 @@ figure_list:
     alt: ""
 
   - id: "mark-6-4"
-    src: ""
-    preset:
+    src: "figures/mark-6-4.jpg"
+    # preset: zoom
     label: "Mark 6.4"
     caption: "Tureen (82.DG.13.1.c), detail of a warden’s mark, a crowned *I*."
     credit: ""
@@ -2033,7 +2038,7 @@ figure_list:
     alt: ""
 
   - id: "mark-7-5"
-    src: ""
+    src: "figures/mark-7-5.jpg"
     preset:
     label: "Mark 7.5"
     caption: "Tray (71.DG.78), detail of an import mark, a small weevil."
