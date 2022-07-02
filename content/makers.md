@@ -6,6 +6,8 @@ order: 200
 
 ## Robert Joseph Auguste
 
+{% figure "bio-1-1" %}
+
 [bio 1.1 - JW’s 84_DG_42_1\_base_interior_3stamps lower_RJA...]
 
 French, born in Mons in 1723/25, son of Christophe Auguste and Anne-Philippe Baldit; worked as a journeyman (*compagnon*) for ten years with different goldsmiths in Paris, including future goldsmith “ordinaire” to the king (*orfèvre ordinaire du roi*) Jacques III Roëttiers, in 1746–56; became a master on January 19, 1757; resided in the cul de sac Saint-Thomas-du- Louvre in 1758–59; married Louise-Élisabeth Barge (died 1773) on April 5, 1758, and had a son, Henry Auguste (born March 8, 1759); resided in the rue des Cordeliers in 1766; working as a sculptor-goldsmith (*sculpteur-orfèvre*), resided in the rue de la Monnaie in 1773–76; delivered the coronation regalia for Louis XVI to the Crown’s furniture warehouse (*Garde-meuble de la Couronne*) in 1774–75; appointed goldsmith to the king (*orfèvre du roi*) on March 23, 1775; purchased the Roëttiers family business and premises in the Place du Carrousel from Jacques Nicolas Roëttiers in 1777; named goldsmith “ordinaire” to the king (*orfèvre ordinaire du roi*) in 1777; granted lodgings in the Galeries du Louvre in 1784; ceded his workshop to his son Henry Auguste (master April 13, 1785) on January 30, 1788; resided in rue des Orties in 1795; died in 1805.[^1]
@@ -16,6 +18,8 @@ From the 1770s, Auguste provided items of precious metal to the *Garde-meuble de
 
 ## Jean-Baptiste François Chéret
 
+{% figure "bio-2-1" %}
+
 [bio 2.1 - maker’s mark OTMM gm_363554D3V1.TIF ]
 
 French, baptized in Paris on October 10, 1728, son of master goldsmith Pierre Charles Chéret and Geneviève Cain; brother of goldsmiths Antoine Chéret (died 1787) and, possibly, of Jean-Jacques Chéret; became a master on July 13, 1759; resided in the rue de Harley in December 1759; then in the rue de la Fromagerie in 1766; then, under the sign of the Golden Chariot (*Chariot d’or*), on the quai des Orfèvres from 1773 to 1787; then in the rue Saint-Louis in 1788; and in the rue de Clery in 1789–91; advertised a complete gilded-silver toilette service in the *Affiches de Paris* in 1773; ranked as having the tenth highest income among the guild of master merchants of goldsmiths-jewelers (*maîtres marchands orfèvres-joailliers-bijoutiers*) in 1774; served as warden of the guild from July 15, 1755, and again from July 13, 1776; succeeded goldsmith Jacques Nicolas Roëttiers as a city councilor on August 12, 1777; served as fourth-level warden (*quatrième grand garde*) from July 11, 1787, and second-level warden (*deuxième grand garde*) from November 12, 1788;[^3] died on November 30, 1809.[^4]
@@ -25,6 +29,10 @@ French, baptized in Paris on October 10, 1728, son of master goldsmith Pierre Ch
 Documents and extant works testify to the creative productivity of the Chéret workshop from 1759 to the Revolution, spanning the Rococo to Neoclassical styles. Rarely, though, are the names of his clients revealed. Three names only are known: Louis XV, who presented a gilded-silver ewer and basin by Chéret in 1770 to his mistress, Marguerite Catherin Hinault, and her husband, the marquis Blaise Arod de Montmelas; Prince Cardito, who rejected the vessel he commissioned from Chéret in 1789; and the city of Marseilles, which commissioned in 1789 an allegorical vase for their mayor, Jean-Pierre d’Isnard.[^5] That vase does not seem to have survived. Two tureens exhibit Chéret’s evolving exploration of Neoclassical forms. The earlier example of 1772, bearing the arms of comte Branicki, is in the transitional style with thick oak leaf and acorn garlands, while the other, of 1789, has a band of scrolling acanthus leaves in low relief, characteristic of the later arabesque style.[^6] Other extant works tend to be rather modest in size. The Metropolitan Museum of Art has a concentration of six of his pieces ranging from tableware to items from toilette services and dating from 1763 to 1784.[^7] The Musée des arts décoratifs, Paris, has three pieces of tablewares of 1759–60, 1762–63, and 1786–87.[^8]
 
 ## Louis Cordier
+
+{% figure "bio-3-1" %}
+
+{% figure "bio-3-2" %}
 
 [bio 3.1 - maker’s mark OTMM gm_006130D28V1.TIF]
 
@@ -38,6 +46,8 @@ Few pieces survive bearing the mark of Louis Cordier. A pair of small beakers (*
 
 ## Simon Gallien
 
+{% figure "bio-4-1" %}
+
 [bio 4.1 - maker’s mark OTMM gm_006713D13V1.TIF or OTMM gm_006714D17V1.TIF ]
 
 French, possibly the goldsmith (*orfèvre*) living in the enclosure of the Abbey of Saint-Germain-des-Prés, Paris, in 1710;[^13] resided as a merchant goldsmith (*marchand orfèvre*) in the rue de Bussy (alternatively spelled Buci and Boucheries) from 1710 to 1757; became a master on February 3, 1714; married in 1710,[^14] and had a son, Simon Gallien, baptized on October 17, 1719; was identified as a goldsmith jeweler (*orfèvre joaillier*) in 1727 and in 1744;[^15] took Jean-Louis Morel as an apprentice on November 26, 1748; madame Gallien (née Marie-Antoinette Cupre) was buried on December 13, 1748; paid the security for the mastership (*maîtrise*) of his son, Jean Simon, on July 20, 1756; resigned as a master on May 12, 1757; died and was buried on November 3, 1757.
@@ -47,6 +57,8 @@ French, possibly the goldsmith (*orfèvre*) living in the enclosure of the Abbey
 Though Simon Gallien’s career spanned more than forty years, few works by his hand are in public collections. The most important, and most unusual, is the ceremonial gilded-silver sword and harness (*baudrier*) he provided in 1729 to Marc de Beauvau, prince de Craon, at the price of 2,312 livres, on the occasion of the state funeral of duc Leopold of Lorraine, in Nancy. In 2015 the object was classified as a national treasure, and in 2017 it was acquired by the Musée de Lorraine de Nancy, Palais des ducs de Lorraine.[^16] Gallien’s other surviving pieces are domestic wares, including a pair of candlesticks of 1735–36 in the Musée des arts décoratifs, Paris,[^17] cutlery of 1734–35, and a mustard pot of 1739–40.[^18]
 
 ## Phillips Garden
+
+{% figure "bio-5-1" %}
 
 [fig. Bio 5.1 – maker’s trade card, a print = The British Museum, Heal,67.156]
 
@@ -58,6 +70,8 @@ A trade card for Phillips Garden, working goldsmith and jeweler at the Golden Li
 
 ## François Thomas Germain
 
+{% figure "bio-6-1" %}
+
 [bio 6.1 - maker’s mark OTMM gm_006131D13V1.TIF]
 
 French, born in Paris on April 17, 1726, son of the Parisian goldsmith Thomas Germain and Anne Denise Gauchelet, a goldsmith’s daughter, residing in the Galeries du Louvre; was apprentice to his father; upon the death of his father, on August 14, 1748, operated the family’s workshop in the rue des Orties, together with his mother until December 1750 and on his own thereafter; succeeded his father as goldsmith-sculptor to the king (*orfèvre-sculpteur de la Maison* [du roi]), per an earlier warrant signed by Louis XV on February 13, 1748, effective November 18, 1748; registered his mark on November 27, 1748; routinely signed his works as “sculptor-goldsmith to the king” (*sculpteur-orfèvre du roi*) to emphasize his identity and skill as a sculptor; took successive apprentices, including Louis Tourteau in 1749, Henri Bodson in 1753, Charles Douze in 1756, and Jean Rameau in 1763; married Marguerite Lesieur Desbrières on May 3, 1759, and had three daughters and a fourth child; faced insolvency and, in contravention of guild rules, entered into partnership with financiers on March 31, 1765; went bankrupt on June 27, 1765; moved from the Galeries du Louvre into the workshop in the rue des Orties in December 1765, and retained the title goldsmith-sculptor to the king (*orfèvre-sculpteur du roi*); resided in England in 1768–72; bankruptcy settled in 1774; died in Paris on February 20, 1791.[^21]
@@ -67,6 +81,8 @@ French, born in Paris on April 17, 1726, son of the Parisian goldsmith Thomas Ge
 The production of the Germain workshop under François Thomas was prolific in the years following the death of his father. As one of three goldsmiths to the king (serving with Claude II Ballin, Jacques III Roëttiers, and then Jacques Ballin), he fulfilled royal commissions throughout the 1750s, supplying altar fixtures, table and toilette services, candelabra, and writing sets of astounding virtuosity to the extended royal family as well as diplomatic gifts to the department of foreign affairs. Activity peaked in 1752, when the workshop delivered some 2,000 *marcs* of finished works to the Crown’s furniture warehouse (*Garde-meuble de la Couronne*) alone (a weight equivalent to 489 kilograms, or 1,078.5 pounds).[^22] The renowned workshop also served princely, aristocratic, and private clients in France and abroad, from Lisbon to Saint Petersburg. Orders gradually declined, however, as the financial toll of the Seven Years’ War (1756–63) increased. Having enlarged the workshop to meet demand, this downturn proved ruinous for Germain, whose career never recovered from the ensuing bankruptcy of 1765.
 
 ## Thomas Germain
+
+{% figure "bio-7-1" %}
 
 [fig. Bio 7.1 – portrait of maker, Museu Calouste Gulbenkian, Lisbon, inv. 431]
 
@@ -78,6 +94,8 @@ Upon Thomas Germain’s return to Paris from Italy in 1706, he fulfilled ecclesi
 
 ## Ralph Leake
 
+{% figure "bio-8-1" %}
+
 [bio 8.1 - maker’s mark: detail from Victoria & Albert Museum, London, cistern M.30-1965 or use author’s image if viable and permissible)]
 
 English, son of yeoman Thomas Leake of Osbaston, Shropshire; was apprentice to the London plateworker Thomas Littleton from 1664 to 1671; “made free,” meaning he was elected freeman of the Worshipful Company of Goldsmiths of the City of London, on September 20, 1671; conducted some retail trade around 1677; resided in Bridges Street / Bridges Street West, Convent Garden, from 1677 to 1694; registered two marks on the guild’s new Mark Plate in 1682; signed the Declaration of Loyalty to William III and entered a largeworker’s mark for Britannia standard in 1697; his will was accepted in court on June 8, 1716.[^24]
@@ -88,6 +106,8 @@ Ralph Leake made a gilded-silver alms basin, with a central scene of the Last Su
 
 ## Jean Leroy
 
+{% figure "bio-9-1" %}
+
 [bio 9.1 - maker’s mark OTMM gm_006599D13V1.TIF]
 
 French, born in Saumur; was a journeyman in Paris; residing in the rue d’Avignon, registered his mark as a specialist in silver, not gold, on November 28, 1625;[^27] married Denise Barbotte (died 1637), and had one son, Jean (born 1632); married Jeanne Barbier on October 18, 1638, at the Église Saint-Sulpice, Paris, and had four sons: Jean-Baptiste, André, Honoré (all three baptized at Saint-Sulpice between 1642 and 1649), and Pierre (born ca. 1647);[^28] working on the quai de Gesvres, apprenticed his thirteen-year-old son, Jean-Baptiste, with the Parisian goldsmith Claude Gaucher for four years, from around 1655;[^29] presumably converted from Catholicism to Calvinism at an unknown date, likely after 1649, and emigrated to England after June 7, 1655; as John Le Roy, residing in the London borough of Westminster by June 28, 1655, received a letter of denization as a jeweler;[^30] as John Le Roy, “born at Saumur in France, son of Phillip Le Roy,” was naturalized in England on July 24, 1663;[^31] active in Paris and in London in the 1660s;[^32] maintained business relationships and cross-Channel family networks with merchant goldsmiths jewelers (*marchands orfèvres-joailliers*), such as Thomas Verbecq (who was “born at Paris in France” and was naturalized in England on the same date as John Le Roy, July 24, 1663);[^33] apprenticed his fifteen-year-old son, Pierre, with Jean Frère, the Paris-based Huguenot goldsmith from Metz who had a workshop in the passage of Saint-Germain des Prés, on January 22, 1662;[^34] jeweler Jean Leroy (father or son?), was in Paris in 1669 and obtained the right from the French authorities to reside in London as a merchant on March 15, 1670;[^35] was possibly the same person known as John Roy of London, working with jewels, on January 9, 1667, and as a merchant in association with the London goldsmith Edward Backwell, on March 16, 1670;[^36] and was possibly associated with the female Parisian goldsmith Geneviève Cabarin (who, in 1671–72, incorporated a gilded-silver sheet with Jean Leroy’s mark in her work).[^37]
@@ -97,6 +117,8 @@ French, born in Saumur; was a journeyman in Paris; residing in the rue d’Avign
 Apparently, only three works survive bearing the mark of Jean Leroy. The earliest piece is a small octagonal toilette box, with the Paris warden’s date letter for 1627–28, in a private collection.[^38] Its segmented surfaces are finely chased with naturalistic flowers, leaves, and a bird in relief against matted grounds. His mark is also found on the base of one of a pair of small gilded-silver perfume flasks in the Victoria and Albert Museum, London. The flasks otherwise bear the marks of Geneviève Carabin and an indistinct Paris date letter, possibly for 1671–72.[^39] One surmises that a considerable portion of Leroy’s Paris-based oeuvre was lost due to the French sumptuary edicts of 1689 and 1709 and that any London-based work by him remains unrecognized due to the absence of an identifying mark. If he did indeed make silver plate in England, it would have been subsumed into the production of a freeman of the Worshipful Company of Goldsmiths of the City of London, who used his own registered mark.
 
 ## The Martin Family
+
+{% figure "bio-10-1" %}
 
 [fig. Bio 10.1 – object, detail from 83.DA.280, OTMM gm_006657D46V1.TIF ]
 
