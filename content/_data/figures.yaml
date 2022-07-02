@@ -388,6 +388,7 @@ figure_list:
   - id: "cat-4-10"
     src: "figures/cat-4-10.jpg"
     preset:
+    media_type: axial
     label: "Cat. 4.10"
     caption: "Sugar caster (88.DH.127.TK), x-axial view. **cat. 4.10 – 88.DH.127.1 or 88.DH.127.2 360° x-axial view of one figure**"
     credit: ""
