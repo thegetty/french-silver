@@ -7,12 +7,12 @@
  * @param  {Array} items References
  * @return {Array} sorted references
  */
-module.exports = function (items) {
+module.exports = function (items) {  
   if (!items || !Array.isArray(items)) return null
 
   return items.sort((a, b) => {
-    const sortA = a.sort_as || a.full
-    const sortB = b.sort_as || b.full
+    const sortA = a.sort_as || a.id
+    const sortB = b.sort_as || b.id
 
     switch (true) {
       case (sortA < sortB):
