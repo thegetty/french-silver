@@ -59,7 +59,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 </svg>
 
 
-Unless otherwise indicated, the text and images of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 **Published by the J. Paul Getty Museum, Los Angeles**
 Getty Publications
@@ -73,7 +73,7 @@ Greg Albers, *Digital Publications Manager*
 Kurt Hauser, *Cover Design*
 Victoria Gallina, *Production*
 Nancy Rivera, *Image and Rights Acquisition*
-Erin Cecele Dunigan and Dina Murokh, *Digital Assistants* 
+Erin Cecele Dunigan and Dina Murokh, *Digital Assistants*
 
 
 
