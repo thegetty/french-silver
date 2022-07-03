@@ -31,10 +31,11 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF (15.4 MB)](/downloads/X.pdf)
-  - [EPUB (96.8 MB)](/downloads/X.epub)
-  - [Kindle/MOBI (232.6 MB)](/downloads/X.mobi)
-  - [Paperback](https://shop.getty.edu/products/X)
+{% for link in publication.resource_link %}
+{% if link.type == "other-format" %}
+- [{{ link.name }}]({{ link.url }})
+{% endif %}
+{% endfor %}
 
 ## Copyright
 
