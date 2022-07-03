@@ -26,7 +26,7 @@ module.exports = function(eleventyConfig) {
 
     return `
       ${licenseText}
-      <span class="">
+      <span class="is-print-only">
         To view a copy of this license visit ${license.url}.
       </span>
     `
