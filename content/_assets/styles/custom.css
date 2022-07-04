@@ -98,9 +98,50 @@ Spectral Light
   }
 }
 
+/* NAVBAR
+============================================================================= */
+.quire-navbar {
+  font-family: 'Times', serif;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+.quire-navbar-page-controls__item.quire-home-page {
+  font-weight: bold;
+}
+
 /* TOMBSTONES
 ============================================================================= */
 /* Spacing for list items, especially for Makers and Components */
 .quire-entry__tombstone table ul li {
   margin-bottom: .5rem;
+}
+
+/* HEADINGS
+============================================================================= */
+.quire-entry h2,
+.quire-page h2 {
+  text-transform: uppercase;
+}
+.quire-entry h3,
+.quire-page h3 {
+  font-size: 1.3125rem;
+  font-style: normal;
+}
+.quire-entry h4,
+.quire-page h4 {
+  font-size: 1.3125rem;
+  font-style: italic;
+}
+.quire-entry h5,
+.quire-page h5 {
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+.quire-entry h6,
+.quire-page h6 {
+  font-size: 1rem;
+  font-weight: 700;
 }
