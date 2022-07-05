@@ -14,6 +14,8 @@ subtitle:
 reading_line:
 short_title:
 
+cover_title: "<span class=\"title-large\">French Silver</span> in the J. Paul Getty Museum"
+
 description:
   one_line:
   full: |
@@ -85,9 +87,9 @@ copyright: © 2023 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution-NonCommercial 4.0 International License
-  abbreviation: CC BY-NC 4.0
-  url: creativecommons.org/licenses/by-nc/4.0/
-  scope: full # full | text-only | some-exceptions
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: some-exceptions # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -95,20 +97,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (## MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/X.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (## MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/X.epub
   - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
+    name: Paperback
+    media_type: print
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: https://shop.getty.edu/products/X
   - type: footer-link
     name: About
     link_relation: about
@@ -116,11 +118,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
