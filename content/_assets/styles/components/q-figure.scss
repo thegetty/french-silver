@@ -28,11 +28,10 @@
     margin-top: 0.5em;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  @if $theme == classic {
-    border: none;
-    padding: 0;
+    @if $theme == classic {
+      border: none;
+      padding: 0;
+    }
   }
 
   > a {
