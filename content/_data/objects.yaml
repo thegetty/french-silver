@@ -23,6 +23,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SH2
     figure:
     - id: "plate-1-1"
+    - id: "cat-1-2"
 
   - id: "02"
     title: "Lidded Bowl (*Écuelle couverte*)"
