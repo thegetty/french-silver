@@ -1,4 +1,7 @@
+const chalkFactory = require('../../_lib/chalk')
 const renderOneLine = require('../common-tags/renderOneLine')
+
+const { warn } = chalkFactory('shortcodes:cite')
 
 /**
  *  @todo Remove reliance on `this.page` in context. 
@@ -34,27 +37,28 @@ module.exports = function(eleventyConfig, { page }) {
     citationPopupStyle: popupStyle
   } = eleventyConfig.globalData.config.params
 
-  let references = eleventyConfig.globalData.references
+  const { entries } = eleventyConfig.globalData.references
 
   return function(id, pageNumber, text) {
     if (!id) {
-      console.warn('1, 2 or 3 values must be supplied with this shortcode. The first is required and should match a reference in the project `references.yml` data file; the second is optional, and should be a page number or range of page numbers; the third is optional, and should be the text to appear in the link if not the full short form of the reference, example \"{% qcite \"Faure 1909\" \"304\" \"1909\" %}\"')
+      warn('1, 2 or 3 values must be supplied with this shortcode. The first is required and should match a reference in the project `references.yml` data file; the second is optional, and should be a page number or range of page numbers; the third is optional, and should be the text to appear in the link if not the full short form of the reference, example \"{% qcite \"Faure 1909\" \"304\" \"1909\" %}\"')
       return ''
     }
 
     references = Object.fromEntries(
-      references.entries.map(({ id, full, short }) => [id, { full, short, id }])
+      entries.map(({ id, full, short }) => [id, { full, short: short || id }])
     )
 
     const citation = references[id]
 
     if (!citation) {
-      console.warn(`The id '${id}' does not match a reference in the project data file references.yaml`)
+      warn(`The id '${id}' does not match a reference in the project data file references.yaml`)
       return ''
     }
 
-    if (!page.citations) page.citations = []
-    page.citations.push(citation)
+    if (!page.citations) page.citations = {}
+
+    page.citations[id] = citation
 
     let buttonText = (text) ? text : citation.short || id
 
@@ -66,12 +70,12 @@ module.exports = function(eleventyConfig, { page }) {
           <button class="quire-citation__button material-icons md-18 material-control-point" aria-expanded="false">
             control_point
           </button>
-      `
+        `
       : renderOneLine`
           <span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">
             ${buttonText}
           </span>
-      `
+        `
 
     return renderOneLine`
       <cite class="quire-citation expandable">
