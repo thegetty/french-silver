@@ -5,6 +5,96 @@ order: 8
 layout: essay
 ---
 
+## I. Silver Weights 1600s–1700s, with Conversion to Metric[^1]
+
+**France**[^2]
+
+|        |            |                |
+|--------|------------|----------------|
+|1 livre | = 2 marcs  | = 489.506 grams|
+|1 marc  | = 8 onces  | = 244.753 grams|
+|1 once  | = 8 gros   | = 30.594 grams |
+|1 gros  | = 3 deniers| = 3.824 grams  |
+|1 denier| = 24 grains| = 1.275 grams  |
+|1 grain | = 0.053 grams|              |
+
+**Electorates and Principalities of the Holy Roman Empire (Cologne Standard)**[^3]
+
+|        |            |                    |
+|--------|------------|--------------------|
+|1 Pfund |= 2 Marks   | = 467.710 grams    |
+|1 Mark  |= 8 Unzen   | = 233.855 grams    |
+|1 Unze  |= 2 Loth    | = 29.232 grams     |
+|1 Lot   |= 4 Quentchen | = 14.616 grams   |
+|1 Quentchen | = 4 Pfennige | = 3.654 grams|
+|1 Pfenni |= 1/16 Lot | = 0.914 grams      |
+|1 Gran  |= 1/18 Lot | = 0.812 grams       |
+
+**England/United Kingdom of Great Britain (Troy Weight)**[^4]
+
+|        |            |                            |
+|--------|------------|----------------------------|
+| 1 pound| = 12 ounces (ozt.) | = 373.242 grams    |
+| 1 ounce| = 20 pennyweights (dwt.)| = 31.104 grams|
+| 1 pennyweight| = 24 grains (gr.) | = 1.555 grams |
+| 1 grain | = 0.065 grams |                        |
+
+**French Silver Weights Converted to Troy Ounces and to Metric**
+
+|        |            |                                |
+|--------|------------|--------------------------------|
+| 1 livre|= 15 ozt. 14 dwt. 18.240 gr. |= 489.506 grams|
+| 1 marc |= 7 ozt. 17 dwt. 9.116 gr. |= 244.753 grams  |
+| 1 once |= 19 dwt. 16.137 gr. |= 30.594 grams         |
+| 1 gros |= 2 dwt. 11.013 gr. |= 3.824 grams           |
+| 1 denier |= 19.676 gr. |= 1.275 grams                |
+| 1 grain |= 0.818 gr. |= 0.053 grams                  |
+
+The following sources summarize the essential literature from diverse fields of research: {% cite 'Borges et al. 2018' %}; {% cite 'Amussen and Long 2020' %}; and {% cite 'Bigelow 2020' %}, especially pp. 1–19, “Introduction: The Meaning of Metals.” The subject of silver is vast and multidisciplinary. References are provided on the natural element of silver; the historic processes of mining the metal above- and underground; artisanal/indigenous knowledge, the alchemy/science, technologies, and (generally exploitative) labor involved in its metallurgical extraction and refining from alloys and ores; the market demands and trade routes that brought supplies of bullion around the globe; and its minting into coin and the early modern economies powered by it.[^5]
+
+## II. Coinage and Currencies 1600s–1700s
+
+**France**
+
+|                  |                                  |
+|------------------|----------------------------------|
+|1 marc du louis d’or | = 24 livres tournois in 1726  |
+|1 écu d’argent |= 6 livres tournois in 1726          |
+|1 livre tournois |= 20 sols/sous                     |
+|1 sol/sou |= 12 deniers                              |
+|1 denier                                             |
+
+These monetary values were fixed until 1790. During this period, the cost of living increased in France while wages lagged in pace. A salaried skilled worker, such as an elite cabinetmaker (*ébéniste*), earned about 400 livres in the year 1726 compared to about 750 livres per year toward the end of the century.[^6] A few facts pertaining to the goldsmiths’ profession provide a relative sense of monetary values for the period: the sponsor’s security fee (*caution*) to support an applicant’s entry as master (*maître*) into the Parisian guild of goldsmiths (*les corps des marchands orfèvres-joailliers de la ville de Paris*) was 1,000 livres;[^7] the value in Paris for the weight unit of one silver marc (244.753 grams) fluctuated between 52 livres and 52 livres, 10 sous, from 1752 to 1765;[^8] and a book of plate and vessel designs in the latest fashion cost 24 livres in 1748.[^9]
+
+Select Regions of the Holy Roman Empire[^10]
+
+**Duchy of Mecklenburg-Schwerin**[^11]
+
+|                  |                                  |
+|------------------|----------------------------------|
+| 1 Reichs Thaler/Taler | = 90 Schillinge             |
+| 1 Reichs Thaler/Taler | = 24 Groschen               |
+| 1 Groschen | = 12 Pfennige                          |
+| 1 Pfennig                                           |
+
+**Electorate-Principality of Hanover**[^12]
+
+|                  |                      |
+|------------------|----------------------|
+| 1 Reichs Thaler/Taler | = 36 Groschen   |
+| 1 Groschen | = 8 Pfennige               |
+| 1 Pfennig                               |
+
+**England**
+
+|                  |                                                                                          |
+|------------------|------------------------------------------------------------------------------------------|
+| 1 guinea (gold)  | = 1 pound sterling silver + 1 shilling or 21 shillings (though the value fluctuated)[^13]|
+| 1 pound (note)   | = 20 shillings[^14]                                                                      |
+| 1 crown          | = 5 shillings                                                                            |
+| 1 shilling       | = 12 pence                                                                               |      
+| 1 penny                                                                                                     |
+
 {% backmatter %}
 
 ## Notes
@@ -19,7 +109,7 @@ layout: essay
 
 [^4]: One troy pound consists of twelve troy ounces (ozt.). James Rothwell, Decorative Arts Curator, National Trust of England, Wales, and Northern Ireland, noted that, in historic lists of English/British silver plate, silver bullion weights were rarely recorded down to the grain level. Typically, the pennyweight (dwt.) was rounded up or down accordingly. James Rothwell, email message to author, January 4, 2021.
 
-[^5]:
+[^5]: The following sources summarize the essential literature from diverse fields of research: {% cite 'Borges et al. 2018' %}; {% cite 'Amussen and Long 2020' %}; and {% cite 'Bigelow 2020' %}, especially pp. 1–19, “Introduction: The Meaning of Metals.”
 
 [^6]: {% cite 'Sgard 1982' %}, 425–26.
 
