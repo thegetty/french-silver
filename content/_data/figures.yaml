@@ -97,7 +97,7 @@ figure_list:
     alt: ""
 
   - id: "bio-4-1"
-    src: "figures/bio-4-1a.jpg"
+    src: "figures/bio-4-1.jpg"
     preset:
     label: "Bio 4.1"
     caption: "Simon Gallien (French, died 1757), *Sugar Caster* (*Sucrier à poudre*) (detail of maker’s mark), 1743–44. Silver, 18 × 11.7 cm (7 1/8 × 4 5/8 in.)."
