@@ -67,6 +67,6 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^16]: Gillian Wilson, letter to Beth Carver Wees, Associate Curator of Decorative Arts, Sterling and Francine Clark Art Institute, Williamstown, Massachusetts, February 9, 1988, in the object file for 78.DG.130.1–2, Sculpture and Decorative Arts Department, J. Paul Getty Museum. This gallery (number 224) was located in the second-floor corridor of the Villa.
 
-[^17]: J. Paul Getty Museum, inv. 81.DF.96.1–4, https://www.getty.edu/art/collection/object/103SGV#6437c4353e32f2095523414ef6743796c38ec76e.
+[^17]: J. Paul Getty Museum, inv. 81.DF.96.1–4, https://www.getty.edu/art/collection/object/103SGV.
 
 [^18]: {% cite 'Albainy 1999' %}.
