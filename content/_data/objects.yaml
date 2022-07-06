@@ -23,7 +23,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SH2
     figure:
     - id: "plate-1-1"
-    - id: "cat-1-2"
+    - id: "plate-1-2"
 
   - id: "02"
     title: "Lidded Bowl (*Écuelle couverte*)"
@@ -40,6 +40,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SCY
     figure:
     - id: "plate-2-1"
+    - id: "plate-2-2"
 
   - id: "03"
     title: "Pair of Tureens, Liners, and Stands (*Paire de terrines, doublures et plateaux*)"
@@ -81,9 +82,10 @@ object_list:
       - 88.DH.127.2.a (sugar caster lid)
       - 88.DH.127.2.b (sugar caster vessel)
       - 88.DH.127.2.c (Figure with base)
-    link: https://www.getty.edu/art/collection/object/103SMK  
+    link: https://www.getty.edu/art/collection/object/103SMK
     figure:
     - id: "plate-4-1"
+    - id: "plate-4-2"
 
   - id: "05"
     title: "Two Sugar Casters (*Deux sucriers à poudre*)"
