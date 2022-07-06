@@ -2220,3 +2220,13 @@ figure_list:
     caption: "Sauceboat on stand (cat. no. 9)."
     credit: ""
     alt: ""
+
+  - id: "table-1"
+    src: "tables/table-1.html"
+    media_type: table
+    label: "Table 1"
+
+  - id: "table-2"
+    src: "tables/table-2.html"
+    media_type: table
+    label: "Table 2"

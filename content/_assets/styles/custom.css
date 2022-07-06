@@ -189,3 +189,41 @@ Spectral Light
 .quire-page__content .container .content .footnotes li blockquote {
   margin-left: 1.5em;
 }
+
+/* TABLES
+============================================================================= */
+.headless-table thead {
+  display: none;
+}
+.headless-table tbody {
+  border-top: 1px solid hsl(0deg, 0%, 86%);
+}
+
+.quire-page__content .table-figure a {
+  color: #000000;
+}
+.quire-page__content .table-figure table caption {
+  font-size: .75rem;
+  margin-bottom: 1rem;
+}
+.quire-page__content .table-figure table#table-2 {
+  font-size: 0.75rem;
+}
+.quire-page__content .table-figure table#table-1 {
+  font-size: 0.625em;
+}
+.quire-page__content .table-figure .table-key {
+  font-size: 0.625em;
+  text-align: left;
+  margin-left: 0;
+}
+.quire-page__content .table-figure a:hover .table-key {
+  color: #000000;
+}
+.quire-page__content .table-figure .table-key dt {
+  float: left;
+  margin-right: .5rem;
+}
+.quire-page__content .table-figure .table-notes {
+  background-color: #e8e8e8;
+}
