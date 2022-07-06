@@ -56,7 +56,7 @@ entries:
     full: "Durand, Jannic, Michèle Bimbenet-Privat, Frédéric Dassas, eds. *Décors, mobilier et objets d’art du Musée du Louvre, de Louis XIV à Marie-Antoinette.* Paris: Louvre éditions; Somogy éditions d’art, 2014."
 
   - id: "Baudis 2019"
-    full: "Baudis, Macushla. “Tea Parties at the Museum: The Collector J H Fitzhenry and His Relationship with the V&A.” *V&A Online Journal* 2 (Autumn 2009)."
+    full: "Baudis, Macushla. “Tea Parties at the Museum: The Collector J H Fitzhenry and His Relationship with the V&A.” *V&A Online Journal* 2 (Autumn 2009). http://www.vam.ac.uk/content/journals/research-journal/issue-02/tea-parties-at-the-museum/."
 
   - id: "Ottomeyer and Völkel 2002"
     sort_as: "Ottomeyer and Volkel 2002"
@@ -111,7 +111,7 @@ entries:
     full: "Bremer-David, Charissa. “Of Cauliflower and Crayfish: Serving Vessels to Awaken the Palate.” In *The Edible Monument: The Art of Food for Festivals*, edited by Marcia Reed, 124–47. Exh. cat. Los Angeles: Getty Research Institute, 2015."
 
   - id: "Bremer-David et al. 1993"
-    full: "Bremer‑David, Charissa, with Peggy Fogelman, Peter Fusco, and Catherine Hess. *Decorative Arts: An Illustrated Summary Catalogue of the Collections of the J. Paul Getty Museum*. Malibu, CA: J. Paul Getty Museum, 1993."
+    full: "Bremer-David, Charissa, with Peggy Fogelman, Peter Fusco, and Catherine Hess. *Decorative Arts: An Illustrated Summary Catalogue of the Collections of the J. Paul Getty Museum*. Malibu, CA: J. Paul Getty Museum, 1993. http://www.getty.edu/publications/virtuallibrary/0892362219.html."
 
   - id: "Brice 1752"
     full: "Brice, Germain. *Description de la Ville de Paris et de tout ce qu’elle contient de plus remarquable, Nouvelle Edition*. Vol. 1. Paris: Chez le Libraires Associés: Le Mercier, Desaint & Saillant, Herissant, Durand, et Le Prieur, 1752."
@@ -152,7 +152,7 @@ entries:
 
   - id: "*Catalogue de tableaux précieux* 1776"
     sort_as: "Catalogue de tableaux precieux 1776"
-    full: "Remy, Pierre. *Catalogue de tableaux précieux, minatures et gouaches; Figures, Bustes ... qui composent le Cabinet de feu M. Blondel de Gagny*. Paris: Chez Musier, pere, December 10–24, 1776, and January 8–22, 1777."
+    full: "Remy, Pierre. *Catalogue de tableaux précieux, minatures et gouaches; Figures, Bustes ... qui composent le Cabinet de feu M. Blondel de Gagny*. Paris: Chez Musier, pere, December 10–24, 1776, and January 8–22, 1777. https://archive.org/details/cataloguedetable00remy."
 
   - id: "*Catalogue des livres* 1747"
     sort_as: "Catalogue des livres 1747"
@@ -178,7 +178,7 @@ entries:
     full: "Civitello, Linda. *Cuisine and Culture: A History of Food and People.* Hoboken, NJ: John Wiley, 2004."
 
   - id: "Clermont 1767"
-    full: "Clermont, Bernard. *The Art of Modern Cookery Displayed: Consisting of the Most Approved Methods of Cookery, Pastry, and Confectionary of the Present Time: Translated from [Menon] Les Soupers de la Cour, ou, La Cuisine Reformée, the Last and Most Complete Practice of Cookery Published in French.* Vol. 1. London: Printed for the Translator; sold by R. David, 1767."
+    full: "Clermont, Bernard. *The Art of Modern Cookery Displayed: Consisting of the Most Approved Methods of Cookery, Pastry, and Confectionary of the Present Time: Translated from [Menon] Les Soupers de la Cour, ou, La Cuisine Reformée, the Last and Most Complete Practice of Cookery Published in French.* Vol. 1. London: Printed for the Translator; sold by R. David, 1767. https://lccn.loc.gov/44050316."
 
   - id: "Clermont-Tonnerre 1914"
     full: "Clermont-Tonnerre, Élisabeth. *Histoire de Samuel Bernard et de ses enfants.* Paris: E. Champion, 1914."
@@ -202,10 +202,10 @@ entries:
     full: "Dennis, Faith. *Three Centuries of French Domestic Silver: Its Makers and Its Marks*. 2 vols. New York: Metropolitan Museum of Art, 1960."
 
   - id: "Diderot and Le Rond d’Alembert 1751–65"
-    full: "Diderot, Denis, and Jean Le Rond d’Alembert, eds. *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers.* 17 vols. Paris: Briasson et al., 1751–65."
+    full: "Diderot, Denis, and Jean Le Rond d’Alembert, eds. *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers.* 17 vols. Paris: Briasson et al., 1751–65. https://archive.org/details/gri_33125011156201."
 
   - id: "Diderot and Le Rond d’Alembert 1762–72"
-    full: "Diderot, Denis, and Jean Le Rond d’Alembert, eds. *Recueil des planches sur les sciences, des arts libéraux et les arts méchaniques, avec leurs explications.* 11 vols. Paris: Briasson et al., 1762–72."
+    full: "Diderot, Denis, and Jean Le Rond d’Alembert, eds. *Recueil des planches sur les sciences, des arts libéraux et les arts méchaniques, avec leurs explications.* 11 vols. Paris: Briasson et al., 1762–72. http://archive.org/details/gri_33125009324365."
 
   - id: "D’Orey 1991"
     full: "D’Orey, Léonor. *The Silver Service of the Portuguese Crown.* Lisbon: Ediçõs Inapa, [1991]."
@@ -273,7 +273,7 @@ entries:
     full: "Germain, François-Thomas. *Offres de concours à messieurs les orfèvres de Paris, par le Sr. Françoos-Thomas Germain … où l’on traite de l’orfèvrerie.* Paris: Dufour, n.d."
 
   - id: "Germain 1748"
-    full: "Germain, Pierre. *Elements d’orfèvrerie divisés en deux parties de cinquante feuilles chacune compose par Pierre Germain, Marchand Orfevre Joaillier.* 2 parts. Paris: Chez l’auteur, place du Carousel a l’Orfèvrerie du roy, 1748."
+    full: "Germain, Pierre. *Elements d’orfèvrerie divisés en deux parties de cinquante feuilles chacune compose par Pierre Germain, Marchand Orfevre Joaillier.* 2 parts. Paris: Chez l’auteur, place du Carousel a l’Orfèvrerie du roy, 1748. https://archive.org/details/elementsdorfevre00germ."
 
   - id: "Getty 1941"
     full: "Getty, J. Paul. *History of the Oil Business of George F. and J. Paul Getty 1903–1939*. [Los Angeles?]: J. P. Getty, 1941. <http://archives.getty.edu:30008/getty_images/digitalresources/gri_2833470.pdf>."
@@ -472,7 +472,7 @@ entries:
     full: "Massialot, François. *Nouvelle instruction pour les confitures, les liqueurs et les fruits* […]. Paris: Chez Charles de Sercy, au Palais, au sixième Pilier de la Grand Salle, vis-à-vis la Montee de la Cour des Aides, à la Bonne-Foi couronnée, 1692."
 
   - id: "Massialot 1729"
-    full: "Massialot, François (probable author). *Le nouveau cuisinier royal et bourgeois.* 2 vols. Paris: Chez Claude Prudhomme, 1729."
+    full: "Massialot, François (probable author). *Le nouveau cuisinier royal et bourgeois.* 2 vols. Paris: Chez Claude Prudhomme, 1729. https://archive.org/details/lenouveaucuisini01mass."
 
   - id: "Hunter-Stiebel 1990"
     full: "Hunter-Stiebel, Penelope. *Louis XV and Madame Pompadour: A Love Affair with Style.* Exh. cat. New York: Rosenberg & Stiebel, 1990."
@@ -482,7 +482,7 @@ entries:
     full: "Mendonça, Isabel Mayer Godinho. “As exéquias de D. Gaspar de Bragança na Sé de Braga (um desenho inédito de Carlos Amarante).” *Revista da Faculdade de Letras: Cięncias e Técnicas do Patrimônio* series I, vol. III (2004): 255–70."
 
   - id: "Menon 1742"
-    full: "Menon, Joseph. *La nouvelle cuisine avec de nouveaux menus pour chaque saison de l’année* […]. Vol. 3. Paris: Chez la veuve Prudhomme, chez Joseph Saugrain, 1742."
+    full: "Menon, Joseph. *La nouvelle cuisine avec de nouveaux menus pour chaque saison de l’année* […]. Vol. 3. Paris: Chez la veuve Prudhomme, chez Joseph Saugrain, 1742. https://www.digitale-sammlungen.de/view/bsb10299316."
 
   - id: "Michael 2016"
     full: "Michael, Thomas. “Electorate of Hannover.” In *Standard Catalog of World Coins, 1701–1800*, 343–66. Iola, WI: Krause Publications, 2016."
@@ -815,7 +815,7 @@ entries:
     full: "Wilson, Gillian. “The Kedleston Fountain, Its Development from a Seventeenth-Century Vase.” *The J. Paul Getty Museum Journal* 11 (1983): 1–12."
 
   - id: "Wilson and Hess 2001"
-    full: "Wilson, Gillian, and Catherine Hess. *Summary Catalogue of European Decorative Arts in the J. Paul Getty Museum.* Los Angeles: J. Paul Getty Museum, 2001."
+    full: "Wilson, Gillian, and Catherine Hess. *Summary Catalogue of European Decorative Arts in the J. Paul Getty Museum.* Los Angeles: J. Paul Getty Museum, 2001. http://www.getty.edu/publications/virtuallibrary/089236632X.html."
 
   - id: "Wilson, Sassoon, and Bremer-David 1983"
     full: "Wilson, Gillian, Adrian Sassoon, and Charissa Bremer-David. “Acquisitions Made by the Department of Decorative Arts in 1982.” *The J. Paul Getty Museum Journal* 11 (1983): 13–66."
