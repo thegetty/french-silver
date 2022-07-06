@@ -192,6 +192,13 @@ Spectral Light
 
 /* TABLES
 ============================================================================= */
+.headless-table thead {
+  display: none;
+}
+.headless-table tbody {
+  border-top: 1px solid hsl(0deg, 0%, 86%);
+}
+
 .quire-page__content .table-figure a {
   color: #000000;
 }

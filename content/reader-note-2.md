@@ -7,7 +7,7 @@ layout: essay
 
 ## I. Silver Weights 1600s–1700s, with Conversion to Metric[^1]
 
-**France**[^2]
+### France[^2]
 
 |        |            |                |
 |--------|------------|----------------|
@@ -18,7 +18,9 @@ layout: essay
 |1 denier| = 24 grains| = 1.275 grams  |
 |1 grain | = 0.053 grams|              |
 
-**Electorates and Principalities of the Holy Roman Empire (Cologne Standard)**[^3]
+{.headless-table}
+
+### Electorates and Principalities of the Holy Roman Empire (Cologne Standard)[^3]
 
 |        |            |                    |
 |--------|------------|--------------------|
@@ -30,7 +32,9 @@ layout: essay
 |1 Pfenni |= 1/16 Lot | = 0.914 grams      |
 |1 Gran  |= 1/18 Lot | = 0.812 grams       |
 
-**England/United Kingdom of Great Britain (Troy Weight)**[^4]
+{.headless-table}
+
+### England/United Kingdom of Great Britain (Troy Weight)[^4]
 
 |        |            |                            |
 |--------|------------|----------------------------|
@@ -39,7 +43,9 @@ layout: essay
 | 1 pennyweight| = 24 grains (gr.) | = 1.555 grams |
 | 1 grain | = 0.065 grams |                        |
 
-**French Silver Weights Converted to Troy Ounces and to Metric**
+{.headless-table}
+
+### French Silver Weights Converted to Troy Ounces and to Metric
 
 |        |            |                                |
 |--------|------------|--------------------------------|
@@ -50,11 +56,13 @@ layout: essay
 | 1 denier |= 19.676 gr. |= 1.275 grams                |
 | 1 grain |= 0.818 gr. |= 0.053 grams                  |
 
-The following sources summarize the essential literature from diverse fields of research: {% cite 'Borges et al. 2018' %}; {% cite 'Amussen and Long 2020' %}; and {% cite 'Bigelow 2020' %}, especially pp. 1–19, “Introduction: The Meaning of Metals.” The subject of silver is vast and multidisciplinary. References are provided on the natural element of silver; the historic processes of mining the metal above- and underground; artisanal/indigenous knowledge, the alchemy/science, technologies, and (generally exploitative) labor involved in its metallurgical extraction and refining from alloys and ores; the market demands and trade routes that brought supplies of bullion around the globe; and its minting into coin and the early modern economies powered by it.[^5]
+{.headless-table}
+
+The subject of silver is vast and multidisciplinary. References are provided on the natural element of silver; the historic processes of mining the metal above- and underground; artisanal/indigenous knowledge, the alchemy/science, technologies, and (generally exploitative) labor involved in its metallurgical extraction and refining from alloys and ores; the market demands and trade routes that brought supplies of bullion around the globe; and its minting into coin and the early modern economies powered by it.[^5]
 
 ## II. Coinage and Currencies 1600s–1700s
 
-**France**
+### France
 
 |                  |                                  |
 |------------------|----------------------------------|
@@ -64,11 +72,13 @@ The following sources summarize the essential literature from diverse fields of 
 |1 sol/sou |= 12 deniers                              |
 |1 denier                                             |
 
+{.headless-table}
+
 These monetary values were fixed until 1790. During this period, the cost of living increased in France while wages lagged in pace. A salaried skilled worker, such as an elite cabinetmaker (*ébéniste*), earned about 400 livres in the year 1726 compared to about 750 livres per year toward the end of the century.[^6] A few facts pertaining to the goldsmiths’ profession provide a relative sense of monetary values for the period: the sponsor’s security fee (*caution*) to support an applicant’s entry as master (*maître*) into the Parisian guild of goldsmiths (*les corps des marchands orfèvres-joailliers de la ville de Paris*) was 1,000 livres;[^7] the value in Paris for the weight unit of one silver marc (244.753 grams) fluctuated between 52 livres and 52 livres, 10 sous, from 1752 to 1765;[^8] and a book of plate and vessel designs in the latest fashion cost 24 livres in 1748.[^9]
 
-Select Regions of the Holy Roman Empire[^10]
+### Select Regions of the Holy Roman Empire[^10]
 
-**Duchy of Mecklenburg-Schwerin**[^11]
+#### Duchy of Mecklenburg-Schwerin[^11]
 
 |                  |                                  |
 |------------------|----------------------------------|
@@ -77,7 +87,9 @@ Select Regions of the Holy Roman Empire[^10]
 | 1 Groschen | = 12 Pfennige                          |
 | 1 Pfennig                                           |
 
-**Electorate-Principality of Hanover**[^12]
+{.headless-table}
+
+#### Electorate-Principality of Hanover[^12]
 
 |                  |                      |
 |------------------|----------------------|
@@ -85,15 +97,19 @@ Select Regions of the Holy Roman Empire[^10]
 | 1 Groschen | = 8 Pfennige               |
 | 1 Pfennig                               |
 
-**England**
+{.headless-table}
 
-|                  |                                                                                          |
-|------------------|------------------------------------------------------------------------------------------|
-| 1 guinea (gold)  | = 1 pound sterling silver + 1 shilling or 21 shillings (though the value fluctuated)[^13]|
-| 1 pound (note)   | = 20 shillings[^14]                                                                      |
-| 1 crown          | = 5 shillings                                                                            |
-| 1 shilling       | = 12 pence                                                                               |      
-| 1 penny                                                                                                     |
+### England
+
+|                  |          |
+|------------------|----------|
+| 1 guinea (gold)  | = 1 pound sterling silver + 1 shilling or 21 shillings (though the value fluctuated)[^13] |
+| 1 pound (note)   | = 20 shillings[^14] |
+| 1 crown          | = 5 shillings |
+| 1 shilling       | = 12 pence |
+| 1 penny                     |
+
+{.headless-table}
 
 {% backmatter %}
 
