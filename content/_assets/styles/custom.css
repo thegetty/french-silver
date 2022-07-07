@@ -296,3 +296,21 @@ Spectral Light
     column-gap: 0.1875in;
   }
 }
+
+/* PDF
+============================================================================= */
+@media print {
+  .quire-contents-list .menu-list .section-item ol a {
+    font-size: 8.5pt;
+    line-height: 1.6;
+  }
+
+  /* .quire-page__content__references {
+    column-count: 2;
+    column-gap: 0.1875in;
+  } */
+  .quire-page__content__references dl {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

@@ -2,7 +2,7 @@
 title: Appendix
 subtitle: Silver Alloy Analysis by X-ray Fluorescence Spectroscopy
 order: 210
-layout: page
+layout: essay
 contributor:
   - id: jchasen
   - id: aheginbotham

@@ -1,6 +1,6 @@
 ---
 title: Maker Biographies
-layout: page
+layout: essay
 order: 200
 ---
 
