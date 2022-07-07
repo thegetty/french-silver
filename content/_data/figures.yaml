@@ -2082,7 +2082,7 @@ figure_list:
 
   - id: "mark-8-1"
     src: "figures/mark-8-1.jpg"
-    preset: zoom
+    # preset: zoom
     label: "Mark 8.1"
     caption: "*La machine d’argent* (2005.43), detail of the partially struck maker’s mark (consisting of the initials “F.T.G.”), and a warden’s mark (a crowned *O*."
     credit: ""

@@ -171,6 +171,13 @@ Spectral Light
   height: 0;
   margin-top: -1.65rem;
 }
+/* Adjust display of Marks in figure groups so all are equal width */
+.q-figure--group__row {
+  justify-content: flex-start;
+}
+.q-figure.column.q-figure--group__item.quire-grid--3 {
+  max-width: 33%;
+}
 
 /* BLOCKQUOTES
 ============================================================================= */
