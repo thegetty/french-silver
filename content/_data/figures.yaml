@@ -1,5 +1,8 @@
 figure_list:
 
+  # src: "figures/placeholder.jpg"
+  # USED IN INSTANCES WHEN IMAGE HAS NOT BEEN RECEIVED
+
   - id: "armorial-1-1"
     src: "figures/armorial-1-1.jpg"
     # preset: zoom
@@ -153,7 +156,7 @@ figure_list:
     alt: ""
 
   - id: "cat-1-10"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 1.10"
@@ -314,7 +317,7 @@ figure_list:
     alt: ""
 
   - id: "cat-2-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 2.3"
     caption: "Lid (71.DG.77.a), X-radiograph showing the female profile that may have been separately cast and soldered on the spool-shaped knob."
@@ -362,7 +365,7 @@ figure_list:
     alt: ""
 
   - id: "cat-3-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 3.3"
     caption: "Tureen (82.DG.12.1.b), X-radiograph showing separately cast parts attached to the body with pins and solder."
@@ -539,7 +542,7 @@ figure_list:
     alt: ""
 
   - id: "cat-6-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 6.4"
@@ -548,7 +551,7 @@ figure_list:
     alt: ""
 
   - id: "cat-6-5"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 6.5"
     caption: "Tureen (82.DG.13.1.c), X-radiograph showing a curved handle projecting from addorsed C curves on the vessel."
@@ -604,7 +607,7 @@ figure_list:
     alt: ""
 
   - id: "cat-8-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 8.4"
@@ -645,7 +648,7 @@ figure_list:
     alt: ""
 
   - id: "cat-9-2"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 9.2"
@@ -782,7 +785,7 @@ figure_list:
     alt: ""
 
   - id: "fig-1-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 1.4"
     caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”* (detail), 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
@@ -814,7 +817,7 @@ figure_list:
     alt: ""
 
   - id: "fig-1-8"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 1.8"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
@@ -974,7 +977,7 @@ figure_list:
     alt: ""
 
   - id: "fig-5-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 5.3"
     caption: "Nicolas Besnier (French, 1686–1754), *Pair of Sugar Casters* (*Paire de sucriers à poudre*), 1728–29. Silver, H: 25.4 cm each (10 in.)."
@@ -1006,7 +1009,7 @@ figure_list:
     alt: ""
 
   - id: "fig-6-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 6.3"
     caption: "Unknown goldsmith, *Salver on Stand* (detail of armorial), 1550–1600 and 1700–1725, with armorial added by 1755. Gilded silver, 21.2 × 31.2 cm (8 2/5 × 12 1/4 in.)."
@@ -1134,7 +1137,7 @@ figure_list:
     alt: ""
 
   - id: "inscription-10-2"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Inscription 10.2"
     caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral."
