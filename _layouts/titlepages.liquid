@@ -1,0 +1,46 @@
+---
+layout: base.11ty.js
+description: PDF title pages template
+---
+
+<div id="main" class="quire-cover" role="main">
+
+<div class="half-title-page">
+  {% if publication.title %}
+  <span class="title-htp">
+    {{ publication.title }}
+  </span>
+  {% endif %}
+</div>
+<div class="fullPageBreak"></div>
+<div class="title-page">
+  {% if publication.title %}
+  <span class="title-tp">
+    {{ publication.title }}
+  </span><br />
+  {% endif %}
+  {% if publication.subtitle %}
+  <span class="sub-title">
+    {{ publication.subtitle }}
+  </span><br />
+  {% endif %}
+  <span class="contributor">
+    {% if publication.contributor_as_it_appears %}
+      {{ publication.contributor_as_it_appears | markdownify }}
+    {% else %}
+      {% contributors context=publicationContributors, format='string', type='primary' %}
+    {% endif %}
+  </span><br />
+  {% if publication.additional_contributors %}
+  <span class="contributor additional-contributors">
+    {{ publication.additional_contributors }}
+  </span><br />
+  {% endif %}
+  <span class="publisher">
+  {% for publisher in publication.publisher %}
+    {{ publisher.name }}, {{ publisher.location }}
+  {% endfor %}
+  </span>
+</div>
+
+</div>

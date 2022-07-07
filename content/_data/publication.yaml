@@ -47,6 +47,8 @@ publisher:
 
 contributor_as_it_appears:
 
+additional_contributors: "With technical contributions by Jessica&#160;Chasen, Arlen&#160;Heginbotham, and Julie&#160;Wolfe"
+
 contributor:
   - id: cbremer
     type: primary

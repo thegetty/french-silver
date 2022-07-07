@@ -7,10 +7,10 @@ toc: false
 image: figures/plate-3-1.jpg
 ---
 
+{% if publication.additional_contributors %}
 <div class="cover-authors">
-
-With technical contributions by Jessica Chasen, Arlen Heginbotham, and Julie Wolfe
-
+  {{ publication.additional_contributors }}
 </div>
+{% endif %}
 
 {{ publication.description.full }}

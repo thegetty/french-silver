@@ -249,6 +249,11 @@ Spectral Light
 .quire-page__content .table-figure .table-notes {
   background-color: #e8e8e8;
 }
+@media print {
+  .quire-page__content .table-figure {
+    column-span: all;
+  }
+}
 
 /* FOOTNOTES
 ============================================================================= */
@@ -300,17 +305,25 @@ Spectral Light
 /* PDF
 ============================================================================= */
 @media print {
+  /* Fix font size on sub-section items */
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 8.5pt;
     line-height: 1.6;
   }
-
-  /* .quire-page__content__references {
-    column-count: 2;
-    column-gap: 0.1875in;
-  } */
-  .quire-page__content__references dl {
-    break-inside: avoid;
-    page-break-inside: avoid;
+  /* Fix page breaks within biblios */
+  .quire-page__content__references dt {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+  /* Hide catalogue grid */
+  .quire-contents-list.grid {
+    display: none;
+  }
+  /* Make main author more visually prominent */
+  .title-page .contributor {
+    font-weight: 700;
+  }
+  .title-page .contributor.additional-contributors {
+    font-weight: 400;
   }
 }
