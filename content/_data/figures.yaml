@@ -1,5 +1,8 @@
 figure_list:
 
+  # src: "figures/placeholder.jpg"
+  # USED IN INSTANCES WHEN IMAGE HAS NOT BEEN RECEIVED
+
   - id: "armorial-1-1"
     src: "figures/armorial-1-1.jpg"
     # preset: zoom
@@ -153,7 +156,7 @@ figure_list:
     alt: ""
 
   - id: "cat-1-10"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 1.10"
@@ -314,7 +317,7 @@ figure_list:
     alt: ""
 
   - id: "cat-2-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 2.3"
     caption: "Lid (71.DG.77.a), X-radiograph showing the female profile that may have been separately cast and soldered on the spool-shaped knob."
@@ -362,7 +365,7 @@ figure_list:
     alt: ""
 
   - id: "cat-3-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 3.3"
     caption: "Tureen (82.DG.12.1.b), X-radiograph showing separately cast parts attached to the body with pins and solder."
@@ -539,7 +542,7 @@ figure_list:
     alt: ""
 
   - id: "cat-6-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 6.4"
@@ -548,7 +551,7 @@ figure_list:
     alt: ""
 
   - id: "cat-6-5"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 6.5"
     caption: "Tureen (82.DG.13.1.c), X-radiograph showing a curved handle projecting from addorsed C curves on the vessel."
@@ -604,7 +607,7 @@ figure_list:
     alt: ""
 
   - id: "cat-8-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 8.4"
@@ -645,7 +648,7 @@ figure_list:
     alt: ""
 
   - id: "cat-9-2"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     media_type: axial
     label: "Cat. 9.2"
@@ -782,7 +785,7 @@ figure_list:
     alt: ""
 
   - id: "fig-1-4"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 1.4"
     caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”* (detail), 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
@@ -814,7 +817,7 @@ figure_list:
     alt: ""
 
   - id: "fig-1-8"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 1.8"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
@@ -974,7 +977,7 @@ figure_list:
     alt: ""
 
   - id: "fig-5-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 5.3"
     caption: "Nicolas Besnier (French, 1686–1754), *Pair of Sugar Casters* (*Paire de sucriers à poudre*), 1728–29. Silver, H: 25.4 cm each (10 in.)."
@@ -1006,7 +1009,7 @@ figure_list:
     alt: ""
 
   - id: "fig-6-3"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 6.3"
     caption: "Unknown goldsmith, *Salver on Stand* (detail of armorial), 1550–1600 and 1700–1725, with armorial added by 1755. Gilded silver, 21.2 × 31.2 cm (8 2/5 × 12 1/4 in.)."
@@ -1134,7 +1137,7 @@ figure_list:
     alt: ""
 
   - id: "inscription-10-2"
-    src: ""
+    src: "figures/placeholder.jpg"
     preset:
     label: "Inscription 10.2"
     caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral."
@@ -1463,7 +1466,7 @@ figure_list:
 
   - id: "mark-2-1"
     src: "figures/mark-2-1.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 2.1"
     caption: "Lid (71.DG.77.a), detail of a partially struck maker’s mark, with a crowned fleur-de-lys."
     credit: ""
@@ -1511,7 +1514,7 @@ figure_list:
 
   - id: "mark-2-7"
     src: "figures/mark-2-7.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 2.7"
     caption: "Bowl (71.DG.77.b), detail of the handle (with a male profile), with the maker’s mark, consisting of the initials “L.C.”"
     credit: ""
@@ -1751,7 +1754,7 @@ figure_list:
 
   - id: "mark-4-3"
     src: "figures/mark-4-3.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.3"
     caption: "Lid (88.DH.127.1.a), detail of a discharge mark, a fox head."
     credit: ""
@@ -1759,7 +1762,7 @@ figure_list:
 
   - id: "mark-4-4"
     src: "figures/mark-4-4.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.4"
     caption: "Lid (88.DH.127.1.a), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1791,7 +1794,7 @@ figure_list:
 
   - id: "mark-4-8"
     src: "figures/mark-4-8.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.8"
     caption: "Vessel (88.DH.127.1.b), detail of a discharge mark, a fox head."
     credit: ""
@@ -1799,7 +1802,7 @@ figure_list:
 
   - id: "mark-4-9"
     src: "figures/mark-4-9.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.9"
     caption: "Vessel (88.DH.127.1.b), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1847,7 +1850,7 @@ figure_list:
 
   - id: "mark-5-14"
     src: "figures/mark-5-14.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.14"
     caption: "Vessel (84.DG.744.2.b), detail of interior with a charge mark, a crowned *A* with two entwined palm branches."
     credit: ""
@@ -1855,7 +1858,7 @@ figure_list:
 
   - id: "mark-5-2"
     src: "figures/mark-5-2.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.2"
     caption: "Lid (84.DG.744.1.a), detail of one catch-latch with a countermark, a fly."
     credit: ""
@@ -1863,7 +1866,7 @@ figure_list:
 
   - id: "mark-5-3"
     src: "figures/mark-5-3.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.3"
     caption: "Lid (84.DG.744.1.a), detail of exterior rim, with a standard mark, an ax."
     credit: ""
@@ -1887,7 +1890,7 @@ figure_list:
 
   - id: "mark-5-6"
     src: "figures/mark-5-6.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.6"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with two countermarks: a fly and an open right hand."
     credit: ""
@@ -1895,7 +1898,7 @@ figure_list:
 
   - id: "mark-5-7"
     src: "figures/mark-5-7.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.7"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, possibly a salmon head or a duck head."
     credit: ""
@@ -1903,7 +1906,7 @@ figure_list:
 
   - id: "mark-5-8"
     src: "figures/mark-5-8.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.8"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, a laurel leaf."
     credit: ""
@@ -2039,7 +2042,7 @@ figure_list:
 
   - id: "mark-7-2"
     src: "figures/mark-7-2.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 7.2"
     caption: "Tray (71.DG.78), detail of a warden’s mark, a crowned *K*."
     credit: ""
@@ -2071,7 +2074,7 @@ figure_list:
 
   - id: "mark-7-6"
     src: "figures/mark-7-6.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 7.6"
     caption: "Tray (71.DG.78), detail of a standard mark, a swan in an oval."
     credit: ""

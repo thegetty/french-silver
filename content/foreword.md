@@ -1,7 +1,7 @@
 ---
 title: Foreword
 order: 4
-layout: essay
+layout: page
 contributor:
   - first_name: Timothy
     last_name: Potts

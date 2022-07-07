@@ -1,20 +1,33 @@
 ---
 title: Copyright
-layout: page
+layout: copyright
 order: 2
 toc: false
-outputs: [pdf, epub]
+#outputs: [pdf, epub]
 ---
 
 {% backmatter %}
 
 This publication was created using Quire™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at getty.edu/publications/french-silver/ and includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
+The free online edition of this open-access publication is available at getty.edu/publications/french-silver/ and includes zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book.
 
 © 2023 J. Paul Getty Trust
 
-![cc-by-nc](/img/cc-by-nc--black.png)
+<svg class="quire-copyright__icon">
+<switch>
+  <use xlink:href="#cc"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by"></use>
+</switch>
+<switch>
+  <use xlink:href="#cc-by-nc"></use>
+  <foreignObject width="135" height="30">
+      <img src="../img/icons/cc-by-nc.png" alt="CC BY-NC" />
+  </foreignObject>
+</switch>
+</svg>
 
 Unless otherwise indicated, the text and images of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -39,7 +52,7 @@ Distributed in the United States and Canada by the University of Chicago Press
 
 Distributed outside the United States and Canada by Yale University Press, London
 
-
+<div class="cip-data">
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -54,7 +67,7 @@ Library of Congress Cataloging-in-Publication Data
 - LC record available at
 - LC ebook record available at
 
-
+</div>
 
 Front cover:
 Back cover:

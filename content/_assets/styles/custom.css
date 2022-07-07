@@ -119,20 +119,25 @@ Spectral Light
 /* HEADINGS
 ============================================================================= */
 .quire-entry h2,
+.quire-essay h2,
 .quire-page h2 {
+  font-size: 1.3125rem;
   text-transform: uppercase;
 }
 .quire-entry h3,
+.quire-essay h3,
 .quire-page h3 {
   font-size: 1.3125rem;
   font-style: normal;
 }
 .quire-entry h4,
+.quire-essay h4,
 .quire-page h4 {
   font-size: 1.3125rem;
   font-style: italic;
 }
 .quire-entry h5,
+.quire-essay h5,
 .quire-page h5 {
   font-size: 1rem;
   font-style: normal;
@@ -141,6 +146,7 @@ Spectral Light
   letter-spacing: .5px;
 }
 .quire-entry h6,
+.quire-essay h6,
 .quire-page h6 {
   font-size: 1rem;
   font-weight: 700;
@@ -164,6 +170,17 @@ Spectral Light
 .q-figure__label--below .q-figure__label-icon {
   height: 0;
   margin-top: -1.65rem;
+}
+/* Adjust display of Marks in figure groups so all are equal width */
+.q-figure--group__row {
+  justify-content: flex-start;
+}
+.q-figure.column.q-figure--group__item.quire-grid--3 {
+  max-width: 33%;
+}
+/* And for Inscriptions */
+.q-figure.column.q-figure--group__item.quire-grid--2 {
+  max-width: 49%;
 }
 
 /* BLOCKQUOTES
@@ -199,6 +216,11 @@ Spectral Light
   border-top: 1px solid hsl(0deg, 0%, 86%);
 }
 
+.quire-page__content .container .content .table-figure table td,
+.quire-page__content .container .content .table-figure table th {
+  text-align: left;
+}
+
 .quire-page__content .table-figure a {
   color: #000000;
 }
@@ -226,4 +248,69 @@ Spectral Light
 }
 .quire-page__content .table-figure .table-notes {
   background-color: #e8e8e8;
+}
+
+/* FOOTNOTES
+============================================================================= */
+.quire-page__content .container .content .footnotes {
+  padding-right: 0;
+}
+
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+/* Format copyright page layout */
+@media print {
+  .quire-copyright,
+  .quire-copyright .quire-page__content,
+  .quire-copyright .quire-page__content .container,
+  .quire-copyright .quire-page__content .container .content {
+    max-width: 100%;
+    padding: 0;
+    width: 100%;
+  }
+  .quire-copyright .quire-page__content .container .content .backmatter {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 0.1875in;
+  }
+}
+
+/* PDF
+============================================================================= */
+@media print {
+  .quire-contents-list .menu-list .section-item ol a {
+    font-size: 8.5pt;
+    line-height: 1.6;
+  }
+
+  /* .quire-page__content__references {
+    column-count: 2;
+    column-gap: 0.1875in;
+  } */
+  .quire-page__content__references dl {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
 }
