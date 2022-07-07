@@ -259,6 +259,10 @@ Spectral Light
 /* ABOUT & COPYRIGHT PAGES
 ============================================================================= */
 /* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
 .quire-page__content .container .content .cip-data p {
   margin-bottom: 0;
 }
@@ -275,4 +279,20 @@ Spectral Light
 }
 .quire-page__content .container .content .cip-data ul li::before {
   display: none;
+}
+/* Format copyright page layout */
+@media print {
+  .quire-copyright,
+  .quire-copyright .quire-page__content,
+  .quire-copyright .quire-page__content .container,
+  .quire-copyright .quire-page__content .container .content {
+    max-width: 100%;
+    padding: 0;
+    width: 100%;
+  }
+  .quire-copyright .quire-page__content .container .content .backmatter {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 0.1875in;
+  }
 }

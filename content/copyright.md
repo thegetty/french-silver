@@ -1,6 +1,6 @@
 ---
 title: Copyright
-layout: page
+layout: copyright
 order: 2
 toc: false
 #outputs: [pdf, epub]
