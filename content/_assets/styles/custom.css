@@ -199,6 +199,11 @@ Spectral Light
   border-top: 1px solid hsl(0deg, 0%, 86%);
 }
 
+.quire-page__content .container .content .table-figure table td,
+.quire-page__content .container .content .table-figure table th {
+  text-align: left;
+}
+
 .quire-page__content .table-figure a {
   color: #000000;
 }
@@ -226,4 +231,10 @@ Spectral Light
 }
 .quire-page__content .table-figure .table-notes {
   background-color: #e8e8e8;
+}
+
+/* FOOTNOTES
+============================================================================= */
+.quire-page__content .container .content .footnotes {
+  padding-right: 0;
 }
