@@ -55,3 +55,20 @@ nvm install 16.15.0
 
 5. To choose/change a Node version to run use `nvm use 14` or `nvm use 16`. This will be the version used for as long as that Terminal window is open, or until you change it again.
 
+## Creating a PDF Version
+
+While the paged.js work is ongoing, a PDF of French Silver can be created with PrinceXML on the command line.
+
+1. Comment out `outputs: [pdf, epub]` from both `content/copyright.md` and `content/title-pages.md`, so that these pages will appear online.
+
+2. Run `npm run dev` to see the preview.
+
+3. With the preview running, run this command in another Terminal window.
+
+    ```
+    prince http://localhost:8080/ http://localhost:8080/title-pages/ http://localhost:8080/copyright/ http://localhost:8080/contents/ http://localhost:8080/foreword/ http://localhost:8080/acknowledgments/ http://localhost:8080/intro/ http://localhost:8080/reader-note-1/ http://localhost:8080/reader-note-2/ http://localhost:8080/catalogue/ http://localhost:8080/catalogue/1/ http://localhost:8080/catalogue/2/ http://localhost:8080/catalogue/3/ http://localhost:8080/catalogue/4/ http://localhost:8080/catalogue/5/ http://localhost:8080/catalogue/6/ http://localhost:8080/catalogue/7/ http://localhost:8080/catalogue/8/ http://localhost:8080/catalogue/9/ http://localhost:8080/catalogue/10/ http://localhost:8080/makers/ http://localhost:8080/appendix/ http://localhost:8080/bibliography/ http://localhost:8080/authors/ --style=bin/application.css --style=content/_assets/styles/custom.css -o output.pdf
+    ```
+
+(Note that `bin/application.css`) is a static output of the SCSS styles in `content/_assets/styles/`. So changes to those files would necessitate manual changes be made to `bin/application.css` to keep them aligned.
+
+First pages was created using Prince 14.2.
