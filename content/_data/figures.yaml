@@ -1463,7 +1463,7 @@ figure_list:
 
   - id: "mark-2-1"
     src: "figures/mark-2-1.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 2.1"
     caption: "Lid (71.DG.77.a), detail of a partially struck maker’s mark, with a crowned fleur-de-lys."
     credit: ""
@@ -1511,7 +1511,7 @@ figure_list:
 
   - id: "mark-2-7"
     src: "figures/mark-2-7.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 2.7"
     caption: "Bowl (71.DG.77.b), detail of the handle (with a male profile), with the maker’s mark, consisting of the initials “L.C.”"
     credit: ""
@@ -1751,7 +1751,7 @@ figure_list:
 
   - id: "mark-4-3"
     src: "figures/mark-4-3.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.3"
     caption: "Lid (88.DH.127.1.a), detail of a discharge mark, a fox head."
     credit: ""
@@ -1759,7 +1759,7 @@ figure_list:
 
   - id: "mark-4-4"
     src: "figures/mark-4-4.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.4"
     caption: "Lid (88.DH.127.1.a), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1791,7 +1791,7 @@ figure_list:
 
   - id: "mark-4-8"
     src: "figures/mark-4-8.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.8"
     caption: "Vessel (88.DH.127.1.b), detail of a discharge mark, a fox head."
     credit: ""
@@ -1799,7 +1799,7 @@ figure_list:
 
   - id: "mark-4-9"
     src: "figures/mark-4-9.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 4.9"
     caption: "Vessel (88.DH.127.1.b), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1847,7 +1847,7 @@ figure_list:
 
   - id: "mark-5-14"
     src: "figures/mark-5-14.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.14"
     caption: "Vessel (84.DG.744.2.b), detail of interior with a charge mark, a crowned *A* with two entwined palm branches."
     credit: ""
@@ -1855,7 +1855,7 @@ figure_list:
 
   - id: "mark-5-2"
     src: "figures/mark-5-2.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.2"
     caption: "Lid (84.DG.744.1.a), detail of one catch-latch with a countermark, a fly."
     credit: ""
@@ -1863,7 +1863,7 @@ figure_list:
 
   - id: "mark-5-3"
     src: "figures/mark-5-3.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.3"
     caption: "Lid (84.DG.744.1.a), detail of exterior rim, with a standard mark, an ax."
     credit: ""
@@ -1887,7 +1887,7 @@ figure_list:
 
   - id: "mark-5-6"
     src: "figures/mark-5-6.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.6"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with two countermarks: a fly and an open right hand."
     credit: ""
@@ -1895,7 +1895,7 @@ figure_list:
 
   - id: "mark-5-7"
     src: "figures/mark-5-7.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.7"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, possibly a salmon head or a duck head."
     credit: ""
@@ -1903,7 +1903,7 @@ figure_list:
 
   - id: "mark-5-8"
     src: "figures/mark-5-8.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 5.8"
     caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, a laurel leaf."
     credit: ""
@@ -2039,7 +2039,7 @@ figure_list:
 
   - id: "mark-7-2"
     src: "figures/mark-7-2.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 7.2"
     caption: "Tray (71.DG.78), detail of a warden’s mark, a crowned *K*."
     credit: ""
@@ -2071,7 +2071,7 @@ figure_list:
 
   - id: "mark-7-6"
     src: "figures/mark-7-6.jpg"
-    # preset: zoom
+    preset:
     label: "Mark 7.6"
     caption: "Tray (71.DG.78), detail of a standard mark, a swan in an oval."
     credit: ""
@@ -2079,7 +2079,7 @@ figure_list:
 
   - id: "mark-8-1"
     src: "figures/mark-8-1.jpg"
-    # preset: zoom
+    preset: zoom
     label: "Mark 8.1"
     caption: "*La machine d’argent* (2005.43), detail of the partially struck maker’s mark (consisting of the initials “F.T.G.”), and a warden’s mark (a crowned *O*."
     credit: ""
