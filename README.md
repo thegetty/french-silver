@@ -72,3 +72,20 @@ While the paged.js work is ongoing, a PDF of French Silver can be created with P
 (Note that `bin/application.css`) is a static output of the SCSS styles in `content/_assets/styles/`. So changes to those files would necessitate manual changes be made to `bin/application.css` to keep them aligned.
 
 First pages was created using Prince 14.2.
+
+## Customizations Made to 11ty Templates/Files
+
+**_layouts/entry.liquid**
+Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
+
+**content/_assets/styles/components/q-figure.scss**
+Adjusted SCSS for classic theme figure styles.
+
+**_layouts/copyright.liquid**
+New layout, removes header, makes two column.
+
+**_layouts/bibliography.liquid**
+Pointed it to layout: essay, rather than layout: page so that it would be two-column in PDF.
+
+**_layouts/titlepages.liquid**
+New layout to add half and full title pages to PDF.
