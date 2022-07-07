@@ -3,7 +3,7 @@ title: Copyright
 layout: copyright
 order: 2
 toc: false
-#outputs: [pdf, epub]
+outputs: [pdf, epub]
 ---
 
 {% backmatter %}
