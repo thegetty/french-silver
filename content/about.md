@@ -76,7 +76,7 @@ Victoria Gallina, *Production*
 Nancy Rivera, *Image and Rights Acquisition*
 Erin Cecele Dunigan and Dina Murokh, *Digital Assistants*
 
-
+<div class="cip-data">
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -91,7 +91,7 @@ Library of Congress Cataloging-in-Publication Data
 - LC record available at
 - LC ebook record available at
 
-
+</div>
 
 Front cover:
 Back cover:
