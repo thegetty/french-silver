@@ -50,8 +50,8 @@ object_list:
     place_date: "Paris, 1726, 1728–29, armorials added 1764"
     medium: "Silver"
     dimensions: |
-      - Overall (82.DG.12.1.a–c): H: 18.5 (approx.) × W: 56.7 × D: 40.6 cm, 8,620 g (7 1/4 (approx.) × 22 5/16 × 16 in., 277 ozt., 2.788 dwt.)
-      - Overall (82.DG.12.2.a–c): H: 19.1 (approx.) × W: 57 × D: 40.6 cm, 8720 g (7 1/2 (aprox.) × 22 7/16 × 16 in., 280 ozt., 7.09 dwt.)
+      - Overall (82.DG.12.1.a–c): H: 18.5 (approx.) × W: 56.7 × D: 40.6 cm, 8,620 g (7 1/4 [approx.] × 22 5/16 × 16 in., 277 ozt., 2.788 dwt.)
+      - Overall (82.DG.12.2.a–c): H: 19.1 (approx.) × W: 57 × D: 40.6 cm, 8,720 g (7 1/2 approx.] × 22 7/16 × 16 in., 280 ozt., 7.09 dwt.)
     accession_number: "82.DG.12.1–.2"
     component: |
       - 82.DG.12.1.a (Liner)
@@ -70,7 +70,7 @@ object_list:
       - Bronze caster and goldsmith unknown
       - Painted, varnished, and gilded surface by [Étienne Simon Martin](/makers/#the-martin-family) (French, 1703–1770) and [Guillaume Martin](/makers/#the-martin-family) (French, 1689–1749)
     place_date: "Paris, 1738–39"
-    medium: "Painted, varnished, and gilded bronze, silver, and gilded metal (a copper alloy)"
+    medium: "Painted, varnished, and gilded bronze, silver, and gilded-bronze or brass screws"
     dimensions: |
       - Overall (88.DH.127.1.a–c): H: 22.9 × W: 11.4 × D: 15.2 cm (9 × 4 1/2 × 6 in.)
       - Overall (88.DH.127.2.a–c): H: 23.2 × W: 11.9 × D: 13.7 cm (9 1/4 × 4 11/16 × 5 5/16 in.)
@@ -79,8 +79,8 @@ object_list:
       - 88.DH.127.1.a (Sugar caster lid)
       - 88.DH.127.1.b (Sugar caster vessel)
       - 88.DH.127.1.c (Figure with base)
-      - 88.DH.127.2.a (sugar caster lid)
-      - 88.DH.127.2.b (sugar caster vessel)
+      - 88.DH.127.2.a (Sugar caster lid)
+      - 88.DH.127.2.b (Sugar caster vessel)
       - 88.DH.127.2.c (Figure with base)
     link: https://www.getty.edu/art/collection/object/103SMK
     figure:
@@ -94,7 +94,7 @@ object_list:
     medium: "Silver"
     dimensions: |
       - Overall (84.DG.744.1.a–b): H: 26 × Diam: 11.4 cm, 1,042.44 g (10 1/4 × 4 1/2 in., 33 ozt., 10.304 dwt.)
-      - Overall (84.DG.744.2.a–b): H: 26 × Diam: 11.7 cm, 1,018.11 g (10 1/4 × 4 1/2 in., 32 ozt., 14.659 dwt.)
+      - Overall (84.DG.744.2.a–b): H: 26 × Diam: 11.7 cm, 1,018.11 g (10 1/4 × 4 5/8 in., 32 ozt., 14.659 dwt.)
     accession_number: "84.DG.744.1–.2"
     component: |
       - 84.DG.744.1.a (Lid)
@@ -106,15 +106,15 @@ object_list:
     - id: "plate-5-1"
 
   - id: "06"
-    title: "Pair of Lidded Tureens, Liners, and Stands (*Paire de pots à oille couvertes, doublures et plateaux*)"
+    title: "Pair of Lidded Tureens, Liners, and Stands (*Paire de pots à oille couverts, doublures et plateaux*)"
     maker: |
       - [Thomas Germain](/makers/#thomas-germain) (French, 1673–1748, master 1720)
       - and [François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)
     place_date: "Paris, 1744–50, armorials altered 1838–68"
     medium: "Silver"
     dimensions: |
-      - Overall (82.DG.13.1.a–d): H: 30 (approx.) × 46.2 × 47.1 cm, 9782.35 g (11 3/16 (approx.) × 18 3/16 × 18 9/16 in., 314 ozt., 10.195 dwt.)
-      - Overall (82.DG.13.2.a–d): H: 30.8 (approx.) × 46.2 × 47.1 cm, 9,666.12 g (12 1/8 approx.) × 18 3/16 × 18 9/16in., 310 ozt., 15.459 dwt.)
+      - Overall (82.DG.13.1.a–d): H: 30 (approx.) × W: 46.2 × D: 47.1 cm, 9,782.35 g (11 3/16 [approx.] × 18 3/16 × 18 9/16 in., 314 ozt., 10.195 dwt.)
+      - Overall (82.DG.13.2.a–d): H: 30.8 (approx.) × W: 46.2 × D: 47.1 cm, 9,666.12 g (12 1/8 [approx.] × 18 3/16 × 18 9/16 in., 310 ozt., 15.459 dwt.)
     accession_number: "82.DG.13.1–.2"
     component: |
       - 82.DG.13.1.a (Lid)
@@ -141,7 +141,7 @@ object_list:
     - id: "plate-7-1"
 
   - id: "08"
-    title: "*La machine d’argent*, or Centerpiece for a Table (*Surtout de table*)"
+    title: "*La Machine d’Argent*, or Centerpiece for a Table (*Surtout de table*)"
     maker: "[François Thomas Germain](/makers/#fran%C3%A7ois-thomas-germain) (French, 1726–1791, master 1748)"
     place_date: "Paris, 1754"
     medium: "Silver"
@@ -171,8 +171,8 @@ object_list:
     place_date: "Paris, 1778–79 and 1781–82"
     medium: "Silver, iron, and brass"
     dimensions: |
-      - Overall (84.DG.42.1, weight excluding internal iron rod, brass disc, and brass nut): H: 56.1 × W: 38.5 × D: 36.5 cm, TK g (22 1/16 × 15 3/16 × 14 3/8 in., ozt., TK dwt.)
-      - Overall (84.DG.42.2, weight excluding internal iron rod, brass disc, and iron nut): H: 56.1 × W: 38.5 × D: 36.5 cm, TK g (22 1/16 × 15 3/16 × 14 3/8 in.,  ozt., TK dwt.)
+      - Overall (84.DG.42.1, weight excluding internal iron rod, brass disc, and brass nut): H: 56.1 × W: 38.5 × D: 36.5 cm, approx. 4,439.40 g (22 1/16 × 15 3/16 × 14 3/8 in., approx. 142 ozt., 14,600 dwt.)
+      - Overall (84.DG.42.2, weight excluding internal iron rod, brass disc, and iron nut): H: 56.1 × W: 38.5 × D: 36.5 cm, approx.4,364.28 g (22 1/16 × 15 3/16 × 14 3/8 in., approx. 140 ozt., 6.297 dwt.)
     accession_number: "84.DG.42.1–.2"
     link: https://www.getty.edu/art/collection/object/103SJ5
     figure:
