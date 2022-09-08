@@ -16,7 +16,7 @@ layout: essay
 |1 once  | = 8 gros   | = 30.594 grams |
 |1 gros  | = 3 deniers| = 3.824 grams  |
 |1 denier| = 24 grains| = 1.275 grams  |
-|1 grain | = 0.053 grams|              |
+|1 grain |            | = 0.053 grams  |
 
 {.headless-table}
 
@@ -41,7 +41,7 @@ layout: essay
 | 1 pound| = 12 ounces (ozt.) | = 373.242 grams    |
 | 1 ounce| = 20 pennyweights (dwt.)| = 31.104 grams|
 | 1 pennyweight| = 24 grains (gr.) | = 1.555 grams |
-| 1 grain | = 0.065 grams |                        |
+| 1 grain |           | = 0.065 grams              |
 
 {.headless-table}
 

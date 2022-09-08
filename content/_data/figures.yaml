@@ -764,7 +764,7 @@ figure_list:
     src: "figures/fig-1-16.jpg"
     preset:
     label: "Fig. 1.16"
-    caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14" [crossed out]. Image captured at 20x magnification with a Keyence digital microscope."
+    caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14” [crossed out]. Image captured at 20x magnification with a Keyence digital microscope."
     credit: "Image: Karen Bishop"
     alt: ""
 
@@ -1140,7 +1140,7 @@ figure_list:
     src: "figures/placeholder.jpg"
     preset:
     label: "Inscription 10.2"
-    caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral "VI."."
+    caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral “VI.”."
     credit: ""
     alt: ""
 
