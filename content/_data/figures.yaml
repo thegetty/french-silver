@@ -63,7 +63,7 @@ figure_list:
     src: "figures/bio-1-1.jpg"
     preset:
     label: "Bio 1.1"
-    caption: "Robert Joseph Auguste (French, 1723–1805), *Girandole* (*Girandole*) (detail of maker’s mark), 1778–79. Silver, 56.1 × 38.5 × 36.5 cm (22 1/16 × 15 3/16 × 14 3/8 in.)."
+    caption: "Robert Joseph Auguste (French, 1723–1805), *Girandole* (detail of maker’s mark), 1778–79. Silver, 56.1 × 38.5 × 36.5 cm (22 1/16 × 15 3/16 × 14 3/8 in.)."
     credit: "Los Angeles, J. Paul Getty Museum, 82.DG.42.1"
     alt: ""
 
@@ -71,7 +71,7 @@ figure_list:
     src: "figures/bio-10-1.jpg"
     preset:
     label: "Bio 10.1"
-    caption: "Unknown bronze caster; painted, gilded, and varnished surface attributed to the Martin Family (French, active ca. 1730–70), *label_text: Fig.* (detail of a clock case), ca. 1745. Painted, gilded, and varnished bronze, clock overall: 44.5 × 59 × 19.5 cm (17 1/2 × 23 1/4 × 7 3/4 in.)."
+    caption: "Unknown bronze caster, attributed to the Martin Family (French, active ca. 1730–70), detail of a clock case, ca. 1745. Painted, gilded, and varnished bronze, clock overall: 44.5 × 59 × 19.5 cm (17 1/2 × 23 1/4 × 7 3/4 in.)."
     credit: "Los Angeles, J. Paul Getty Museum, 83.DA.280"
     alt: ""
 
@@ -87,7 +87,7 @@ figure_list:
     src: "figures/bio-3-1.jpg"
     preset:
     label: "Bio 3.1"
-    caption: "Louis Cordier (French, active 1692–1748), *Broth Bowl* (*Écuelle*) (details of maker’s mark), 1727–28. Gilded silver, 4.5 × 29.8 × 18.3 cm (1 3/4 × 11 3/4 × 7 3/16 in.)."
+    caption: "Louis Cordier (French, active 1692–1748), *Broth Bowl* (*Écuelle*) (detail of maker’s mark), 1727–28. Gilded silver, 4.5 × 29.8 × 18.3 cm (1 3/4 × 11 3/4 × 7 3/16 in.)."
     credit: "Los Angeles, J. Paul Getty Museum, 71.DG.77.b"
     alt: ""
 
@@ -95,7 +95,7 @@ figure_list:
     src: "figures/bio-3-2.jpg"
     # preset: zoom
     label: "Bio 3.2"
-    caption: "Louis Cordier (French, active 1692–1748), *Broth Bowl* (*Écuelle*) (details of maker’s mark), 1727–28. Gilded silver, 4.5 × 29.8 × 18.3 cm (1 3/4 × 11 3/4 × 7 3/16 in.)."
+    caption: "Louis Cordier (French, active 1692–1748), *Broth Bowl* (*Écuelle*) (detail of maker’s mark), 1727–28. Gilded silver, 4.5 × 29.8 × 18.3 cm (1 3/4 × 11 3/4 × 7 3/16 in.)."
     credit: "Los Angeles, J. Paul Getty Museum, 71.DG.77.b"
     alt: ""
 
@@ -127,7 +127,7 @@ figure_list:
     src: "figures/bio-7-1.jpg"
     # preset: zoom
     label: "Bio 7.1"
-    caption: "Nicolas de Largillierre (French, 1656–1746), *Portrait of Thomas Germain and His Wife, Anne-Denise Gauchelet*, 1736. Oil on canvas, 146 × 113 cm (57 1/2 × 44 1/2 in.)."
+    caption: "Nicolas de Largillièrre (French, 1656–1746), *Portrait of Thomas Germain and His Wife, Anne-Denise Gauchelet*, 1736. Oil on canvas, 146 × 113 cm (57 1/2 × 44 1/2 in.)."
     credit: "Lisbon, Museu Calouste Gulbenkian, 431"
     alt: ""
 
@@ -554,7 +554,7 @@ figure_list:
     src: "figures/placeholder.jpg"
     preset:
     label: "Cat. 6.5"
-    caption: "Tureen (82.DG.13.1.c), X-radiograph showing a curved handle projecting from addorsed C curves on the vessel."
+    caption: "Tureen (82.DG.13.2.c), X-radiograph showing a curved handle projecting from addorsed C curves on the vessel."
     credit: ""
     alt: ""
 
@@ -586,7 +586,7 @@ figure_list:
     src: "figures/cat-8-1.jpg"
     # preset: zoom
     label: "Cat. 8.1"
-    caption: "*La machine d’argent* (2005.43), back."
+    caption: "*La Machine d’Argent* (2005.43), back."
     credit: ""
     alt: ""
 
@@ -594,7 +594,7 @@ figure_list:
     src: "figures/cat-8-2.jpg"
     # preset: zoom
     label: "Cat. 8.2"
-    caption: "*La machine d’argent* (2005.43), underneath."
+    caption: "*La Machine d’Argent* (2005.43), underneath."
     credit: ""
     alt: ""
 
@@ -602,7 +602,7 @@ figure_list:
     src: "figures/cat-8-3.jpg"
     # preset: zoom
     label: "Cat. 8.3"
-    caption: "*La machine d’argent* (2005.43), proper left view."
+    caption: "*La Machine d’Argent* (2005.43), proper left view."
     credit: ""
     alt: ""
 
@@ -611,7 +611,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 8.4"
-    caption: "*La machine d’argent* (2005.43), x-axial view. **cat. 8.4 - 360° x-axial view TK**"
+    caption: "*La Machine d’Argent* (2005.43), x-axial view. **cat. 8.4 - 360° x-axial view TK**"
     credit: ""
     alt: ""
 
@@ -619,7 +619,7 @@ figure_list:
     src: "figures/cat-8-5.jpg"
     # preset: zoom
     label: "Cat. 8.5"
-    caption: "*La machine d’argent* (2005.43), detail showing the rabbit from above."
+    caption: "*La Machine d’Argent* (2005.43), detail showing the rabbit from above."
     credit: ""
     alt: ""
 
@@ -627,7 +627,7 @@ figure_list:
     src: "figures/cat-8-6.jpg"
     # preset: zoom
     label: "Cat. 8.6"
-    caption: "*La machine d’argent* (2005.43), proper right view with ortolan bird, which was probably made from a wax cast, modified to adjust the position of its delicate feet."
+    caption: "*La Machine d’Argent* (2005.43), proper right view with ortolan bird, which was probably made from a wax cast, modified to adjust the position of its delicate feet."
     credit: ""
     alt: ""
 
@@ -635,7 +635,7 @@ figure_list:
     src: "figures/cat-8-7.jpg"
     # preset: zoom
     label: "Cat. 8.7"
-    caption: "*La machine d’argent* (2005.43), detail of cauliflower from above."
+    caption: "*La Machine d’Argent* (2005.43), detail of cauliflower from above."
     credit: ""
     alt: ""
 
@@ -652,7 +652,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 9.2"
-    caption: "Sauceboat on stand (71.DG.76.a–b), x-axial view. **cat. 9.2 - 360° x-axial of sauceboat on stand 71.DG.76 TK**"
+    caption: "Sauceboat on stand (71.DG.76.a–b), x-axial view."
     credit: ""
     alt: ""
 
@@ -716,7 +716,7 @@ figure_list:
     src: "figures/fig-1-10.jpg"
     # preset: zoom
     label: "Fig. 1.10"
-    caption: "X-radiograph of vessel (82.DG.17.b), with the separately cast components of the collar highlighted above the lion mask. One cast section of ornament is highlighted in green and another in yellow."
+    caption: "X-radiograph of vessel (82.DG.17.b), with the separately cast components of the collar highlighted above the lion mask. One cast section of ornament is highlighted in green and another in yellow. The rectangle draws attention to the Paris warden's mark and the maker's mark."
     credit: ""
     alt: ""
 
@@ -748,7 +748,7 @@ figure_list:
     src: "figures/fig-1-14.jpg"
     # preset: zoom
     label: "Fig. 1.14"
-    caption: "X-radiograph of lid (82.DG.17.a) showing repaired casting porosity and solid hands and feet and dolphin’s tail."
+    caption: "X-radiograph of lid (82.DG.17.a) showing repaired casting porosity and figure's solid arms and lower legs and dolphin’s tail."
     credit: ""
     alt: ""
 
@@ -764,7 +764,7 @@ figure_list:
     src: "figures/fig-1-16.jpg"
     preset:
     label: "Fig. 1.16"
-    caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14 [crossed out].” Image captured at 20x magnification with a Keyence digital microscope."
+    caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14” [crossed out]. Image captured at 20x magnification with a Keyence digital microscope."
     credit: "Image: Karen Bishop"
     alt: ""
 
@@ -781,7 +781,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 1.3"
     caption: "Attributed to Adam Loofs (Dutch, ca. 1645–after 1704), *Pair of Flagons* (*Buires*), ca. 1681. Silver, 85.1 × 52 × 42.3 cm (33 1/2 × 20 1/2 × 16 5/8 in.)."
-    credit: "Nottinghamshire, England, Portland Collection, Harley Gallery, Welbeck Abbey, 2906-7 **order images that illustrates the pair of flagons, showing one frontally, the other from the back**"
+    credit: "Nottinghamshire, England, Portland Collection, Harley Gallery, Welbeck Abbey, 2906-7"
     alt: ""
 
   - id: "fig-1-4"
@@ -789,7 +789,7 @@ figure_list:
     preset:
     label: "Fig. 1.4"
     caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”* (detail), 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
-    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27 **use author’s images if permitted by the National Trust or order the first page of the invoice and *detail of third page highlighting this relevant portion**"
+    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27"
     alt: ""
 
   - id: "fig-1-5"
@@ -804,7 +804,7 @@ figure_list:
     src: "figures/fig-1-6.jpg"
     # preset: zoom
     label: "Fig. 1.6"
-    caption: "Robert Le Vrac Tournières (French, 1667–1752), *Portrait of Goldsmith Nicolas Delaunay and His Family*, 1696–1704. Oil on panel, 56 × 70.2 cm (22 1/16 × 27 5/8 in.)."
+    caption: "Robert Le Vrac Tournières (French, 1667–1752), *Portrait of Goldsmith Nicolas Delaunay and His Family*, 1704. Oil on panel, 56 × 70.2 cm (22 1/16 × 27 5/8 in.)."
     credit: "Caen, Musée des beaux-arts, 78.2.1"
     alt: ""
 
@@ -820,7 +820,7 @@ figure_list:
     src: "figures/placeholder.jpg"
     preset:
     label: "Fig. 1.8"
-    caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
+    caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board, Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
     credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall. © NTPL/John Hammond, NT 109448"
     alt: ""
 
@@ -876,8 +876,8 @@ figure_list:
     src: "figures/fig-2-1.jpg"
     # preset: zoom
     label: "Fig. 2.1"
-    caption: "Masson (French, active ca. 1700) (designer and engraver) and Jean Mariette (French, 1660–1742) (publisher), Designs for lidded bowls, from *Nouveaux Desseins pour graver sur l’orfeverie inventés et graves par le seur Masson* (*New Designs for Engraving on Gold-Silversmithing Made and Engraved by M. Masson*), ca. 1701–9. Engraving, 37 × approx. 24.2 cm (14 1/2 × 9 1/2 in.)."
-    credit: "London, Victoria and Albert Museum, Prints, Drawings and Paintings Collection. © Victoria and Albert Museum, E. 5916-1908 **or, possibly coming from Los Angeles, Getty Research Institute, 86-B20158**"
+    caption: "Masson (French, active ca. 1700) (designer and engraver) and Jean Mariette (French, 1660–1742) (publisher), Designs for lidded bowls, from *Nouveaux Desseins pour graver sur l’orfèvrerie inventés et gravés par le seur Masson* (*New Designs for Engraving on Gold-Silversmithing Made and Engraved by M. Masson*), ca. 1701–9. Engraving, 37 × approx. 24.2 cm (14 1/2 × 9 1/2 in.)."
+    credit: "London, Victoria and Albert Museum, Prints, Drawings and Paintings Collection. © Victoria and Albert Museum, E. 5916-1908"
     alt: ""
 
   - id: "fig-2-2"
@@ -885,7 +885,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 2.2"
     caption: "Nicolas Delaunay (French, 1647–1727), *Design for the Caddinet (cadenas) of Marie Thérèse d’Autriche* (*Dessein du cadenas de Marie-Thérèse*), 1678. Pen, ink, and wash, 33.4 × 44.3 cm (13 1/8 × 17 1/16 in.)."
-    credit: "Paris, Bibliothèque nationale de France, département Estampes et photographie, RESERVE LE-39 (1)-FOL **https://catalogue.bnf.fr/ark:/12148/cb402619881**"
+    credit: "Paris, Bibliothèque nationale de France, département Estampes et photographie, RESERVE LE-39 (1)-FOL"
     alt: ""
 
   - id: "fig-2-3"
@@ -900,7 +900,7 @@ figure_list:
     src: "figures/fig-2-4.jpg"
     # preset: zoom
     label: "Fig. 2.4"
-    caption: "Louis Cordier (French, active 1692–1748) and unknown goldsmith, *Broth Bowl with Stand* (*Écuelle à bouillon et présentoir*), gilded silver. Photograph reproduced from *Catalogue des principalement de “Vieux Paris” du XVIIIe siècle … composant la collection de M. M[arius] P[aulme]*, sale cat., Galerie Georges Petit, Paris, April 18–19, 1923, lot 183."
+    caption: "Louis Cordier (French, active 1692–1748) and unknown goldsmith, *Broth Bowl with Stand* (*Écuelle à bouillon et présentoir*), gilded silver. Photograph reproduced from *Catalogue des objets d'orfèvrerie ancienne, principalement de “Vieux Paris” du XVIIIe siècle … composant la collection de M. M[arius] P[aulme]*, sale cat., Galerie Georges Petit, Paris, April 18–19, 1923, lot 183."
     credit: "Los Angeles, Getty Research Institute, 84-P18073"
     alt: ""
 
@@ -909,14 +909,14 @@ figure_list:
     # preset: zoom
     label: "Fig. 3.1"
     caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 1/16 in.)."
-    credit: "Lisbon, Museu Nacional de Arte Antiga, ©dgpc/adf, 1827 Our"
+    credit: "Lisbon, Museu Nacional de Arte Antiga, inv. 1827 Our"
     alt: ""
 
   - id: "fig-3-2"
     src: "figures/fig-3-2.jpg"
     # preset: zoom
     label: "Fig. 3.2"
-    caption: "Vincent La Chapelle (French, died 1745) (author), *Table de quinze à seize couverts* (*Table with Fifteen to Sixteen Place Settings*), from *Le cuisinier moderne* (*The Modern Cook*), 1742. Engraving, 20.3 × 25.3 cm (8 × 9 1/4 in.)."
+    caption: "Vincent La Chapelle (French, died 1745) (author), *Table de quinze a seize couverts* (*Table of Fifteen to Sixteen Place Settings*), from *Le cuisinier moderne* (*The Modern Cook*), 1742. Engraving, 20.3 × 23.5 cm (8 × 9 1/4 in.)."
     credit: "Cambridge, MA, Harvard University, Schlesinger Library on the History of Women in America, Radcliffe Institute, 641.64 L13c v.6"
     alt: ""
 
@@ -957,7 +957,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 4.3"
     caption: "Unknown goldsmith, *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Silver, 28.5 × 11 cm (11 1/4 × 4 5/16 in.)"
-    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750 **depending on view selected, the possible image credit may say © 2012 RMN-Grand Palais (musée du Louvre) / Martine Beck-Coppola**"
+    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750 **© 2012 RMN-Grand Palais (musée du Louvre) / Martine Beck-Coppola**"
     alt: ""
 
   - id: "fig-5-1"
@@ -996,8 +996,8 @@ figure_list:
     src: "figures/fig-6-1.jpg"
     # preset: zoom
     label: "Fig. 6.1"
-    caption: "Juste Aurèle Meissonier (French, ca. 1693–died 1750) (designer) and Pierre Quentin Chedel (French, 1705–1763) (etcher), *No. 14*, from *Livres de legumes inventées et dessinées* (*Book of Vegetables Invented and Drawn*), 1734–42. Etching, 16.2 × 11.2 cm (6 2/5 × 4 3/8 in.)."
-    credit: "Los Angeles, Getty Research Institute, gri_festivals_p860001_b8f14 **http://hdl.handle.net/10020/p860001_b8f14**"
+    caption: "Juste-Aurèle Meissonnier (French, ca. 1693–1750) (designer) and Pierre Quentin Chedel (French, 1705–1763) (etcher), *No. 14*, from *Livres de légumes inventées et dessinées* (*Book of Vegetables Invented and Drawn*), 1734–42. Etching, 16.2 × 11.2 cm (6 2/5 × 4 3/8 in.)."
+    credit: "Los Angeles, Getty Research Institute, gri_festivals_p860001_b8f14"
     alt: ""
 
   - id: "fig-6-2"
@@ -1020,8 +1020,8 @@ figure_list:
     src: "figures/fig-7-1.jpg"
     # preset: zoom
     label: "Fig. 7.1"
-    caption: "Étienne Pollet (French, active 1715–51), Antoine Le Brun (French, 1702–1758), Sebastian Ignot (French, active 1725–66 or later), and Alexis Loir III (French, died 1785, active from 1733), *Toilette Service* (*Service de toilette*), 1738–39. Silver, modern mirror glass, velvet, and boar bristles, table mirror: 64.5 × 60.6 × 28.3 cm (2 3/8 × 23 7/8 × 11 1/8 in.)."
-    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, and Museum Purchase, Jill Ford Murray Fund, V2014.6 **https://www.dia.org/art/collection/object/toilet-service-duchesse-de-cadaval-102681**"
+    caption: "Étienne Pollet (French, active 1715–51), Antoine LeBrun (French, 1702–1758), Sebastian Ignot (French, active 1725–66 or later), and Alexis Loir III (French, died 1785, active from 1733), *Toilette Service* (*Service de toilette*), 1738–39. Silver, modern mirror glass, velvet, and boar bristles, table mirror: 64.5 × 60.6 × 28.3 cm (25 3/8 × 23 7/8 × 11 1/8 in.)."
+    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, and Museum Purchase, Jill Ford Murray Fund, V2014.6"
     alt: ""
 
   - id: "fig-7-2"
@@ -1052,7 +1052,7 @@ figure_list:
     src: "figures/fig-7-5.jpg"
     # preset: zoom
     label: "Fig. 7.5"
-    caption: "François Thomas Germain (French, 1726–1791), *Lidded Box from a Toilette Service* (*Boîte de toilette ronde*), 1750–52. Silver, 8.3 × 13.8 cm (3 1/4 × 3/8 in.)."
+    caption: "François Thomas Germain (French, 1726–1791), *Lidded Box from a Toilette Service* (*Boîte de toilette ronde*), 1750–52. Silver, 8.3 × 13.8 cm (3 1/4 × 5 3/8 in.)."
     credit: "Paris, Musée des arts décoratifs, Legs de Madame Burat, née Sluys, 1930, 26910"
     alt: ""
 
@@ -1060,7 +1060,7 @@ figure_list:
     src: "figures/fig-8-1.jpg"
     # preset: zoom
     label: "Fig. 8.1"
-    caption: "François Massialot (French, ca. 1660–died 1773) (probable author), *Machine, autrement dit surtout* from *Le cuisinier royal et bourgeois* (*Machine, in Other Words a Centerpiece* from *The Royal and Bourgeois Cook*), 1729. Engraving, H: 17 cm (6 3/4 in.)."
+    caption: "François Massialot (French, ca. 1660–died 1773) (probable author), *Machine, autrement dit surtout* from *Le nouveau cuisinier royal et bourgeois* (*Machine, in Other Words a Centerpiece* from *The Royal and Bourgeois Cook*), 1729. Engraving, H: 17 cm (6 3/4 in.)."
     credit: "Los Angeles, Getty Research Institute, 2019-B91"
     alt: ""
 
@@ -1076,7 +1076,7 @@ figure_list:
     src: "figures/fig-8-3.jpg"
     # preset: zoom
     label: "Fig. 8.3"
-    caption: "Thomas Germain (French, 1673–1748), *Tureen, Lid and Stand* (*Terrine, couvercle, et plat*), 1729–30. Silver, 21.6 × 43.3 × 35.2 cm (8 1/2 × 17 1/16 × 13 7/8 in.)."
+    caption: "Thomas Germain (French, 1673–1748), *Tureen, Lid, and Stand* (*Terrine, couvercle et plat*), 1729–30. Silver, 21.6 × 43.3 × 35.2 cm (8 1/2 × 17 1/16 × 13 7/8 in.)."
     credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, 55.183"
     alt: ""
 
@@ -1100,7 +1100,7 @@ figure_list:
     src: "figures/fig-9-2.jpg"
     # preset: zoom
     label: "Fig. 9.2"
-    caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat and Stand* (*Saucière sur support*), view showing (effaced) armorial cartouche, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
+    caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat ou Stand* (*Saucière sur support*), view showing (effaced) armorial cartouche, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
     credit: "Courtesy of Sotheby’s, London (to be confirmed)"
     alt: ""
 
@@ -1108,7 +1108,7 @@ figure_list:
     src: "figures/fig-9-3.jpg"
     # preset: zoom
     label: "Fig. 9.3"
-    caption: "Jacques III Roëttiers (French, 1707–1784) (designer), Jean-Jacques Pasquier (French, 1718–1785) (etcher), and Pierre Germain (French, 1703–1783) (publisher), Design for a Tureen, Lid, and Stand, from *Elements d’orfevrerie: Divisés en deux parties, deuxieme partie* (*Elements of Silver: Divided into Two Parts, Second Part*), 1748. Etching, H: 25 cm (9 7/8 in.)."
+    caption: "Jacques III Roëttiers (French, 1707–1784) (designer), Jean-Jacques Pasquier (French, 1718–1785) (etcher), and Pierre Germain (French, 1703–1783) (publisher), Design for a Tureen, Lid, and Stand, from *Elements d’orfevrerie: Divisés en deux parties, deuxième partie* (*Elements of Silver: Divided into Two Parts, Second Part*), 1748. Etching, H: 25 cm (9 7/8 in.)."
     credit: "Los Angeles, Getty Research Institute, 83-B1287"
     alt: ""
 
@@ -1140,7 +1140,7 @@ figure_list:
     src: "figures/placeholder.jpg"
     preset:
     label: "Inscription 10.2"
-    caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral."
+    caption: "Girandole (84.DG.42.2), on internal threaded iron rod, detail of the scratched Roman numeral “VI.”."
     credit: ""
     alt: ""
 
@@ -1356,7 +1356,7 @@ figure_list:
     src: "figures/inscription-8-1.jpg"
     # preset: zoom
     label: "Inscription 8.1"
-    caption: "*La machine d’argent* (2005.43), detail of the incised signature, date, and city."
+    caption: "*La Machine d’Argent* (2005.43), detail of the incised signature, date, and city."
     credit: ""
     alt: ""
 
@@ -1364,7 +1364,7 @@ figure_list:
     src: "figures/inscription-8-2.jpg"
     # preset: zoom
     label: "Inscription 8.2"
-    caption: "*La machine d’argent* (2005.43), detail of the scratched weight in German units."
+    caption: "*La Machine d’Argent* (2005.43), detail of the scratched weight in German units."
     credit: ""
     alt: ""
 
@@ -1652,7 +1652,7 @@ figure_list:
     src: "figures/mark-3-7.jpg"
     # preset: zoom
     label: "Mark 3.7"
-    caption: "Stand (82.DG.12.1.c), detail of an indecipherable mark, probably a warden’s, a crowned *M*. **mark 3.7 - OTMM gm_006588D6V1.TIF (probably a crowned “M”) rotate 180 degrees**"
+    caption: "Stand (82.DG.12.1.c), detail of an indecipherable mark, probably a warden’s, a crowned *M*."
     credit: ""
     alt: ""
 
@@ -2084,7 +2084,7 @@ figure_list:
     src: "figures/mark-8-1.jpg"
     # preset: zoom
     label: "Mark 8.1"
-    caption: "*La machine d’argent* (2005.43), detail of the partially struck maker’s mark (consisting of the initials “F.T.G.”), and a warden’s mark (a crowned *O*."
+    caption: "*La Machine d’Argent* (2005.43), detail of the partially struck maker’s mark (consisting of the initials “F.T.G.”), and a warden’s mark (a crowned *O*."
     credit: ""
     alt: ""
 
@@ -2092,7 +2092,7 @@ figure_list:
     src: "figures/mark-8-2.jpg"
     preset:
     label: "Mark 8.2"
-    caption: "*La machine d’argent* (2005.43), detail of a charge mark, either an ox head or, less likely, a horse head."
+    caption: "*La Machine d’Argent* (2005.43), detail of a charge mark, either an ox head or, less likely, a horse head."
     credit: ""
     alt: ""
 
@@ -2100,7 +2100,7 @@ figure_list:
     src: "figures/mark-8-3.jpg"
     preset:
     label: "Mark 8.3"
-    caption: "*La machine d’argent* (2005.43), detail of a discharge mark, a cow."
+    caption: "*La Machine d’Argent* (2005.43), detail of a discharge mark, a cow."
     credit: ""
     alt: ""
 

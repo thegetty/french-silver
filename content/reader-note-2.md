@@ -16,7 +16,7 @@ layout: essay
 |1 once  | = 8 gros   | = 30.594 grams |
 |1 gros  | = 3 deniers| = 3.824 grams  |
 |1 denier| = 24 grains| = 1.275 grams  |
-|1 grain | = 0.053 grams|              |
+|1 grain |            | = 0.053 grams  |
 
 {.headless-table}
 
@@ -29,7 +29,7 @@ layout: essay
 |1 Unze  |= 2 Loth    | = 29.232 grams     |
 |1 Lot   |= 4 Quentchen | = 14.616 grams   |
 |1 Quentchen | = 4 Pfennige | = 3.654 grams|
-|1 Pfenni |= 1/16 Lot | = 0.914 grams      |
+|1 Pfennig |= 1/16 Lot | = 0.914 grams      |
 |1 Gran  |= 1/18 Lot | = 0.812 grams       |
 
 {.headless-table}
@@ -41,7 +41,7 @@ layout: essay
 | 1 pound| = 12 ounces (ozt.) | = 373.242 grams    |
 | 1 ounce| = 20 pennyweights (dwt.)| = 31.104 grams|
 | 1 pennyweight| = 24 grains (gr.) | = 1.555 grams |
-| 1 grain | = 0.065 grams |                        |
+| 1 grain |           | = 0.065 grams              |
 
 {.headless-table}
 
@@ -117,11 +117,11 @@ These monetary values were fixed until 1790. During this period, the cost of liv
 
 {% endbackmatter %}
 
-[^1]: Silver bullion weight, when measured in grams, is typically factored to the third decimal point and rounded up or down. Michèle Bimbenet-Privat, Conservateur général au département des Objets d’art, Musée du Louvre, observed that, generally, French *ancien régime* weight measurements for silver plate did not achieve the same degree of precision as the modern era. Communication from Michèle Bimbenet-Privat of March 6, 2021. On the relevance of scratch weights, or historic weights scratched into antique silver plate, see {% cite 'Burstyn 2005' %}.
+[^1]: Silver bullion weight, when measured in grams, is typically factored to the third decimal point and rounded up or down. Michèle Bimbenet-Privat, Conservateur général au département des Objets d’art, Musée du Louvre, observed that, generally, French *ancien régime* weight measurements for silver plate did not achieve the same degree of precision as in the modern era. Communication from Michèle Bimbenet-Privat of March 6, 2021. On the relevance of scratch weights, or historic weights scratched into antique silver plate, see {% cite 'Burstyn 2005' %}.
 
 [^2]: {% cite 'Perrin 1993' %}, 23; {% cite 'Bimbenet-Privat and Fontaines 1995' %}, front matter, unpaginated.
 
-[^3]: Weight units for silver varied regionally and temporally across the Holy Roman Empire. The Cologne Mark is given here for its relevancy to [cat. nos. 8](/catalogue/8/) and [10](/catalogue/10/). Equivalent to approximately 234 grams, the Mark in the northern duchy of Mecklenburg-Schwerin aligned with that of Cologne (see [cat. no. 8](/catalogue/8/)). Information courtesy of Torsten Fried, Leiter de Münzkabinett, Staatliche Schlösser, Gärten und Kunstsammlungen Mecklenburg-Vorpommern. While the two girandoles, the subject of [cat. no. 10](/catalogue/10/), were made by the Parisian goldsmith Robert Joseph Auguste for the Hanoverian court, silver weight in the correspondence from the London-based patron was given in Cologne Marks. In Hanover, however, the historical unit of one Mark varied from 230.032 to 231.287 grams. Regionally, the silver content in the alloy was lower in Hanover and in the north of the empire (at 12 Lot with a purity of 750 parts per thousand, or 75 percent) than in Cologne and in the south (at 13 Lot with a purity of 812.5 parts per thousand, or 82.25 percent). See {% cite 'Witthöft 1979' %}, 73; {% cite 'Stein 1997' %}, 576–77; {% cite 'Seelig 2002' %}, 106; and {% cite 'Seelig 2012' %}, 76n3, 77. Ulrike Weinhold, Curator, Grünes Gewölbe, Staatliche Kunstsammlungen Dresden, and independent art historian Ines Elsner, Berlin, kindly clarified regional variations of bullion weight measures within the Holy Roman Empire; Ulrike Weinhold and Ines Elsner, email message to author, April 8, 2021.
+[^3]: Weight units for silver varied regionally and temporally across the Holy Roman Empire. The Cologne Mark is given here for its relevancy to [cat. nos. 8](/catalogue/8/) and [10](/catalogue/10/). Equivalent to approximately 234 grams, the Mark in the northern duchy of Mecklenburg-Schwerin aligned with that of Cologne (see [cat. no. 8](/catalogue/8/)). Information courtesy of Torsten Fried, Leiter des Münzkabinetts, Staatliche Schlösser, Gärten und Kunstsammlungen Mecklenburg-Vorpommern. While the two girandoles, the subject of [cat. no. 10](/catalogue/10/), were made by the Parisian goldsmith Robert Joseph Auguste for the Hanoverian court, silver weight in the correspondence from the London-based patron was given in Cologne Marks. In Hanover, however, the historical unit of one Mark varied from 230.032 to 231.287 grams. Regionally, the silver content in the alloy was lower in Hanover and in the north of the empire (at 12 lötiges with a purity of 750 parts per thousand, or 75 percent) than in Cologne and in the south (at 13 lötiges with a purity of 812.5 parts per thousand, or 81.25 percent). See {% cite 'Witthöft 1979' %}, 73; {% cite 'Stein 1997' %}, 576–77; {% cite 'Seelig 2002' %}, 106; and {% cite 'Seelig 2012' %}, 76n3, 77. Ulrike Weinhold, Curator, Grünes Gewölbe, Staatliche Kunstsammlungen Dresden, and independent art historian Ines Elsner, Berlin, kindly clarified regional variations of bullion weight measures within the Holy Roman Empire; Ulrike Weinhold and Ines Elsner, email message to author, April 8, 2021.
 
 [^4]: One troy pound consists of twelve troy ounces (ozt.). James Rothwell, Decorative Arts Curator, National Trust of England, Wales, and Northern Ireland, noted that, in historic lists of English/British silver plate, silver bullion weights were rarely recorded down to the grain level. Typically, the pennyweight (dwt.) was rounded up or down accordingly. James Rothwell, email message to author, January 4, 2021.
 
@@ -139,7 +139,7 @@ These monetary values were fixed until 1790. During this period, the cost of liv
 
 [^11]: From 1752 to 1756, the coinage of Mecklenburg-Schwerin and its sister duchy of Mecklenburg-Strelitz aligned with the system prevailing in the neighboring duchy of Brandenburg and in the kingdom of Prussia. These years coincided with the commission of a silver centerpiece, known as *la machine d’argent*, by Christian Ludwig II, duke of Mecklenburg-Schwerin ([cat. no. 8](/catalogue/8/)). See {% cite 'Kunzel 1994' %}, 158–59; Robert Selig, “Eighteenth-Century Currencies,” *The Brigade Dispatch: Journal of the Brigade of the American Revolution* XLIII, no. 3 (Autumn 2013): 16–32, especially 29n12; and {% cite 'Shaw 1896' %}, 379. As a point of reference, the medalist Johann Peter Nonheim, who worked for Christian Ludwig II from 1753 to 1755, earned an annual salary of 300 Thalers. See {% cite 'Fried 2019' %}, especially 107n77.
 
-[^12]: The electorate-principality of Hanover aligned with the system used in the duchy of Brunswick-Lüneburg. See {% cite 'Shaw 1896' %}, 373, and {% cite 'Michael 2016' %}. The two girandoles ([cat. no. 10](/catalogue/10/)), were made by the Parisian goldsmith Robert Joseph Auguste for the Hanoverian court.
+[^12]: The electorate-principality of Hanover aligned with the system used in the duchy of Brunswick-Lüneburg. See {% cite 'Shaw 1896' %}, 373, and {% cite 'Michael 2016' %}. The two girandoles ([cat. no. 10](/catalogue/10/)) were made by the Parisian goldsmith Robert Joseph Auguste for the Hanoverian court.
 
 [^13]: The gold sovereign coin minted from the Tudors to James I was equal in value to 20 shillings or one pound sterling silver. Its descendent, the so-called guinea gold coin, was valued in 1717 at 21 shillings, though this rate fluctuated higher. In 1817 a new sovereign coin was introduced equal to 20 shillings or one pound. See “The History of the Gold Sovereign,” The Royal Mint: The Original Maker, accessed July 8, 2020, https://www.royalmint.com/discover/sovereigns/history-of-the-gold-sovereign/.
 
