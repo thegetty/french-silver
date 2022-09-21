@@ -1093,7 +1093,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 9.1"
     caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat on Stand* (*Saucière sur support*), view showing handle, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
-    credit: "Courtesy of Sotheby’s, London (to be confirmed)"
+    credit: "Courtesy of Sotheby’s, London"
     alt: ""
 
   - id: "fig-9-2"
@@ -1101,7 +1101,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 9.2"
     caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat ou Stand* (*Saucière sur support*), view showing (effaced) armorial cartouche, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
-    credit: "Courtesy of Sotheby’s, London (to be confirmed)"
+    credit: "Courtesy of Sotheby’s, London"
     alt: ""
 
   - id: "fig-9-3"
@@ -1125,7 +1125,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 9.5"
     caption: "Thomas Germain (French, 1673–1748), *One of Pair of Wine Bottle Coolers* (*Seau à bouteille*), 1727–28. Silver, 22 × 26 × 20 cm (8 11/16 × 10 1/4 × 7 9/8 in.)."
-    credit: "Paris, Musée du Louvre, OA 9431–9432 **depending on view selected, the possible image credit may say © 2012 RMN-Grand Palais (Musée du Louvre) / Martine Beck-Coppola**"
+    credit: "Paris, Musée du Louvre, OA 9431–9432. © 2012 RMN-Grand Palais (Musée du Louvre) / Martine Beck-Coppola"
     alt: ""
 
   - id: "inscription-10-1"
