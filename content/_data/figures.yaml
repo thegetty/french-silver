@@ -47,7 +47,7 @@ figure_list:
     src: "figures/armorial-6-2.jpg"
     # preset: zoom
     label: "Armorial 6.2"
-    caption: "Stand (82.DG.13.1.d), detail of the altered engraved coat of arms of Robert John (Smith) Carrington, second baron Carrington. **armorial 6.2 – TK (coat of arms) verify**"
+    caption: "Stand (82.DG.13.1.d), detail of the altered engraved coat of arms of Robert John (Smith) Carrington, second baron Carrington."
     credit: ""
     alt: ""
 
@@ -136,7 +136,7 @@ figure_list:
     preset:
     label: "Bio 8.1"
     caption: "Ralph Leake (English, died 1716, active from 1671), *Cistern* (detail of marker’s mark), 1698–99. Silver, H: 21.5 × Diam: 60.9 cm (8 1/2 × 23 15/16 in.)."
-    credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, inv. M.30-1965 **https://collections.vam.ac.uk/item/O7767/cistern-leake-ralph/**"
+    credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, inv. M.30-1965"
     alt: ""
 
   - id: "bio-9-1"
@@ -160,7 +160,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 1.10"
-    caption: "Water fountain (82.DG.17), x-axial view. **cat. 1.10 – x-axial 360° view QTVR] [Question from Charissa - Does the QTVR file show a x-axial view?]**"
+    caption: "Water fountain (82.DG.17), x-axial view."
     credit: ""
     alt: ""
 
@@ -417,7 +417,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 4.10"
-    caption: "Sugar caster (88.DH.127.TK), x-axial view. **cat. 4.10 – 88.DH.127.1 or 88.DH.127.2 360° x-axial view of one figure**"
+    caption: "Sugar caster (88.DH.127.TK), x-axial view."
     credit: ""
     alt: ""
 
@@ -521,7 +521,7 @@ figure_list:
     src: "figures/cat-6-1.jpg"
     # preset: zoom
     label: "Cat. 6.1"
-    caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d). **cat. 6.1 TK – ~~modeled after OTMM gm_00701901.TIF~~ (single tureen .1 partially in front of upright stand) verify**"
+    caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d)."
     credit: ""
     alt: ""
 
@@ -546,7 +546,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 6.4"
-    caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view. **cat.6.4 = 360° x-axial of one tureen on stand 82.DG.13.1.a–d {or 82.DG.13.2.a–d TBD}**"
+    caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view."
     credit: ""
     alt: ""
 
@@ -611,7 +611,7 @@ figure_list:
     preset:
     media_type: axial
     label: "Cat. 8.4"
-    caption: "*La Machine d’Argent* (2005.43), x-axial view. **cat. 8.4 - 360° x-axial view TK**"
+    caption: "*La Machine d’Argent* (2005.43), x-axial view."
     credit: ""
     alt: ""
 
@@ -957,7 +957,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 4.3"
     caption: "Unknown goldsmith, *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Silver, 28.5 × 11 cm (11 1/4 × 4 5/16 in.)"
-    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750 **© 2012 RMN-Grand Palais (musée du Louvre) / Martine Beck-Coppola**"
+    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750"
     alt: ""
 
   - id: "fig-5-1"
@@ -1005,7 +1005,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 6.2"
     caption: "Thomas Germain (French, 1673–1748), Design for a round tureen and stand, ca. 1735–40. Sanguine and sanguine wash drawing, 42.5 × 56.5 cm (16 3/4 × 22 1/4 in.)."
-    credit: "Paris, private collection **Credit line to be confirmed; it may change to: “Paris, Courtesy of the Kugel Collection”**"
+    credit: "Paris, private collection"
     alt: ""
 
   - id: "fig-6-3"
@@ -1045,7 +1045,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 7.4"
     caption: "Thomas Germain (French, 1673–1748), Design for a tray with lidded beakers, 1745. Pen and black ink, gray wash, and black chalk, 26 × 45 cm (10 1/4 × 17 3/4 in.)."
-    credit: "Paris, private collection **Credit line to be confirmed; it may change to: “Paris: Courtesy of the Kugel Collection”**"
+    credit: "Paris, private collection"
     alt: ""
 
   - id: "fig-7-5"
@@ -1085,7 +1085,7 @@ figure_list:
     # preset: zoom
     label: "Fig. 8.4"
     caption: "François Thomas Germain (French, 1726–1791), *Dish Cover* (*Couvre-plat*, also called *Surtout*), 1757. Silver, 47.5 × 57.3 × 53.6 cm (18 3/4 × 22 1/2 × 21 1/16 in.)."
-    credit: "Paris, Musée du Louvre, OA 10923 **depending on view selected, the possible image credit may say © 2019 Musée du Louvre / Philippe Fuzeau**"
+    credit: "Paris, Musée du Louvre, OA 10923"
     alt: ""
 
   - id: "fig-9-1"
@@ -1132,7 +1132,7 @@ figure_list:
     src: "figures/inscription-10-1.jpg"
     # preset: zoom
     label: "Inscription 10.1"
-    caption: "Girandole (84.DG.42.1), base, detail of the engraved cipher “GR III” for George Rex III (King George III). **inscription (formerly armorial) 10.1 – TK, modeled after OTMM gm_006688D1V1.TIF (monogram GR III) verify**"
+    caption: "Girandole (84.DG.42.1), base, detail of the engraved cipher “GR III” for George Rex III (King George III)."
     credit: ""
     alt: ""
 
@@ -1452,7 +1452,7 @@ figure_list:
     src: "figures/mark-10-8.jpg"
     preset:
     label: "Mark 10.8"
-    caption: "Girandole (84.DG.42.2), underneath the base, detail of a charge mark, the monogram for the city of Paris, “P A R I S.”"
+    caption: "Girandole (84.DG.42.2), underneath the base, detail of a charge mark, the monogram for the city of Paris, “P A R I S.”"
     credit: ""
     alt: ""
 
@@ -2220,7 +2220,7 @@ figure_list:
     src: "figures/plate-6-1.jpg"
     # preset: zoom
     label: "Plate 6.1"
-    caption: "Pair of lidded tureens, liners, and stands (cat. no. 6). **plate 6.1 TK – modeled after OTMM gm_00659201.TIF (full view of pair together)**"
+    caption: "Pair of lidded tureens, liners, and stands (cat. no. 6)."
     credit: ""
     alt: ""
 
