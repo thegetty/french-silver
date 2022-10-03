@@ -1,6 +1,6 @@
 ---
 title: Note to the Reader II
-subtitle: <br>Historic Units of Measure and Currency
+subtitle: Historic Units of Measure and Currency
 order: 8
 layout: essay
 ---

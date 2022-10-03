@@ -1,6 +1,6 @@
 ---
 title: Note to the Reader I
-subtitle: <br>Stamps and Marks
+subtitle: Stamps and Marks
 order: 7
 layout: essay
 ---
