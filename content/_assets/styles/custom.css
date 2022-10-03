@@ -105,7 +105,11 @@ Spectral Light
 }
 
 .quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
-    text-transform: lowercase;
+  text-transform: lowercase;
+}
+
+.content sup, .quire-entry h4, .quire-essay h4, .quire-page h4 {
+  font-style: normal;
 }
 
 /* NAVBAR
