@@ -40,6 +40,8 @@ Getty Publications
 Los Angeles, California 90049-1682
 [getty.edu/publications](http://www.getty.edu/publications/)
 
+<div class="block-of-text">
+
 Ruth Evans Lane, *Project Editor*
 Zsofia Jilling, *Manuscript Editor*
 Greg Albers, *Digital Publications Manager*
@@ -47,6 +49,10 @@ Kurt Hauser, *Cover Design*
 Victoria Gallina, *Production*
 Nancy Rivera, *Image and Rights Acquisition*
 Erin Cecele Dunigan and Dina Murokh, *Digital Assistants*
+
+</div>
+
+<br>
 
 Distributed in the United States and Canada by the University of Chicago Press
 
