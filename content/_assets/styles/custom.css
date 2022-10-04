@@ -112,6 +112,10 @@ Spectral Light
   font-style: normal;
 }
 
+.block-of-text .roman {
+  font-style: normal;
+}
+
 /* NAVBAR
 ============================================================================= */
 .quire-navbar {
