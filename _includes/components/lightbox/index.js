@@ -1,8 +1,4 @@
-const { html } = require('common-tags')
-
-const stringifyData = (jsObject) => {
-  return encodeURIComponent(JSON.stringify(jsObject));
-}
+const { html } = require('~lib/common-tags')
 
 /**
  * Lightbox Tag
@@ -12,24 +8,21 @@ const stringifyData = (jsObject) => {
  * @param      {Object}  globalData
  */
 module.exports = function (eleventyConfig, { page }) {
-  const markdownify = eleventyConfig.getFilter('markdownify')
-  const { imageDir } = eleventyConfig.globalData.config.params
+  const lightboxSlides = eleventyConfig.getFilter('lightboxSlides')
+  const lightboxUI = eleventyConfig.getFilter('lightboxUI')
 
-  return function (figures=page.figures) {
+  return async function (figures=page.figures) {
     if (!figures) return;
-    const figuresWithMarkdownifiedCaptions =
-      figures.reduce((validFigures, figure) => {
-        if (figure) {
-          validFigures.push({
-            ...figure,
-            caption: figure.caption ? markdownify(figure.caption) : null
-          })
-        }
-        return validFigures
-      }, []);
-    const serializedFigures = stringifyData(figuresWithMarkdownifiedCaptions);
+    figures = figures.map((figure) => ({
+      preset: 'zoom',
+      ...figure
+    }))
+
     return html`
-      <q-lightbox figures="${serializedFigures}" image-dir="${imageDir}"></q-lightbox>
+      <q-lightbox>
+        ${await lightboxSlides(figures)}
+        ${lightboxUI(figures)}
+      </q-lightbox>
     `;
   }
 }

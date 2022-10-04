@@ -9,6 +9,7 @@
 module.exports = class TableOfContents {
   data() {
     return {
+      class: 'quire-contents',
       layout: 'base'
     }
   }
@@ -17,11 +18,11 @@ module.exports = class TableOfContents {
     const {
       collections,
       content,
+      key,
       page,
       pages,
       pagination,
-      presentation='list',
-      section
+      presentation='list'
     } = data
 
     const contentElement = content
@@ -35,46 +36,27 @@ module.exports = class TableOfContents {
       : ''
     const containerClass = presentation === 'grid' ? 'is-fullhd' : ''
 
-    /**
-     * The pages to include in the table of contents
-     * Either the project or a project section
-     */
-    const findNavigationItem = (url, items=[]) => {
-      let item = items.find((page) => url === page.url)
-      if (!item) {
-        items = items.flatMap((item) => item.children)
-        return findNavigationItem(url, items)
-      }
-      return item
-    }
-    const currentNavigationItem = findNavigationItem(page.url, this.eleventyNavigation(collections.tableOfContents))
-    const navigation = currentNavigationItem.children && currentNavigationItem.children.length
-      ? currentNavigationItem.children
-      : this.eleventyNavigation(collections.tableOfContents)
-
     return this.renderTemplate(
-      `<div class="quire-contents" id="main" role="main">
-        {% pageHeader
-          contributor_byline=contributor_byline,
-          image=image,
-          label=label,
-          pageContributors=pageContributors,
-          subtitle=subtitle,
-          title=title
-        %}
-        <section class="section quire-page__content" id="content">
-          ${contentElement}
-          <div class="container ${containerClass}">
-            <div class="quire-contents-list ${presentation}">
-              ${this.tableOfContentsList({ navigation, presentation, currentPageUrl: pagination.currentPage.url })}
-              <div class="content">
-                {% bibliography pageReferences %}
-              </div>
+      `{% pageHeader
+        contributor_byline=contributor_byline,
+        image=image,
+        label=label,
+        pageContributors=pageContributors,
+        subtitle=subtitle,
+        title=title
+      %}
+      <section class="section quire-page__content">
+        ${contentElement}
+        <div class="container ${containerClass}">
+          <div class="quire-contents-list ${presentation}">
+            ${this.tableOfContents({ collections, currentPageUrl: page.url, key, presentation })}
+            <div class="content">
+              {% bibliography pageReferences %}
             </div>
-            ${this.pageButtons({ pagination })}
           </div>
-        </section>
-      </div>`,
+          ${this.pageButtons({ pagination })}
+        </div>
+      </section>`,
       'liquid',
       data
     )

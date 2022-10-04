@@ -1,4 +1,4 @@
-const { html } = require('common-tags')
+const { html } = require('~lib/common-tags')
 const path = require('path')
 
 /**
@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
 
-  const { imgDir, pageLabelDivider } = eleventyConfig.globalData.config.params
+  const { imageDir, pageLabelDivider } = eleventyConfig.globalData.config.params
 
   return function (params) {
     const {
@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
       ? html`
           <section
             class="${classes} hero__image"
-           style="background-image: url('${path.join(imgDir, image)}');"
+           style="background-image: url('${path.join(imageDir, image)}');"
           >
           </section>
         `
@@ -62,7 +62,7 @@ module.exports = function(eleventyConfig) {
           ${contributorsElement}
         </div>
       </section>
-      ${image}
+      ${imageElement}
     `
   }
 }
