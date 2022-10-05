@@ -1,15 +1,9 @@
 # Eleventy build artifacts
 _site/
 _temp/
-_iiif/
 
 # EleventFetch cache directory
 .cache
-
-# environment variables file
-.env
-.env.*
-!.env.example
 
 # ESLint cache directory
 .eslintcache
@@ -25,6 +19,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# System files
+.DS_Store
+
 # npm cache directory
 .npm
 
@@ -36,6 +33,3 @@ pids
 
 # Local Netlify folder
 .netlify
-
-# Apple desktop services file
-.DS_Store

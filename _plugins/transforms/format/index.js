@@ -1,4 +1,4 @@
-const chalkFactory = require('../../../_lib/chalk')
+const chalkFactory = require('~lib/chalk')
 const path = require('path')
 const prettier = require('prettier')
 
@@ -11,12 +11,12 @@ const { error } = chalkFactory('transforms:format')
  * @param      {String}  content
  * @return     {String}  transformed content
  */
-module.exports = function (content) {
+module.exports = async function (content) {
   let result;
   try {
-    result = prettier.format(content, { filepath: this.outputPath })
-  } catch (error) {
-    error('Eleventy transform error formatting output.\n', error)
+    result = await prettier.format(content, { filepath: this.outputPath })
+  } catch (errorMessage) {
+    error(`Eleventy transform error formatting output for ${this.outputPath}.\n${errorMessage}`)
   }
   return result || content
 }

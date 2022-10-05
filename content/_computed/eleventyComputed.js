@@ -1,4 +1,4 @@
-const chalkFactory = require('../../_lib/chalk')
+const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
 const { warn } = chalkFactory('eleventyComputed')
@@ -23,27 +23,42 @@ module.exports = {
         layout: data.layout,
         object: data.object,
         order: data.order,
+        classes: data.pageClasses,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
         title: data.title
       }
     },
-    key: (data) => {
-      if (!data.page.url) return
-      const segments = data.page.url.split('/')
-      const key = segments.slice(1, segments.length - 1).join('/')
-      return data.key || key
-    },
+    key: (data) => data.key,
     order: (data) => data.order,
-    parent: (data) => {
-      if (!data.page.url) return
-      const segments = data.page.url.split('/')
-      const parent = segments.slice(1, segments.length - 2).join('/')
-      return data.parent || parent
-    },
-    url: (data) => data.page.url,
-    title: (data) => data.title
+    parent: (data) => data.parent,
+    title: (data) => data.title,
+    url: (data) => data.page.url
+  },
+  /**
+   * Current page key
+   * @return {String}
+   */
+  key: (data) => {
+    if (!data.page.url) return
+    const segments = data.page.url.split('/')
+    const key = segments.slice(1, segments.length - 1).join('/')
+    return data.key || key
+  },
+  /**
+   * Classes applied to <main> page element
+   */
+  pageClasses: ({ collections, class: classes, layout, page }) => {
+    const pageClasses = []
+    // Add computed frontmatter and page-one classes
+    const pageIndex = collections.allSorted.findIndex(({ outputPath }) => outputPath === page.outputPath)
+    const pageOneIndex = collections.allSorted.findIndex(({ data }) => data.class && data.class.includes('page-one'))
+    if (pageIndex < pageOneIndex) {
+      pageClasses.push('frontmatter')
+    }
+    // add custom classes from page frontmatter
+    return classes ? pageClasses.concat(classes) : pageClasses
   },
   pageContributors: ({ contributor, contributor_as_it_appears }) => {
     if (!contributor) return
@@ -63,7 +78,7 @@ module.exports = {
    */
   pageFigures: ({ figure, figures }) => {
     if (!figure || !figure.length) return
-    return figure.map((figure) => figures.figure_list.find((item) => item.id === figure.id))
+    return figure.map((figure) => figures.find((item) => item.id === figure.id))
   },
   /**
    * Objects data referenced by id in page frontmatter including figures data
@@ -108,12 +123,24 @@ module.exports = {
     }
   },
   /**
+   * Parent page key
+   * @return {String}
+   */
+  parent: ({ page, parent }) => {
+    if (!page.url) return
+    const segments = page.url.split('/')
+    const parentSegment = segments.slice(1, segments.length - 2).join('/')
+    return parent || parentSegment
+  },
+  parentPage:({ collections, parent }) => {
+    return collections.all.find((item) => parent && item.data.key === parent)
+  },
+  /**
    * Contributors with a `pages` property containing data about the pages they contributed to
    */
   publicationContributors: ({ collections, config, publication }) => {
-    const { contributor, contributor_as_it_appears } = publication
+    const { contributor } = publication
     if (!collections.all) return
-    if (contributor_as_it_appears) return contributor_as_it_appears
     return contributor
       .map((item) => {
         const { pic } = item
