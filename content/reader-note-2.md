@@ -5,7 +5,7 @@ order: 8
 layout: essay
 ---
 
-## I. Silver Weights 1600s–1700s, with Conversion to Metric[^1]
+## I. Silver Weights 1600<span class="lowercase">s</span>–1700<span class="lowercase">s</span>, with Conversion to Metric[^1]
 
 ### France[^2]
 
@@ -60,7 +60,7 @@ layout: essay
 
 The subject of silver is vast and multidisciplinary. References are provided on the natural element of silver; the historic processes of mining the metal above- and underground; artisanal/indigenous knowledge, the alchemy/science, technologies, and (generally exploitative) labor involved in its metallurgical extraction and refining from alloys and ores; the market demands and trade routes that brought supplies of bullion around the globe; and its minting into coin and the early modern economies powered by it.[^5]
 
-## II. Coinage and Currencies 1600s–1700s
+## II. Coinage and Currencies 1600<span class="lowercase">s</span>–1700<span class="lowercase">s</span>
 
 ### France
 
@@ -109,7 +109,7 @@ These monetary values were fixed until 1790. During this period, the cost of liv
 | 1 shilling       | = 12 pence |
 | 1 penny                     |
 
-{.headless-table}
+{.headless-table .england-coinage-table}
 
 {% backmatter %}
 

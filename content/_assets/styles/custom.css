@@ -96,6 +96,26 @@ Spectral Light
   }
 }
 
+.author-line {
+  display: none;
+}
+
+.toc-list .author-line {
+  display: inline;
+}
+
+.quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
+  text-transform: lowercase;
+}
+
+.content sup, .quire-entry h4, .quire-essay h4, .quire-page h4 {
+  font-style: normal;
+}
+
+.block-of-text .roman {
+  font-style: normal;
+}
+
 /* NAVBAR
 ============================================================================= */
 .quire-navbar {
@@ -253,6 +273,18 @@ Spectral Light
   }
 }
 
+.england-coinage-table td:first-child {
+  width: 10rem;
+}
+
+.essayone-table td:last-child {
+  width: 30%;
+}
+
+.essayone-table td:nth-child(2) {
+  width: 25%;
+}
+
 /* FOOTNOTES
 ============================================================================= */
 .quire-page__content .container .content .footnotes {
@@ -298,6 +330,10 @@ Spectral Light
     column-fill: auto;
     column-gap: 0.1875in;
   }
+}
+
+.block-of-text {
+  break-inside: avoid;
 }
 
 /* PDF
