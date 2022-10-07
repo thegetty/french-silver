@@ -14,9 +14,9 @@ Spectral Light
 */
 @font-face {
   font-family: "Spectral";
-  src: url("../fonts/spectral/spectral-light.woff2") format("woff2"),
-       url("../fonts/spectral/spectral-light.woff") format("woff"),
-       url("../fonts/spectral/spectral-light.ttf") format("truetype");
+  src: url("_assets/fonts/spectral/spectral-light.woff2") format("woff2"),
+       url("_assets/fonts/spectral/spectral-light.woff") format("woff"),
+       url("_assets/fonts/spectral/spectral-light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
@@ -24,9 +24,9 @@ Spectral Light
 */
 @font-face {
   font-family: "Spectral";
-  src: url("../fonts/spectral/spectral-semibold.woff2") format("woff2"),
-       url("../fonts/spectral/spectral-semibold.woff") format("woff"),
-       url("../fonts/spectral/spectral-semibold.ttf") format("truetype");
+  src: url("_assets/fonts/spectral/spectral-semibold.woff2") format("woff2"),
+       url("_assets/fonts/spectral/spectral-semibold.woff") format("woff"),
+       url("_assets/fonts/spectral/spectral-semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
