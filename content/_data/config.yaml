@@ -16,11 +16,9 @@ disableKinds:
   - term
 
 params:
-  biblioHeading: Bibliography
   citationPageLocationDivider: ', '
   citationPopupStyle: text # text | icon
   contributorByline: name # name | name-title | false
-  displayBiblioShort: true
   entryPageObjectLinkText: View in Collection
   entryPageSideBySideLayout: true
   figureLabelLocation: below # below | on-top
@@ -35,3 +33,8 @@ params:
   prevPageButtonText: Back
   searchEnabled: true
   tocType: full
+
+bibliography:
+  displayOnPage: false
+  displayShort: true
+  heading: Bibliography
