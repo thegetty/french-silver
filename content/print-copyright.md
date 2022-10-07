@@ -1,9 +1,10 @@
 ---
-title: Copyright
 layout: page
+class: backmatter
 order: 2
-toc: false
 outputs: [pdf, epub]
+toc: false
+menu: false
 ---
 
 {% backmatter %}
@@ -64,17 +65,17 @@ Library of Congress Cataloging-in-Publication Data
 
 - Names: J. Paul Getty Museum, author, issuing body. | Bremer-David,
    Charissa, author. | Chasen, Jessica, contributor. | Heginbotham, Arlen,
-   contributor. | Wolfe, Julie, contributor.  
+   contributor. | Wolfe, Julie, contributor.
 - Title: French silver in the J. Paul Getty Museum / Charissa Bremer-David ;
    with technical contributions by Jessica Chasen, Arlen Heginbotham, and
-   Julie Wolfe.  
+   Julie Wolfe.
 - Description: First edition. | Los Angeles : J. Paul Getty Museum, 2023. |
    Includes bibliographical references. | Summary: “This illustrated book
    catalogues the J. Paul Getty Museum's collection of seventeenth- and
-   eighteenth-century French silver”— Provided by publisher.  
+   eighteenth-century French silver”— Provided by publisher.
 - Identifiers: LCCN 2022034653 (print) | LCCN 2022034654 (ebook) | ISBN
    9781606068281 (paperback) | ISBN 9781606068311 (adobe pdf) | ISBN
-   9781606068298 (epub) | ISBN 9781606068304  
+   9781606068298 (epub) | ISBN 9781606068304
 - Subjects: LCSH: J. Paul Getty Museum—Catalogs. |
    Silverwork—France—Paris—History—18th century—Catalogs. |
    Silverwork—France—Paris—History—17th century—Catalogs. |

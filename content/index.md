@@ -4,6 +4,7 @@ order: 1
 layout: cover
 menu: false
 toc: false
+outputs: [html]
 image: figures/plate-3-1.jpg
 ---
 

@@ -20,7 +20,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # System files
-.DS_Store
+**/*/.DS_Store
 
 # npm cache directory
 .npm

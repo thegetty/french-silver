@@ -2,6 +2,7 @@
 title: About
 order: 300
 layout: page
+outputs: [html]
 ---
 
 {{ publication.description.full }}

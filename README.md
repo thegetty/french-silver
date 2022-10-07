@@ -57,21 +57,15 @@ nvm install 16.15.0
 
 ## Creating a PDF Version
 
-While the paged.js work is ongoing, a PDF of French Silver can be created with PrinceXML on the command line.
+While the paged.js work is ongoing, a PDF of French Silver should be created with PrinceXML (First pages was created using Prince 14.2.)
 
-1. Comment out `outputs: [pdf, epub]` from both `content/copyright.md` and `content/title-pages.md`, so that these pages will appear online.
+1. Run either `npm run dev` (and then stop it) or `npm run build` to generate the latest version of `_site/pdf.html` and `_site/pdf.css` from which the PDF will be generated
 
-2. Run `npm run dev` to see the preview.
+2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
 
-3. With the preview running, run this command in another Terminal window.
+3. In `_site/pdf.html` find `iiif/(.*?)/print-image.jpg` and replace with `iiif/$1/$1/print-image.jpg`
 
-    ```
-    prince http://localhost:8080/ http://localhost:8080/title-pages/ http://localhost:8080/copyright/ http://localhost:8080/contents/ http://localhost:8080/foreword/ http://localhost:8080/acknowledgments/ http://localhost:8080/intro/ http://localhost:8080/reader-note-1/ http://localhost:8080/reader-note-2/ http://localhost:8080/catalogue/ http://localhost:8080/catalogue/1/ http://localhost:8080/catalogue/2/ http://localhost:8080/catalogue/3/ http://localhost:8080/catalogue/4/ http://localhost:8080/catalogue/5/ http://localhost:8080/catalogue/6/ http://localhost:8080/catalogue/7/ http://localhost:8080/catalogue/8/ http://localhost:8080/catalogue/9/ http://localhost:8080/catalogue/10/ http://localhost:8080/makers/ http://localhost:8080/appendix/ http://localhost:8080/bibliography/ http://localhost:8080/authors/ --style=bin/application.css --style=content/_assets/styles/custom.css -o output.pdf
-    ```
-
-(Note that `bin/application.css`) is a static output of the SCSS styles in `content/_assets/styles/`. So changes to those files would necessitate manual changes be made to `bin/application.css` to keep them aligned.
-
-First pages was created using Prince 14.2.
+4. Run `npm run build:prince`
 
 ## Customizations Made to 11ty Templates/Files
 
@@ -83,3 +77,10 @@ Adjusted SCSS for classic theme figure styles.
 
 **_layouts/bibliography.liquid**
 Pointed it to layout: essay, rather than layout: page so that it would be two-column in PDF.
+
+**_plugins/shortcodes/figureGroup.js**
+Output simple group of figures rather than in rows.
+
+**_plugins/transforms/outputs/pdf/layout.html**
+**_plugins/transforms/outputs/pdf/write.js**
+Add DIVs to properly style PDF output based on current SCSS.
