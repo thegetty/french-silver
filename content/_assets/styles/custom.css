@@ -116,6 +116,7 @@ Spectral Light
   font-style: normal;
 }
 
+
 /* NAVBAR
 ============================================================================= */
 .quire-navbar {
@@ -360,4 +361,8 @@ Spectral Light
   .title-page .contributor.additional-contributors {
     font-weight: 400;
   }
+}
+/* Image adjustments for print */
+.q-figure.pdf-two-column {
+  column-span: all;
 }
