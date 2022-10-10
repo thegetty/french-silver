@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE -- French Silver
+// output simple group of figures rather than in rows
+//
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
@@ -12,7 +16,6 @@ const { warn } = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
-
   return async function (columns, ids=[]) {
     columns = parseInt(columns)
 
@@ -33,21 +36,16 @@ module.exports = function (eleventyConfig, { page }) {
     //   warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
     // }
 
-    const classes = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
-    const rows = Math.ceil(ids.length / columns)
-    let figureTags = []
-    for (let i=0; i < rows; ++i) {
-      const startIndex = i * columns
-      let row = '';
-      for (let id of ids.slice(startIndex, columns + startIndex)) {
-        row += await figure(eleventyConfig, { page })(id, classes);
-      }
-      figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
+    const gridClass = `quire-grid-${columns}`
+
+    let figures = '';
+    for (let i=0; i < ids.length; i++) {
+      figures += await figure(eleventyConfig, { page })(ids[i]);
     }
 
     return html`
-      <figure class="q-figure q-figure--group">
-        ${figureTags.join('\n')}
+      <figure class="${['q-figure', 'q-figure--group', gridClass].join(' ')}">
+        ${figures}
       </figure>
     `
 }

@@ -10,7 +10,7 @@ The collection of French silver at the J. Paul Getty Museum reflects the tastes 
 
 {% figure "fig-0-1" %}
 
-{% figure "fig-0-2" %}
+{% figure "fig-0-2" "pdf-two-column" %}
 
 {% figure "fig-0-3" %}
 
