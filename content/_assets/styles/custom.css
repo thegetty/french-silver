@@ -230,6 +230,17 @@ Spectral Light
     margin-right: 0;
   }
 }
+/* Set basic styles for choices images (figure 1.4) */
+.annotations-ui__input-wrapper {
+  display: inline-block;
+  margin-right: .5rem;
+  font-size: .75rem;
+  font-weight: bold;
+}
+.q-figure-slides__slide-ui {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+}
 
 /* BLOCKQUOTES
 ============================================================================= */
