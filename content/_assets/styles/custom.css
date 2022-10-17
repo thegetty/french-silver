@@ -302,6 +302,15 @@ Spectral Light
     column-span: all;
   }
 }
+/* Make citation pop-ups in table only function inside lightbox modal */
+.quire-page__content .table-figure .table-key .quire-citation {
+  pointer-events: none;
+  cursor: default;
+}
+.quire-page__content .q-lightbox-slides .table-key .quire-citation {
+  pointer-events: initial;
+  cursor: pointer;
+}
 
 .england-coinage-table td:first-child {
   width: 10rem;
