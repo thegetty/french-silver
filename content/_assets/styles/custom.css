@@ -3,6 +3,14 @@
   /* same as $accent-color in content/_assets/styles/variables.scss */
 }
 
+
+/* UTILITY CLASSES
+============================================================================= */
+
+.no-break-container {
+  break-inside: avoid;
+}
+
 /* COVER
 ============================================================================= */
 /*
@@ -76,30 +84,11 @@ Spectral Light
   font-weight: 700;
   text-align: center;
 }
-@media print {
-  .quire-cover__hero .hero-body .container {
-    width: 100%;
-    padding-bottom: 1in;
-  }
-  .quire-cover__hero .title {
-    font-size: 22pt;
-  }
-  .quire-cover__hero .title .title-large {
-    font-size: 60pt;
-  }
-  .title-page .contributor {
-    max-width: 4.75in;
-    float: right;
-  }
-  .title-page .contributor p {
-    margin-bottom: 1em;
-  }
-}
 
+/* Hack to show specialize author info for Cat. 1 in TOC only */
 .author-line {
   display: none;
 }
-
 .toc-list .author-line {
   display: inline;
 }
@@ -323,14 +312,13 @@ Spectral Light
   cursor: pointer;
 }
 
+/* Manage column widths in specific instances to refine line breaks in cells */
 .england-coinage-table td:first-child {
   width: 10rem;
 }
-
 .essayone-table td:last-child {
   width: 30%;
 }
-
 .essayone-table td:nth-child(2) {
   width: 25%;
 }
@@ -364,22 +352,6 @@ Spectral Light
 }
 .quire-page__content .container .content .cip-data ul li::before {
   display: none;
-}
-/* Format copyright page layout */
-@media print {
-  .quire-copyright,
-  .quire-copyright .quire-page__content,
-  .quire-copyright .quire-page__content .container,
-  .quire-copyright .quire-page__content .container .content {
-    max-width: 100%;
-    padding: 0;
-    width: 100%;
-  }
-  .quire-copyright .quire-page__content .container .content .backmatter {
-    column-count: 2;
-    column-fill: auto;
-    column-gap: 0.1875in;
-  }
 }
 
 .block-of-text {
@@ -423,34 +395,10 @@ Spectral Light
   .quire-page .quire-page__header__title .quire-page-title {
     string-set: pagetitle content();
   }
-  /* Make 2 columns throughout */
-  .quire-page:not(.quire-contents) .quire-page__content {
-    column-count: 2;
-    column-fill: balance;
-    column-gap: .1875in;
-    max-width: 100%;
-    margin: 0;
-  }
   /* Remove figure borders */
   .content figure.q-figure {
     border-width: 0;
     padding: 0;
-  }
-  /* Adjust font size and margins for small text items */
-  .content figure .q-figure__caption {
-    font-size: .875rem;
-    line-height: 1.5;
-  }
-  .quire-page__content .content .footnotes ol li {
-    margin-bottom: 0;
-    font-family: "Noto Sans", sans-serif;
-    font-size: .75rem;
-    line-height: 1.6;
-  }
-  .quire-page__content .content .quire-page__content__references dl {
-    margin-bottom: .375rem;
-    font-size: .75rem;
-    line-height: 1.6;
   }
   .quire-page__content .content .quire-page__content__references dl dd {
     margin-bottom: 0;
@@ -584,4 +532,59 @@ Spectral Light
 /* Image adjustments for print */
 .q-figure.pdf-two-column {
   column-span: all;
+}
+
+/* COPYRIGHT & ABOUT
+============================================================================= */
+/* Columns */
+#print-copyright.quire-page .quire-page__content {
+  column-count: 2;
+  column-gap: .1875in;
+  max-width: 100%;
+  margin: 0;
+}
+/* Header */
+#print-copyright.quire-page .quire-page__header {
+  display: none;
+}
+/* Copyright Block */
+.quire-page__content .container .content .quire-copyright {
+  padding-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Publisher */
+.quire-page__content .container .content .publisher p:first-child {
+  margin-bottom: 0;
+}
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+.quire-page__content .container .content .project-team ul * {
+  margin: 0;
+}
+
+/* FINE PRINT
+============================================================================= */
+.quire-page__content .container .content figure .q-figure__caption,
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .container .content .quire-page__content__references dl,
+#print-copyright .quire-page__content .container .content {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+.quire-page__content .container .content figure .q-figure__caption {
+  font-family: "Noto Serif", serif;
+}
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .content .quire-page__content__references dl {
+  margin-bottom: .375rem;
+}
+.quire-page__content .container .content .footnotes li p {
+  margin-bottom: 0;
 }
