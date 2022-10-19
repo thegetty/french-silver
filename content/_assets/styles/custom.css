@@ -586,9 +586,20 @@ Spectral Light
 .quire-page__content .container .content .project-team ul {
   list-style-type: none;
   margin-left: 0;
+  margin-bottom: 1em;
 }
 .quire-page__content .container .content .project-team ul * {
   margin: 0;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: "";
+}
+/* Don't add border to SVG icons link */
+.quire-page__content .content a.quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.quire-copyright__icon__link:hover {
+  border-bottom-width: 0 !important;
 }
 
 /* FINE PRINT
