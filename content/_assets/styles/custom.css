@@ -105,6 +105,11 @@ Spectral Light
   font-style: normal;
 }
 
+/* Hide author title and affiliation on Acknowledgments page */
+#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__title,
+#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__affiliation {
+  display: none;
+}
 
 /* NAVBAR
 ============================================================================= */
@@ -382,19 +387,6 @@ Spectral Light
   .title-page .contributor.additional-contributor {
     font-weight: 400;
   }
-  /* Fix/set running feet */
-  @page:right {
-    @bottom-left {
-      text-transform: uppercase;
-      font-size: 7.5pt;
-    }
-  }
-  .quire-page .quire-page__header__title .label {
-    string-set: sectiontitle content();
-  }
-  .quire-page .quire-page__header__title .quire-page-title {
-    string-set: pagetitle content();
-  }
   /* Remove figure borders */
   .content figure.q-figure {
     border-width: 0;
@@ -442,6 +434,9 @@ Spectral Light
   .quire-page__header:not(.hero__image) {
     page-break-before: always;
   }
+  #catalogue .quire-page__header:not(.hero__image) {
+    break-before: right;
+  }
   .quire-page__header.hero__image {
     display: none;
   }
@@ -461,11 +456,19 @@ Spectral Light
   .quire-page__content .container .content ul:not(.bio) {
     list-style-type: disc;
   }
-  .quire-page__content .container .content .cip-data ul {
+  .quire-page__content .container .content .cip-data ul,
+  .quire-page__content .container .content ul.quire-contributors-list {
     list-style-type: none;
   }
   .quire-page__content .container .content ul li::before {
     content: none;
+  }
+  /* Make Intro 2 column in PDF */
+  #intro.quire-page .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
   }
   /* Links */
   .q-figure__modal-link {
@@ -535,7 +538,18 @@ Spectral Light
     }
   }
   .quire-entry__image-wrap {
+    break-before: left;
     page: entry-image;
+  }
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("../img/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 28%;
+  }
+  /* Properly hide list of pages below contributor bios */
+  .quire-contributor__bio + ul {
+    display: none;
   }
 }
 /* Image adjustments for print */

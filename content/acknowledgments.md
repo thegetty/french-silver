@@ -2,6 +2,8 @@
 title: Acknowledgments
 order: 5
 layout: page
+contributor:
+  - id: cbremer
 ---
 
 As author of this catalogue of French silver in the J. Paul Getty Museum, I stand upon the shoulders of many. First and foremost, my debt is to those who built the collection, J. Paul Getty and the Museum’s first curator of decorative arts, Gillian Wilson (who retired in 2003 as curator emerita), and then to the dealers and specialists who advised them. The silver object files in the Sculpture and Decorative Arts Department of the J. Paul Getty Museum are rich sources of information gradually accumulated over the years by former staff, notably David H. Cohen and Gay Nieda Gassmann, and external colleagues, such as Clare Le Corbeiller of the Metropolitan Museum of Art, New York; Bruno Pons, an independent researcher; and Alexandre Pradère, formerly of Sotheby’s, Paris, and for many years now an independent art historian.
@@ -15,4 +17,5 @@ I learned about traditional silversmithing techniques from Rod Kelly, Goldsmith 
 Other departments at the Getty Center worked behind the scenes to produce this beautiful publication. Members of the Sculpture and Decorative Arts Department extended their knowledge, support, and guidance: Anne-Lise Desmas, Jeffrey Weaver, Amanda Berman, and Dulcinea Cano. Anne-Lise Desmas, Senior Curator and Department Head, also critically read the manuscript and suggested helpful improvements. The project was ably assisted by several important collaborative teams: preparators and mount makers in the Museum; reference, special collections, interlibrary loan, and circulation, as well as institutional records and archives in the Getty Research Institute; and imaging services in Getty Digital including Michael Smith, Rebecca Vera-Martinez, Stacey Rain Strickler, Gary Hughes, and Johana Herrera. Getty Publications brought the volume to fruition; thanks especially to Kara Kirk, Karen Levine, Nola Butler, Greg Albers, Ruth Evans Lane, Kurt Hauser, Victoria Gallina, Dina Murokh, Nancy Rivera, and freelance copyeditor Zsofia Jilling.
 
 To all these, thank you.
-Charissa Bremer-David
+
+{% contributors context=pageContributors format='name-title-block' align='right' %}
