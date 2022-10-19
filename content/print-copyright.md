@@ -14,8 +14,7 @@ The free online edition of this open-access publication is available at getty.ed
 {% copyright %}
 
 First edition, {{ publication.pub_date | date: "%Y" }}
-
-{{ publication.revision_statement | markdownify }}
+{{ publication.repository_url | replace: "https://", "" }}
 
 <div class="publisher no-break-container">
 

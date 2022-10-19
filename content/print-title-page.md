@@ -7,9 +7,9 @@ menu: false
 ---
 
 <div class="title-page">
-  {% if publication.title %}
+  {% if publication.cover_title %}
   <span class="title-tp">
-    {{ publication.title }}
+    {{ publication.cover_title }}
   </span><br />
   {% endif %}
   {% if publication.subtitle %}
@@ -25,7 +25,7 @@ menu: false
     {%- endif -%}
   </span><br />
   {%- if publication.additional_contributors -%}
-    <span class="contributor.additional-contributor">
+    <span class="contributor additional-contributor">
       {{ publication.additional_contributors | markdownify }}
     </span><br />
   {%- endif -%}

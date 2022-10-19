@@ -379,7 +379,7 @@ Spectral Light
   .title-page .contributor {
     font-weight: 700;
   }
-  .title-page .contributor.additional-contributors {
+  .title-page .contributor.additional-contributor {
     font-weight: 400;
   }
   /* Fix/set running feet */
@@ -407,7 +407,7 @@ Spectral Light
   .quire-contents-list .page-item a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page);
   }
-  .quire-contents-list .page-item a.frontmatter-page::after {
+  .quire-contents-list .page-item.frontmatter-page a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
   }
   /* Style half title and title pages */
@@ -421,13 +421,22 @@ Spectral Light
   }
   .title-page {
     padding-top: 2.25in;
-    padding-right: .75in;
+    padding-left: 0;
+    padding-right: .25in;
   }
   .half-title-page {
-    padding-right: .75in;
+    padding-right: .25in;
+  }
+  .title-page .title-tp .title-large {
+    display: block;
+  }
+  .title-page .contributor {
+    max-width: 4.5in;
+    float: right;
+    clear: both;
   }
   .title-page .publisher {
-    right: .875in;
+    right: 0.375in;
   }
   /* Headers */
   .quire-page__header:not(.hero__image) {
