@@ -111,6 +111,11 @@ Spectral Light
   display: none;
 }
 
+/* Properly hide list of pages below contributor bios */
+.quire-contributor__bio + ul {
+  display: none;
+}
+
 /* NAVBAR
 ============================================================================= */
 .quire-navbar {
@@ -543,18 +548,18 @@ Spectral Light
   }
   /* Add ornament to blank pages */
   @page:blank {
-    background-image: url("../img/blank-page.svg");
+    background-image: url("_assets/images/blank-page.svg");
     background-repeat: no-repeat ;
     background-position: center 28%;
   }
-  /* Properly hide list of pages below contributor bios */
-  .quire-contributor__bio + ul {
-    display: none;
+  /* Image adjustments for print */
+  .q-figure.pdf-two-column {
+    column-span: all;
   }
-}
-/* Image adjustments for print */
-.q-figure.pdf-two-column {
-  column-span: all;
+  .q-figure.pdf-break-after {
+    break-after: always;
+    page-break-after: always;
+  }
 }
 
 /* COPYRIGHT & ABOUT
