@@ -1,0 +1,629 @@
+:root {
+  --accent-color: #007FA9;
+  /* same as $accent-color in content/_assets/styles/variables.scss */
+}
+
+
+/* UTILITY CLASSES
+============================================================================= */
+
+.no-break-container {
+  break-inside: avoid;
+}
+
+/* COVER
+============================================================================= */
+/*
+Spectral
+https://github.com/productiontype/Spectral
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+
+Spectral Light
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("_assets/fonts/spectral/spectral-light.woff2") format("woff2"),
+       url("_assets/fonts/spectral/spectral-light.woff") format("woff"),
+       url("_assets/fonts/spectral/spectral-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* Spectral Semi-Bold
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("_assets/fonts/spectral/spectral-semibold.woff2") format("woff2"),
+       url("_assets/fonts/spectral/spectral-semibold.woff") format("woff"),
+       url("_assets/fonts/spectral/spectral-semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Cover customization to match previous collection catalogues */
+.hero-body .container.is-fluid {
+  bottom: 0;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 3rem;
+  text-align: center;
+  background: -webkit-linear-gradient(top, transparent, rgba(0,0,0,0.7));
+  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.7));
+  text-shadow: 3px 3px 5px rgba(0,0,0,0.9);
+}
+.quire-cover__hero .title {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+.quire-cover__hero .title .title-large {
+  display: block;
+  font-size: 5.25rem;
+  font-weight: 300;
+  padding-top: 5px
+}
+.quire-cover__hero .contributor {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.35rem;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .5px;
+  margin-top: 2rem;
+}
+.quire-cover__hero .contributor em {
+  font-style: normal;
+}
+.quire-cover__more .hero-more {
+  background: var(--accent-color);
+}
+.quire-cover .quire-page__content .container.is-fluid .content .cover-authors {
+  margin-bottom: 3rem;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Hack to show specialize author info for Cat. 1 in TOC only */
+.author-line {
+  display: none;
+}
+.toc-list .author-line {
+  display: inline;
+}
+
+.quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
+  text-transform: lowercase;
+}
+
+.content sup, .quire-entry h4, .quire-essay h4, .quire-page h4 {
+  font-style: normal;
+}
+
+.block-of-text .roman {
+  font-style: normal;
+}
+
+/* Hide author title and affiliation on Acknowledgments page */
+#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__title,
+#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__affiliation {
+  display: none;
+}
+
+/* Properly hide list of pages below contributor bios */
+.quire-contributor__bio + ul {
+  display: none;
+}
+
+/* NAVBAR
+============================================================================= */
+.quire-navbar {
+  font-family: 'Times', serif;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+.quire-navbar-page-controls__item.quire-home-page {
+  font-weight: bold;
+}
+
+/* TOMBSTONES
+============================================================================= */
+/* Spacing for list items, especially for Makers and Components */
+.quire-entry__tombstone table ul li {
+  margin-bottom: .5rem;
+}
+
+/* HEADINGS
+============================================================================= */
+.quire-entry h2,
+.quire-essay h2,
+.quire-page h2 {
+  font-size: 1.3125rem;
+  text-transform: uppercase;
+}
+.quire-entry h3,
+.quire-essay h3,
+.quire-page h3 {
+  font-size: 1.3125rem;
+  font-style: normal;
+}
+.quire-entry h4,
+.quire-essay h4,
+.quire-page h4 {
+  font-size: 1.3125rem;
+  font-style: italic;
+}
+.quire-entry h5,
+.quire-essay h5,
+.quire-page h5 {
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+.quire-entry h6,
+.quire-essay h6,
+.quire-page h6 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* FIGURES
+============================================================================= */
+/* Fix appearance and placement of figure label below caption */
+.content figure .q-figure__caption a {
+  color: #000;
+}
+.content figure .q-figure__caption a svg {
+  fill: #000;
+}
+.content figure .q-figure__caption a:hover {
+  color: var(--accent-color);
+}
+.content figure .q-figure__caption a:hover svg {
+  fill: var(--accent-color);
+}
+.q-figure__label--below .q-figure__label-icon {
+  height: 0;
+  margin-top: -1.65rem;
+}
+/* Fix display of simplified figuregroup shortcode output */
+.q-figure.q-figure--group {
+  display: grid;
+  grid-gap: 1rem;
+}
+.q-figure.q-figure--group .q-figure {
+  margin: 0;
+}
+.q-figure.q-figure--group.quire-grid-2 {
+  grid-template-columns: 1fr 1fr;
+}
+.q-figure.q-figure--group.quire-grid-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media print {
+  .q-figure.q-figure--group.quire-grid-2,
+  .q-figure.q-figure--group.quire-grid-3 {
+    text-align: left;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure {
+    width: calc((100% - 2rem) / 2);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure:nth-child(2n) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure {
+    width: calc((100% - 3rem) / 3);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure:nth-child(3n) {
+    margin-right: 0;
+  }
+}
+/* Set basic styles for choices images (figure 1.4) */
+.annotations-ui__input-wrapper {
+  display: inline-block;
+  margin-right: .5rem;
+  font-size: .75rem;
+  font-weight: bold;
+}
+.q-figure-slides__slide-ui {
+  flex-direction: column-reverse;
+  align-items: flex-start;
+}
+
+/* BLOCKQUOTES
+============================================================================= */
+/* Remove default quote ornament */
+.quire-page__content .container .content blockquote {
+  padding: 0;
+}
+.quire-page__content .container .content blockquote p:first-child:before {
+  content: none;
+}
+.quire-page__content .container .content blockquote table {
+  font-size: 1em;
+}
+/* Remove empty table heads from tables in Cat. 8. */
+.quire-page__content .container .content blockquote table thead {
+  display: none;
+}
+.quire-page__content .container .content blockquote table tbody {
+  border-top: 1px solid hsl(0deg, 0%, 86%);
+}
+/* Fix margin for blockquote in notes Cat. 10. */
+.quire-page__content .container .content .footnotes li blockquote {
+  margin-left: 1.5em;
+}
+
+/* TABLES
+============================================================================= */
+.headless-table thead {
+  display: none;
+}
+.headless-table tbody {
+  border-top: 1px solid hsl(0deg, 0%, 86%);
+}
+
+.quire-page__content .container .content .table-figure table td,
+.quire-page__content .container .content .table-figure table th {
+  text-align: left;
+}
+
+.quire-page__content .table-figure a {
+  color: #000000;
+}
+.quire-page__content .table-figure table caption {
+  font-size: .75rem;
+  margin-bottom: 1rem;
+}
+.quire-page__content .table-figure table#table-2 {
+  font-size: 0.75rem;
+}
+.quire-page__content .table-figure table#table-1 {
+  font-size: 0.625em;
+}
+.quire-page__content .table-figure .table-key {
+  font-size: 0.625em;
+  text-align: left;
+  margin-left: 0;
+}
+.quire-page__content .table-figure a:hover .table-key {
+  color: #000000;
+}
+.quire-page__content .table-figure .table-key dt {
+  float: left;
+  margin-right: .5rem;
+}
+.quire-page__content .table-figure .table-notes {
+  background-color: #e8e8e8;
+}
+@media print {
+  .quire-page__content .table-figure {
+    column-span: all;
+  }
+}
+/* Make citation pop-ups in table only function inside lightbox modal */
+.quire-page__content .table-figure .table-key .quire-citation {
+  pointer-events: none;
+  cursor: default;
+}
+.quire-page__content .q-lightbox-slides .table-key .quire-citation {
+  pointer-events: initial;
+  cursor: pointer;
+}
+
+/* Manage column widths in specific instances to refine line breaks in cells */
+.england-coinage-table td:first-child {
+  width: 10rem;
+}
+.essayone-table td:last-child {
+  width: 30%;
+}
+.essayone-table td:nth-child(2) {
+  width: 25%;
+}
+
+/* FOOTNOTES
+============================================================================= */
+.quire-page__content .container .content .footnotes {
+  padding-right: 0;
+}
+
+/* ABOUT & COPYRIGHT PAGES
+============================================================================= */
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+
+.block-of-text {
+  break-inside: avoid;
+}
+
+/* PDF
+============================================================================= */
+@media print {
+  /* Fix font size on sub-section items */
+  .quire-contents-list .menu-list .section-item ol a {
+    font-size: 8.5pt;
+    line-height: 1.6;
+  }
+  /* Fix page breaks within biblios */
+  .quire-page__content__references dt {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+  /* Hide catalogue grid */
+  .quire-contents-list.grid {
+    display: none;
+  }
+  /* Make main author more visually prominent */
+  .title-page .contributor {
+    font-weight: 700;
+  }
+  .title-page .contributor.additional-contributor {
+    font-weight: 400;
+  }
+  /* Remove figure borders */
+  .content figure.q-figure {
+    border-width: 0;
+    padding: 0;
+  }
+  .quire-page__content .content .quire-page__content__references dl dd {
+    margin-bottom: 0;
+  }
+  /* Add TOC dotted leaders back in since Prince supports them */
+  .quire-contents-list .page-item a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page);
+  }
+  .quire-contents-list .page-item.frontmatter-page a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  }
+  /* Style half title and title pages */
+  .half-title-page,
+  .title-page {
+    height: auto;
+    page: no-footer;
+  }
+  .title-page {
+    break-before: right;
+  }
+  .title-page {
+    padding-top: 2.25in;
+    padding-left: 0;
+    padding-right: .25in;
+  }
+  .half-title-page {
+    padding-right: .25in;
+  }
+  .title-page .title-tp .title-large {
+    display: block;
+  }
+  .title-page .contributor {
+    max-width: 4.5in;
+    float: right;
+    clear: both;
+  }
+  .title-page .publisher {
+    right: 0.375in;
+  }
+  /* Headers */
+  .quire-page__header:not(.hero__image) {
+    page-break-before: always;
+  }
+  #catalogue .quire-page__header:not(.hero__image) {
+    break-before: right;
+  }
+  .quire-page__header.hero__image {
+    display: none;
+  }
+  /* TOCs */
+  .quire-contents-list {
+    padding: 0;
+  }
+  .quire-contents-list .menu-list {
+    font-size: 1em;
+  }
+  /* Add margins for consistent spacing */
+  .quire-page__content .container .content p,
+  .quire-page__content .container .content ul {
+    margin-bottom: 1em;
+  }
+  /* Fallback to standard list CSS */
+  .quire-page__content .container .content ul:not(.bio) {
+    list-style-type: disc;
+  }
+  .quire-page__content .container .content .cip-data ul,
+  .quire-page__content .container .content ul.quire-contributors-list {
+    list-style-type: none;
+  }
+  .quire-page__content .container .content ul li::before {
+    content: none;
+  }
+  /* Make Intro 2 column in PDF */
+  #intro.quire-page .quire-page__content {
+    column-count: 2;
+    column-gap: 0.1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  /* Links */
+  .q-figure__modal-link {
+    border-bottom-width: 0;
+  }
+  .q-figure__label.q-figure__label--below .q-figure__modal-link {
+    line-height: 0;
+  }
+  /* Fix figure label positioning */
+  .q-figure__label {
+    line-height: 0;
+  }
+  /* Fix figure group layout */
+  .q-figure.q-figure--group.quire-grid-2,
+  .q-figure.q-figure--group.quire-grid-3 {
+    text-align: left;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure {
+    width: calc((100% - 2rem) / 2);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-2 .q-figure:nth-child(2n) {
+    margin-right: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure {
+    width: calc((100% - 3rem) / 3);
+    margin-right: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+  }
+  .q-figure.q-figure--group.quire-grid-3 .q-figure:nth-child(3n) {
+    margin-right: 0;
+  }
+  /* Catalogue plates */
+  .quire-entry__image-wrap {
+    height: 9.375in;
+    width: 6.75in;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .quire-entry__image-wrap figure:first-of-type {
+    border-width: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    max-height: 9.375in;
+    max-width: 6.75in;
+  }
+  .quire-entry__image-wrap .q-figure__label--below .q-figure__modal-link {
+    color: #bfbfbf;
+  }
+  .quire-entry__image-wrap .q-figure__caption-content {
+    color: #fff;
+  }
+  @page entry-image {
+    background-color: #2e2e2e;
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-entry__image-wrap {
+    break-before: left;
+    page: entry-image;
+  }
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("_assets/images/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 28%;
+  }
+  /* Image adjustments for print */
+  .q-figure.pdf-two-column {
+    column-span: all;
+  }
+  .q-figure.pdf-break-after {
+    break-after: always;
+    page-break-after: always;
+  }
+}
+
+/* COPYRIGHT & ABOUT
+============================================================================= */
+/* Columns */
+#print-copyright.quire-page .quire-page__content {
+  column-count: 2;
+  column-gap: .1875in;
+  max-width: 100%;
+  margin: 0;
+}
+/* Header */
+#print-copyright.quire-page .quire-page__header {
+  display: none;
+}
+/* Copyright Block */
+.quire-page__content .container .content .quire-copyright {
+  padding-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+/* Publisher */
+.quire-page__content .container .content .publisher p:first-child {
+  margin-bottom: 0;
+}
+/* Project Team */
+.quire-page__content .container .content .project-team ul {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+.quire-page__content .container .content .project-team ul * {
+  margin: 0;
+}
+.quire-page__content .container .content .project-team ul li::before {
+  content: "";
+}
+/* Don't add border to SVG icons link */
+.quire-page__content .content a.quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content a.quire-copyright__icon__link:hover {
+  border-bottom-width: 0 !important;
+}
+
+/* FINE PRINT
+============================================================================= */
+.quire-page__content .container .content figure .q-figure__caption,
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .container .content .quire-page__content__references dl,
+#print-copyright .quire-page__content .container .content {
+  font-family: "Noto Sans", sans-serif;
+  font-size: .75rem;
+  line-height: 1.6;
+}
+.quire-page__content .container .content figure .q-figure__caption {
+  font-family: "Noto Serif", serif;
+}
+.quire-page__content .container .content .footnotes li,
+.quire-page__content .content .quire-page__content__references dl {
+  margin-bottom: .375rem;
+}
+.quire-page__content .container .content .footnotes li p {
+  margin-bottom: 0;
+}

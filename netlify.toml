@@ -5,15 +5,11 @@
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
 [build]
-publish = "site"
-command = "npm --prefix themes/default/ run build:netlify"
+publish = "_site"
+command = "npm run build"
 
 [build.environment]
-NODE_VERSION = "14.18.1"
-
-HUGO_VERSION = "0.82.1"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+NODE_VERSION = "16.14.2"
 
 # These two GIT_LFS variables need to be added to the project’s
 # Deploy Settings in the Netlify UI, under Environment Variables:

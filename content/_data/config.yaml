@@ -1,0 +1,42 @@
+baseURL: "https://second-pages--french-silver.netlify.app"
+
+title: Quire Starter
+languageCode: en-us
+theme: default
+publishDir: site
+
+footnoteReturnLinkContents: '↩'
+GoogleAnalytics: ''
+
+pluralizeListTitles: true
+disableKinds:
+  - home
+  - section
+  - taxonomy
+  - term
+
+quire_credit_line: "This publication was created using Quire™, a multiformat publishing tool from Getty."
+
+params:
+  citationPageLocationDivider: ', '
+  citationPopupStyle: text # text | icon
+  contributorByline: name # name | name-title | false
+  entryPageObjectLinkText: View in Collection
+  entryPageSideBySideLayout: true
+  figureLabelLocation: below # below | on-top
+  figureModal: true
+  figureModalIcons: true
+  figureZoom: true
+  imageDir: '/_assets/images'
+  licenseIcons: true
+  menuType: full
+  nextPageButtonText: Next
+  pageLabelDivider: '. '
+  prevPageButtonText: Back
+  searchEnabled: true
+  tocType: full
+
+bibliography:
+  displayOnPage: false
+  displayShort: true
+  heading: Bibliography
