@@ -112,7 +112,7 @@ figure_list:
     zoom: true
     label: "Bio 5.1"
     caption: "Francis Garden (British, ca. 1709–after 1768), Trade card: *Phillips Garden, Working Goldsmith & Jeweller*, 1750s. Etching, 27.6 × 21.4 cm (10 7/8 × 8 3/8 in.)."
-    credit: "London, British Museum, Heal,67.156"
+    credit: "London, British Museum, Heal,67.156. © The Trustees of the British Museum"
     alt: ""
 
   - id: "bio-6-1"
@@ -128,7 +128,7 @@ figure_list:
     zoom: true
     label: "Bio 7.1"
     caption: "Nicolas de Largillièrre (French, 1656–1746), *Portrait of Thomas Germain and His Wife, Anne-Denise Gauchelet*, 1736. Oil on canvas, 146 × 113 cm (57 1/2 × 44 1/2 in.)."
-    credit: "Lisbon, Museu Calouste Gulbenkian, 431"
+    credit: "Lisbon, Museu Calouste Gulbenkian, 431. Calouste Gulbenkian Foundation, Lisbon - Calouste Gulbenkian Museum / photo: Catarina Gomes Ferreira"
     alt: ""
 
   - id: "bio-8-1"
@@ -693,7 +693,7 @@ figure_list:
     zoom: true
     label: "Fig. 0.2"
     caption: "Unknown photographer, *View of the Dining Room at Sutton Place*, with the *Pair of Tureens* by Paul Storr (on the side table at left), 1961. Photograph, reproduced from (anonymous author): “Sutton Place, The 16th Century Residence in Surrey of Mr. J. Paul Getty,” *The Antique Collector* 32, no. 2 (April 1961): 47."
-    credit: ""
+    credit: "Getty Research Institute. © The J. Paul Getty Trust"
     alt: ""
 
   - id: "fig-0-3"
@@ -709,7 +709,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.1"
     caption: "Royal Tapestry Manufactory at the Gobelins (Paris, active 1660–present), after the design of Charles Le Brun (French, 1619–1690), *L’opéra dans le Louvre / Le mois de janvier* (*The Opera at the Louvre / The Month of January*), from the cycle known as *Les maisons royales* / *Les mois de l’année*, 1681. Wool, silk, gilt metal- and silver-wrapped thread, 400 × 650 cm (157 1/2 × 259 7/8 in.)."
-    credit: "Paris, Mobilier national. Photographie © Isabelle Bideau, GMTT-108-001"
+    credit: "Paris, Mobilier national, GMTT-108-001. © Mobilier National/Photo: Isabelle Bideau"
     alt: ""
 
   - id: "fig-1-10"
@@ -773,7 +773,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.2"
     caption: "Ralph Leake (British, died 1716, active from 1671), *Cistern*, 1698–99. Silver, 21.5 × 60.9 cm (8 1/2 × 23 15/16 in.)."
-    credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, M.30-1965"
+    credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, M.30-1965. © Victoria and Albert Museum, London"
     alt: ""
 
   - id: "fig-1-3"
@@ -781,14 +781,14 @@ figure_list:
     zoom: true
     label: "Fig. 1.3"
     caption: "Attributed to Adam Loofs (Dutch, ca. 1645–after 1704), *Pair of Flagons* (*Buires*), ca. 1681. Silver, 85.1 × 52 × 42.3 cm (33 1/2 × 20 1/2 × 16 5/8 in.)."
-    credit: "Nottinghamshire, England, Portland Collection, Harley Gallery, Welbeck Abbey, 2906-7"
+    credit: "Nottinghamshire, England, Portland Collection, Harley Gallery, Welbeck Abbey, 2906-7. Bridgeman Images
     alt: ""
 
   - id: "fig-1-4"
     zoom: true
     label: "Fig. 1.4"
     caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”*, 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
-    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27"
+    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27. © National Trust Images / James Dobson"
     alt: ""
     annotations:
       - input: radio
@@ -808,7 +808,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.5"
     caption: "Robert Adam (British, 1728–1792), *Study of Cistern and Fountain*, ca. 1760. Pencil sketch, 14.4 × 20.3 cm (5 11/16 × 7 15/16 in.)."
-    credit: "London, Sir John Soane’s Museum. Photo: © Sir John Soane’s Museum, London, SM Adam Volume 54 Series III/1"
+    credit: "London, Sir John Soane’s Museum. SM Adam Volume 54 Series III/1. © Sir John Soane’s Museum, London. Photograph by Ardon Bar-Hama"
     alt: ""
 
   - id: "fig-1-6"
@@ -816,7 +816,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.6"
     caption: "Robert Le Vrac Tournières (French, 1667–1752), *Portrait of Goldsmith Nicolas Delaunay and His Family*, 1704. Oil on panel, 56 × 70.2 cm (22 1/16 × 27 5/8 in.)."
-    credit: "Caen, Musée des beaux-arts, 78.2.1"
+    credit: "Caen, Musée des beaux-arts, 78.2.1. Musée des Beaux-Arts de Caen, photography by M. Seyve"
     alt: ""
 
   - id: "fig-1-7"
@@ -824,7 +824,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.7"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *For Sir Nathaniel Curzon Baronet: Study of Vase, Cistern, and Fountain*, 1761. Pen, ink, and pencil, 29 × 40.9 cm (11 7/16 × 16 1/6 in.)."
-    credit: "London, Sir John Soane’s Museum. Photo: © Sir John Soane’s Museum, London, SM Adam Volume 25/81, 82, 83"
+    credit: "London, Sir John Soane’s Museum. SM Adam Volume 25/81, 82, 83. © Sir John Soane’s Museum, London. Photograph by Ardon Bar-Hama"
     alt: ""
 
   - id: "fig-1-8"
@@ -832,7 +832,7 @@ figure_list:
     zoom: true
     label: "Fig. 1.8"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board, Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
-    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall. © NTPL/John Hammond, NT 109448"
+    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall. © National Trust Images / James Dobson"
     alt: ""
 
   - id: "fig-1-9"
@@ -848,7 +848,7 @@ figure_list:
     zoom: true
     label: "Fig. 10.1"
     caption: "Unknown artist, Table plan for a first-course setting, ca. 1750. Pen and ink, 29.5 × 91.4 cm (11 5/8 × 36 in.)."
-    credit: "Augsburg, Städtische Kunstsammlungen, Graphische Sammlung, Gr. 24934"
+    credit: "Augsburg, Städtische Kunstsammlungen, Graphische Sammlung, Gr. 24934. Kunstsammlungen und Museen Augsburg"
     alt: ""
 
   - id: "fig-10-2"
@@ -856,7 +856,7 @@ figure_list:
     zoom: true
     label: "Fig. 10.2"
     caption: "Robert Joseph Auguste (French, 1723–1805), Design for a covered vase, ca. 1774. Pen and ink, with wash, 41.9 × 48.6 cm (16 1/2 × 19 1/4 in.)."
-    credit: "Paris, École nationale supérieure des beaux-arts, O 1273. Photo © Beaux-Arts de Paris, Dist. RMN-Grand Palais / image Beaux-Arts de Paris"
+    credit: "Paris, École nationale supérieure des beaux-arts, O 1273. Photo © Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY"
     alt: ""
 
   - id: "fig-10-3"
@@ -872,7 +872,7 @@ figure_list:
     zoom: true
     label: "Fig. 10.4"
     caption: "Robert Joseph Auguste (French, 1723–1805), Antoine Boullier (French, 1749–1835), Frantz Peter Bundsen (German, ca. 1725–died 1795), and Franz Anton Hans Nübell (German, active 1819–26), *Table Service of George III*, ca. 1776–1824. Silver."
-    credit: "Buckinghamshire, England, National Trust of England, Wales, and Northern Ireland, Waddesdon Manor, on loan from a Rothschild Charitable Trust, 8.2003.1–82"
+    credit: "Buckinghamshire, England, National Trust of England, Wales, and Northern Ireland, Waddesdon Manor, on loan from a Rothschild Charitable Trust, 8.2003.1–82. Photo courtesy Waddesdon Image Library, Mike Fear"
     alt: ""
 
   - id: "fig-10-5"
@@ -888,7 +888,7 @@ figure_list:
     zoom: true
     label: "Fig. 2.1"
     caption: "Masson (French, active ca. 1700) (designer and engraver) and Jean Mariette (French, 1660–1742) (publisher), Designs for lidded bowls, from *Nouveaux Desseins pour graver sur l’orfèvrerie inventés et gravés par le seur Masson* (*New Designs for Engraving on Gold-Silversmithing Made and Engraved by M. Masson*), ca. 1701–9. Engraving, 37 × approx. 24.2 cm (14 1/2 × 9 1/2 in.)."
-    credit: "London, Victoria and Albert Museum, Prints, Drawings and Paintings Collection. © Victoria and Albert Museum, E. 5916-1908"
+    credit: "London, Victoria and Albert Museum, Prints, Drawings and Paintings Collection,E. 5916-1908. © Victoria and Albert Museum, London"
     alt: ""
 
   - id: "fig-2-2"
@@ -904,7 +904,7 @@ figure_list:
     zoom: true
     label: "Fig. 2.3"
     caption: "Possibly Pierre Jarrin (French, active 1712–64), *Lidded Bowl* (*Écuelle*), 1712. Silver, 11.4 × 30.9 × 18.8 cm (4 1/2 × 12 3/16 × 7 3/8 in.)."
-    credit: "Museum of Fine Arts, Boston, Elizabeth Parke Firestone and Harvey S. Firestone, Jr. Collection, 1993.402a–b"
+    credit: "Museum of Fine Arts, Boston, Elizabeth Parke Firestone and Harvey S. Firestone, Jr. Collection, 1993.402a–b. Photograph © 2023 Museum of Fine Arts, Boston"
     alt: ""
 
   - id: "fig-2-4"
@@ -912,7 +912,7 @@ figure_list:
     zoom: true
     label: "Fig. 2.4"
     caption: "Louis Cordier (French, active 1692–1748) and unknown goldsmith, *Broth Bowl with Stand* (*Écuelle à bouillon et présentoir*), gilded silver. Photograph reproduced from *Catalogue des objets d'orfèvrerie ancienne, principalement de “Vieux Paris” du XVIIIe siècle … composant la collection de M. M[arius] P[aulme]*, sale cat., Galerie Georges Petit, Paris, April 18–19, 1923, lot 183."
-    credit: "Los Angeles, Getty Research Institute, 84-P18073"
+    credit: "Los Angeles, Getty Research Institute, 84-P18073. © The J. Paul Getty Trust"
     alt: ""
 
   - id: "fig-3-1"
@@ -920,7 +920,7 @@ figure_list:
     zoom: true
     label: "Fig. 3.1"
     caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 5/16 in.)."
-    credit: "Lisbon, Museu Nacional de Arte Antiga, inv. 1827 Our"
+    credit: "Lisbon, Museu Nacional de Arte Antiga, inv. 1827 Our. © Direçāo-Geral do Património Cultural / Arquivo e Documntaçā Fotográfica / Luis Piorro"
     alt: ""
 
   - id: "fig-3-2"
@@ -936,7 +936,7 @@ figure_list:
     zoom: true
     label: "Fig. 3.3"
     caption: "Thomas Germain (French, 1673–1748), *Tureen, Lid, Liner, and Stand* (*Terrine, couvercle, doublure, et plat*), 1733 or 1734. Silver, 25.4 × 54.6 × 41.3 cm (10 × 21 1/2 × 16 1/4 in.)."
-    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, 59.18"
+    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, 59.18. © Detroit Institute of Arts / Bridgeman Images"
     alt: ""
 
   - id: "fig-3-4"
@@ -944,7 +944,7 @@ figure_list:
     zoom: true
     label: "Fig. 3.4"
     caption: "François Desportes (French, 1661–1743), *Still Life with Tureen with Peaches (Nature morte avec terrine aux pêches*), 1739–40. Oil on canvas, 91 × 117 cm (35 3/4 × 46 in.)."
-    credit: "Stockholm, Nationalmuseum, MN 800"
+    credit: "Stockholm, Nationalmuseum, MN 800. Photo: Cecilia Heisser"
     alt: ""
 
   - id: "fig-4-1"
@@ -960,7 +960,7 @@ figure_list:
     zoom: true
     label: "Fig. 4.2"
     caption: "Unknown goldsmith(s), *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Silver and varnish, H: 22.9 cm each (9 in.)."
-    credit: "Hartford, Wadsworth Atheneum Museum of Art, Gift of J. Pierpont Morgan, 1917.288–289"
+    credit: "Hartford, Wadsworth Atheneum Museum of Art, Gift of J. Pierpont Morgan, 1917.288–289. Photo: Allen Phillips / Wadsworth Antheneum"
     alt: ""
 
   - id: "fig-4-3"
@@ -968,7 +968,7 @@ figure_list:
     zoom: true
     label: "Fig. 4.3"
     caption: "Unknown goldsmith, *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Silver, 28.5 × 11 cm (11 1/4 × 4 5/16 in.)"
-    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750"
+    credit: "Paris, Musée du Louvre, Gift of the Société des Amis du Louvre, 1995, OA 11749–11750. Photo © Musée du Louvre, Dist. RMN-Grand Palais / Martine Beck Coppola / Art Resource, NY"
     alt: ""
 
   - id: "fig-5-1"
@@ -984,7 +984,7 @@ figure_list:
     zoom: true
     label: "Fig. 5.2"
     caption: "Unknown artist, *Sucriers* [Two models for sugar casters], from *Recueil d’orfèvrerie italienne* (*Collection of Italian Silver*)*,* here dated to the early 1700s. Pen and ink, with brown wash, 39.7 × 26 cm (15 5/8 × 10 1/4 in.)."
-    credit: "Paris, Musée des arts décoratifs, département des Arts graphiques. © Photo Les Arts Décoratifs, Paris, Tous droits réservés, 7628-5"
+    credit: "Paris, Musée des arts décoratifs, département des Arts graphiques, 7628-5. © Photo Les Arts Décoratifs, Paris, All rights reserved"
     alt: ""
 
   - id: "fig-5-3"
@@ -1000,7 +1000,7 @@ figure_list:
     zoom: true
     label: "Fig. 5.4"
     caption: "Paul Hannong manufactory (Strasbourg, France, active 1739–55), *Sugar Caster* (*Sucrier à poudre*), ca. 1750. Faïence, with tin-based ground glaze and over-glaze enamel decoration (*au petit feu*) and gilding, H: 20.7 cm (8 1/8 in.)."
-    credit: "Historisches Museum Basel, 1988.211"
+    credit: "Historisches Museum Basel, 1988.211. © Historisches Museum Basel, Maurice Babey"
     alt: ""
 
   - id: "fig-6-1"
@@ -1008,7 +1008,7 @@ figure_list:
     zoom: true
     label: "Fig. 6.1"
     caption: "Juste-Aurèle Meissonnier (French, ca. 1693–1750) (designer) and Pierre Quentin Chedel (French, 1705–1763) (etcher), *No. 14*, from *Livres de légumes inventées et dessinées* (*Book of Vegetables Invented and Drawn*), 1734–42. Etching, 16.2 × 11.2 cm (6 2/5 × 4 3/8 in.)."
-    credit: "Los Angeles, Getty Research Institute, gri_festivals_p860001_b8f14"
+    credit: "Los Angeles, Getty Research Institute, gri_festivals_p860001_b8f14. © The J. Paul Getty Trust"
     alt: ""
 
   - id: "fig-6-2"
@@ -1016,7 +1016,7 @@ figure_list:
     zoom: true
     label: "Fig. 6.2"
     caption: "Thomas Germain (French, 1673–1748), Design for a round tureen and stand, ca. 1735–40. Sanguine and sanguine wash drawing, 42.5 × 56.5 cm (16 3/4 × 22 1/4 in.)."
-    credit: "Paris, private collection"
+    credit: "Paris, private collection. Photo: Guillaume Benoit"
     alt: ""
 
   - id: "fig-6-3"
@@ -1024,7 +1024,7 @@ figure_list:
     zoom: true
     label: "Fig. 6.3"
     caption: "Unknown goldsmith, *Salver on Stand* (detail of armorial), 1550–1600 and 1700–1725, with armorial added by 1755. Gilded silver, 21.2 × 31.2 cm (8 2/5 × 12 1/4 in.)."
-    credit: "Lisbon, Palácio da Ajuda, 5157"
+    credit: "Lisbon, Palácio da Ajuda, 5157. © Direçāo-Geral do Património Cultural / Arquivo e Documntaçā Fotográfica / Luísa Oliveira"
     alt: ""
 
   - id: "fig-7-1"
@@ -1032,7 +1032,7 @@ figure_list:
     zoom: true
     label: "Fig. 7.1"
     caption: "Étienne Pollet (French, active 1715–51), Antoine LeBrun (French, 1702–1758), Sebastian Ignot (French, active 1725–66 or later), and Alexis Loir III (French, died 1785, active from 1733), *Toilette Service* (*Service de toilette*), 1738–39. Silver, modern mirror glass, velvet, and boar bristles, table mirror: 64.5 × 60.6 × 28.3 cm (25 3/8 × 23 7/8 × 11 1/8 in.)."
-    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, and Museum Purchase, Jill Ford Murray Fund, V2014.6"
+    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, and Museum Purchase, Jill Ford Murray Fund, V2014.6. © Detroit Institute of Arts / Bridgeman Images"
     alt: ""
 
   - id: "fig-7-2"
@@ -1040,7 +1040,7 @@ figure_list:
     zoom: true
     label: "Fig. 7.2"
     caption: "Antoine LeBrun (French, 1702–1758), *Stand with a Pair of Lidded Beakers* (*Gantière avec deux gobelets couverts*), 1738–39. Silver, tray: 3.8 × 24.1 × 17.1 cm (1 1/2 × 9 1/2 × 6 3/4 in.)."
-    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund and Museum Purchase, Jill Ford Murray Fund, 53.186.3"
+    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund and Museum Purchase, Jill Ford Murray Fund, 53.186.3. © Detroit Institute of Arts / Bridgeman Images"
     alt: ""
 
   - id: "fig-7-3"
@@ -1056,7 +1056,7 @@ figure_list:
     zoom: true
     label: "Fig. 7.4"
     caption: "Thomas Germain (French, 1673–1748), Design for a tray with lidded beakers, 1745. Pen and black ink, gray wash, and black chalk, 26 × 45 cm (10 1/4 × 17 3/4 in.)."
-    credit: "Paris, private collection"
+    credit: "Paris, private collection. Photo: Guillaume Benoit"
     alt: ""
 
   - id: "fig-7-5"
@@ -1064,7 +1064,7 @@ figure_list:
     zoom: true
     label: "Fig. 7.5"
     caption: "François Thomas Germain (French, 1726–1791), *Lidded Box from a Toilette Service* (*Boîte de toilette ronde*), 1750–52. Silver, 8.3 × 13.8 cm (3 1/4 × 5 3/8 in.)."
-    credit: "Paris, Musée des arts décoratifs, Legs de Madame Burat, née Sluys, 1930, 26910"
+    credit: "Paris, Musée des arts décoratifs, Legs de Madame Burat, née Sluys, 1930, 26910. © MAD, Paris / Cyrille Bernard"
     alt: ""
 
   - id: "fig-8-1"
@@ -1072,7 +1072,7 @@ figure_list:
     zoom: true
     label: "Fig. 8.1"
     caption: "François Massialot (French, ca. 1660–died 1773) (probable author), *Machine, autrement dit surtout* from *Le nouveau cuisinier royal et bourgeois* (*Machine, in Other Words a Centerpiece* from *The Royal and Bourgeois Cook*), 1729. Engraving, H: 17 cm (6 3/4 in.)."
-    credit: "Los Angeles, Getty Research Institute, 2019-B91"
+    credit: "Los Angeles, Getty Research Institute, 2019-B91. © The J. Paul Getty Trust"
     alt: ""
 
   - id: "fig-8-2"
@@ -1080,7 +1080,8 @@ figure_list:
     zoom: true
     label: "Fig. 8.2"
     caption: "Jean-Baptiste Oudry (French, 1686–1755), *Chasse au sanglier avec onze chiens* (*Boar Hunt with Eleven Dogs*), 1734. Oil on canvas, 120 × 172 cm (47 1/4 × 67 3/4 in.)."
-    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947"
+    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947. "bpk Bildagentur / Staatliches Museum /Elke Walford / Art
+Resource, NY""
     alt: ""
 
   - id: "fig-8-3"
@@ -1088,7 +1089,7 @@ figure_list:
     zoom: true
     label: "Fig. 8.3"
     caption: "Thomas Germain (French, 1673–1748), *Tureen, Lid, and Stand* (*Terrine, couvercle et plat*), 1729–30. Silver, 21.6 × 43.3 × 35.2 cm (8 1/2 × 17 1/16 × 13 7/8 in.)."
-    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, 55.183"
+    credit: "Detroit Institute of Arts, Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund, 55.183. © Detroit Institute of Arts / Bridgeman Images"
     alt: ""
 
   - id: "fig-8-4"
@@ -1096,7 +1097,7 @@ figure_list:
     zoom: true
     label: "Fig. 8.4"
     caption: "François Thomas Germain (French, 1726–1791), *Dish Cover* (*Couvre-plat*, also called *Surtout*), 1757. Silver, 47.5 × 57.3 × 53.6 cm (18 3/4 × 22 1/2 × 21 1/16 in.)."
-    credit: "Paris, Musée du Louvre, OA 10923"
+    credit: "Paris, Musée du Louvre, OA 10923. Photo © Musée du Louvre, Dist. RMN-Grand Palais / Les frères Chuzeville / Art Resource, NY"
     alt: ""
 
   - id: "fig-9-1"
@@ -1120,7 +1121,7 @@ figure_list:
     zoom: true
     label: "Fig. 9.3"
     caption: "Jacques III Roëttiers (French, 1707–1784) (designer), Jean-Jacques Pasquier (French, 1718–1785) (etcher), and Pierre Germain (French, 1703–1783) (publisher), Design for a Tureen, Lid, and Stand, from *Elements d’orfevrerie: Divisés en deux parties, deuxième partie* (*Elements of Silver: Divided into Two Parts, Second Part*), 1748. Etching, H: 25 cm (9 7/8 in.)."
-    credit: "Los Angeles, Getty Research Institute, 83-B1287"
+    credit: "Los Angeles, Getty Research Institute, 83-B1287. © The J. Paul Getty Trust"
     alt: ""
 
   - id: "fig-9-4"
@@ -1128,7 +1129,7 @@ figure_list:
     zoom: true
     label: "Fig. 9.4"
     caption: "François Joubert (French, active 1749–81), *Sauceboat* (*Saucière*), 1754–55. Silver, 12.5 × 21.1 × 12.5 cm (4 15/16 × 8 5/16 × 4 15/16 in.)."
-    credit: "Paris, Musée des arts décoratifs, Legs de Madame Burat, née Sluys, 1930. © photo Les Arts Décoratifs / Jean Tholance Tous droits réservés, 26908A"
+    credit: "Paris, Musée des arts décoratifs, Legs de Madame Burat, née Sluys, 1930, 26908A. © photo Les Arts Décoratifs / Jean Tholance all rights reserved"
     alt: ""
 
   - id: "fig-9-5"
@@ -1136,7 +1137,7 @@ figure_list:
     zoom: true
     label: "Fig. 9.5"
     caption: "Thomas Germain (French, 1673–1748), *One of Pair of Wine Bottle Coolers* (*Seau à bouteille*), 1727–28. Silver, 22 × 26 × 20 cm (8 11/16 × 10 1/4 × 7 7/8 in.)."
-    credit: "Paris, Musée du Louvre, OA 9431–9432. © 2012 RMN-Grand Palais (Musée du Louvre) / Martine Beck-Coppola"
+    credit: "Paris, Musée du Louvre, OA 9431–9432. Photo © Musée du Louvre, Dist. RMN-Grand Palais / Martine Beck-Coppola / Art Resource, NY"
     alt: ""
 
   - id: "inscription-10-1"
