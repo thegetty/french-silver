@@ -164,10 +164,10 @@ figure_list:
     credit: ""
     alt: ""
 
-  - id: "cat-1-11"
-    src: "figures/cat-1-11.jpg"
+  - id: "cat-1-10"
+    src: "figures/cat-1-10.jpg"
     zoom: true
-    label: "Cat. 1.11"
+    label: "Cat. 1.10"
     caption: "Water fountain (82.DG.17), X-radiograph."
     credit: ""
     alt: ""
@@ -550,18 +550,18 @@ figure_list:
     credit: ""
     alt: ""
 
-  - id: "cat-6-5"
-    src: "figures/cat-6-5.jpg"
+  - id: "cat-6-4"
+    src: "figures/cat-6-4.jpg"
     zoom: true
-    label: "Cat. 6.5"
+    label: "Cat. 6.4"
     caption: "Tureen (82.DG.13.2.c), X-radiograph showing a curved handle projecting from addorsed C curves on the vessel."
     credit: ""
     alt: ""
 
-  - id: "cat-6-6"
-    src: "figures/cat-6-6.jpg"
+  - id: "cat-6-5"
+    src: "figures/cat-6-5.jpg"
     zoom: true
-    label: "Cat. 6.6"
+    label: "Cat. 6.5"
     caption: "Lid (82.DG.13.1.a), detail of the cauliflower finial surrounded by shellfish, an open pea pod, a gherkin, and a morel."
     credit: ""
     alt: ""
@@ -615,11 +615,19 @@ figure_list:
     credit: ""
     alt: ""
 
+  - id: "cat-8-4"
+    src: "figures/cat-8-4.jpg"
+    zoom: true
+    label: "Cat. 8.4"
+    caption: "*La Machine d’Argent* (2005.43), detail showing the rabbit from above."
+    credit: ""
+    alt: ""
+
   - id: "cat-8-5"
     src: "figures/cat-8-5.jpg"
     zoom: true
     label: "Cat. 8.5"
-    caption: "*La Machine d’Argent* (2005.43), detail showing the rabbit from above."
+    caption: "*La Machine d’Argent* (2005.43), proper right view with ortolan bird, which was probably made from a wax cast, modified to adjust the position of its delicate feet."
     credit: ""
     alt: ""
 
@@ -627,14 +635,6 @@ figure_list:
     src: "figures/cat-8-6.jpg"
     zoom: true
     label: "Cat. 8.6"
-    caption: "*La Machine d’Argent* (2005.43), proper right view with ortolan bird, which was probably made from a wax cast, modified to adjust the position of its delicate feet."
-    credit: ""
-    alt: ""
-
-  - id: "cat-8-7"
-    src: "figures/cat-8-7.jpg"
-    zoom: true
-    label: "Cat. 8.7"
     caption: "*La Machine d’Argent* (2005.43), detail of cauliflower from above."
     credit: ""
     alt: ""
@@ -656,11 +656,19 @@ figure_list:
     credit: ""
     alt: ""
 
+  - id: "cat-9-2"
+    src: "figures/cat-9-2.jpg"
+    zoom: true
+    label: "Cat. 9.2"
+    caption: "Sauceboat stand (71.DG.76.b), frontal view with olive branches."
+    credit: ""
+    alt: ""
+
   - id: "cat-9-3"
     src: "figures/cat-9-3.jpg"
     zoom: true
     label: "Cat. 9.3"
-    caption: "Sauceboat stand (71.DG.76.b), frontal view with olive branches."
+    caption: "Sauceboat stand (71.DG.76.b), view from above showing the branches rising from the base."
     credit: ""
     alt: ""
 
@@ -668,14 +676,6 @@ figure_list:
     src: "figures/cat-9-4.jpg"
     zoom: true
     label: "Cat. 9.4"
-    caption: "Sauceboat stand (71.DG.76.b), view from above showing the branches rising from the base."
-    credit: ""
-    alt: ""
-
-  - id: "cat-9-5"
-    src: "figures/cat-9-5.jpg"
-    zoom: true
-    label: "Cat. 9.5"
     caption: "Sauceboat stand (71.DG.76.b), underneath."
     credit: ""
     alt: ""
@@ -692,7 +692,7 @@ figure_list:
     src: "figures/fig-0-2.jpg"
     zoom: true
     label: "Fig. 0.2"
-    caption: "Unknown photographer, *View of the Dining Room at Sutton Place*, with the *Pair of Tureens* by Paul Storr (on the side table at left), 1961. Photograph, reproduced from (anonymous author), “Sutton Place, The 16th Century Residence in Surrey of Mr. J. Paul Getty,” *The Antique Collector* 32, no. 2 (April 1961): 47."
+    caption: "Unknown photographer, *View of the Dining Room at Sutton Place*, with the *Pair of Tureens* by Paul Storr (on the side table at left), 1961. Photograph, reproduced from (anonymous author): “Sutton Place, The 16th Century Residence in Surrey of Mr. J. Paul Getty,” *The Antique Collector* 32, no. 2 (April 1961): 47."
     credit: ""
     alt: ""
 
@@ -919,7 +919,7 @@ figure_list:
     src: "figures/fig-3-1.jpg"
     zoom: true
     label: "Fig. 3.1"
-    caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 1/16 in.)."
+    caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 5/16 in.)."
     credit: "Lisbon, Museu Nacional de Arte Antiga, inv. 1827 Our"
     alt: ""
 
@@ -959,7 +959,7 @@ figure_list:
     src: "figures/fig-4-2.jpg"
     zoom: true
     label: "Fig. 4.2"
-    caption: "Unknown goldsmith(s), *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Varnished silver, H: 22.9 cm each (9 in.)."
+    caption: "Unknown goldsmith(s), *Pair of Sugar Casters* (*Paire de sucriers à poudre*), ca. 1735–36. Silver and varnish, H: 22.9 cm each (9 in.)."
     credit: "Hartford, Wadsworth Atheneum Museum of Art, Gift of J. Pierpont Morgan, 1917.288–289"
     alt: ""
 
@@ -1048,7 +1048,7 @@ figure_list:
     zoom: true
     label: "Fig. 7.3"
     caption: "Jean Charles Fauché (French, before 1706–1762), *Toilette Set, excluding the Candlesticks* (*Service de toilette, l’exclusion des flambeaux*), 1749–50. Silver, tray: 23.5 × 16.5 cm (9 1/4 × 6 1/2 in.)."
-    credit: "Bordeaux, Musée des arts décoratifs, 55.4.1–55.4.8. © madd-bordeaux- L. Gauthier"
+    credit: "Bordeaux, Musée des arts décoratifs et du design, 55.4.1–55.4.8. © madd-bordeaux- L. Gauthier"
     alt: ""
 
   - id: "fig-7-4"
@@ -1135,7 +1135,7 @@ figure_list:
     src: "figures/fig-9-5.jpg"
     zoom: true
     label: "Fig. 9.5"
-    caption: "Thomas Germain (French, 1673–1748), *One of Pair of Wine Bottle Coolers* (*Seau à bouteille*), 1727–28. Silver, 22 × 26 × 20 cm (8 11/16 × 10 1/4 × 7 9/8 in.)."
+    caption: "Thomas Germain (French, 1673–1748), *One of Pair of Wine Bottle Coolers* (*Seau à bouteille*), 1727–28. Silver, 22 × 26 × 20 cm (8 11/16 × 10 1/4 × 7 7/8 in.)."
     credit: "Paris, Musée du Louvre, OA 9431–9432. © 2012 RMN-Grand Palais (Musée du Louvre) / Martine Beck-Coppola"
     alt: ""
 
@@ -1487,7 +1487,7 @@ figure_list:
     src: "figures/mark-2-2.jpg"
     zoom: true
     label: "Mark 2.2"
-    caption: "Lid (71.DG.77.a), detail of a partially struck unidentified maker’s mark, a warden’s mark (a crowned *L*), and a partially struck charge mark (an *A* with a crown at its side)."
+    caption: "Lid (71.DG.77.a), detail of a warden’s mark (a crowned *L*), and a partially struck charge mark (an *A* with a crown at its side)."
     credit: ""
     alt: ""
 
@@ -1919,7 +1919,7 @@ figure_list:
     src: "figures/mark-5-8.jpg"
     zoom: true
     label: "Mark 5.8"
-    caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, a laurel leaf."
+    caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, a laurel leaves and stem."
     credit: ""
     alt: ""
 
@@ -1935,7 +1935,7 @@ figure_list:
     src: "figures/mark-6-1.jpg"
     zoom: true
     label: "Mark 6.1"
-    caption: "Lid (82.DG.13.1.a), detail of a discharge mark (a hen head), and a countermark (a laurel leaf)."
+    caption: "Lid (82.DG.13.1.a), detail of a discharge mark (a hen head), and a countermark (a laurel leaves and stem)."
     credit: ""
     alt: ""
 
@@ -1991,7 +1991,7 @@ figure_list:
     src: "figures/mark-6-3.jpg"
     zoom: true
     label: "Mark 6.3"
-    caption: "Liner (82.DG.13.1.b), detail of a countermark, a laurel leaf."
+    caption: "Liner (82.DG.13.1.b), detail of a countermark, a laurel leaves and stem."
     credit: ""
     alt: ""
 
