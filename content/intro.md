@@ -72,4 +72,4 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^18]: {% cite 'Albainy 1999' %}.
 
-[^19]: At the end of 2022, the Musée du Louvre and the Museu Calouste Gulbenkian each published catalogues of their respective French silver collections. With the addition of this catalogue of French silver in the J. Paul Getty Museum, the field is flourishing anew. See {% Bimbenet-Privat et al. 2022}; Fuhring, Peter, The French Silverware in the Calouste Gulbenkian Collection. Lisbon: Calouste Gulbenkian Foundation, Calouste Gulbenkian Museum, 2022.
+[^19]: At the end of 2022, the Musée du Louvre and the Museu Calouste Gulbenkian each published catalogues of their respective French silver collections. With the addition of this catalogue of French silver in the J. Paul Getty Museum, the field is flourishing anew. See {% cite 'Bimbenet-Privat et al. 2022' %}; Fuhring, Peter, The French Silverware in the Calouste Gulbenkian Collection. Lisbon: Calouste Gulbenkian Foundation, Calouste Gulbenkian Museum, 2022.
