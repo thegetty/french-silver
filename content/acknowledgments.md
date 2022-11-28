@@ -19,4 +19,4 @@ Other departments at the Getty Center worked behind the scenes to produce this b
 
 To all these, thank you.
 
-{% contributors context=pageContributors format='name-title-block' align='right' %}
+{% contributors context=pageContributors format='name' align='right' %}
