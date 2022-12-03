@@ -69,6 +69,9 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/navigation.js**
+Include current page name instead of homepage link in center nav.
+
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 
