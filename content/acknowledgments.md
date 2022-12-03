@@ -4,6 +4,7 @@ order: 5
 layout: page
 contributor:
   - id: cbremer
+contributor_byline: false
 ---
 
 As author of this catalogue of French silver in the J. Paul Getty Museum, I stand upon the shoulders of many. First and foremost, my debt is to those who built the collection, J. Paul Getty and the Museum’s first curator of decorative arts, Gillian Wilson (who retired in 2003 as curator emerita), and then to the dealers and specialists who advised them. The silver object files in the Sculpture and Decorative Arts Department of the J. Paul Getty Museum are rich sources of information gradually accumulated over the years by former staff, notably David H. Cohen and Gay Nieda Gassmann, and external colleagues, such as Clare Le Corbeiller of the Metropolitan Museum of Art, New York; Bruno Pons, an independent researcher; and Alexandre Pradère, formerly of Sotheby’s, Paris, and for many years now an independent art historian.
@@ -18,4 +19,4 @@ Other departments at the Getty Center worked behind the scenes to produce this b
 
 To all these, thank you.
 
-{% contributors context=pageContributors format='name-title-block' align='right' %}
+{% contributors context=pageContributors format='name' align='right' %}

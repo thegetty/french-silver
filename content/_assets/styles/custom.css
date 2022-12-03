@@ -105,12 +105,6 @@ Spectral Light
   font-style: normal;
 }
 
-/* Hide author title and affiliation on Acknowledgments page */
-#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__title,
-#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__affiliation {
-  display: none;
-}
-
 /* Properly hide list of pages below contributor bios */
 .quire-contributor__bio + ul {
   display: none;
