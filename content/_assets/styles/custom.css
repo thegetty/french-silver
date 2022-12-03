@@ -621,3 +621,9 @@ Spectral Light
 .quire-page__content .container .content .footnotes li p {
   margin-bottom: 0;
 }
+.quire-page__content .container .content .footnotes li p + p {
+  margin-top: .3em;
+}
+.quire-page__content .container .content .footnotes a.footnote-backref {
+  line-height: 0;
+}
