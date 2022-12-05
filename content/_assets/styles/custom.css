@@ -521,11 +521,8 @@ Spectral Light
     max-height: 9.375in;
     max-width: 6.75in;
   }
-  .quire-entry__image-wrap .q-figure__label--below .q-figure__modal-link {
-    color: #bfbfbf;
-  }
-  .quire-entry__image-wrap .q-figure__caption-content {
-    color: #fff;
+  .quire-entry__image-wrap .q-figure__caption {
+    display: none;
   }
   @page entry-image {
     background-color: #2e2e2e;
