@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE -- French Silver
+// Increased print-image size and set withoutEnlargement, lines 88–89
+//
 const path = require('path')
 
 module.exports = (eleventyConfig) => {
@@ -51,7 +55,7 @@ module.exports = (eleventyConfig) => {
     /**
      * Generated manifest locale
      * @type {String}
-     */ 
+     */
     locale: 'en',
     /**
      * Generated manifest file name
@@ -81,7 +85,8 @@ module.exports = (eleventyConfig) => {
       {
         name: 'print-image',
         resize: {
-          width: 800
+          width: 2025,
+          withoutEnlargement: true
         }
       }
     ]
