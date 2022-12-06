@@ -182,10 +182,10 @@ $print-trim: $print-bleed * 2;
 
   @page :blank {
     @bottom-left {
-      content: none;
+      content: none !important;
     }
     @bottom-right {
-      content: none;
+      content: none !important;
     }
   }
 
@@ -201,6 +201,7 @@ $print-trim: $print-bleed * 2;
   .quire-page {
     string-set: pagetitle attr(data-footer-page-title),
                 sectiontitle attr(data-footer-section-title);
+    -prince-page-group: start; // this makes the :first selector work
   }
 
   .quire-contents-list {

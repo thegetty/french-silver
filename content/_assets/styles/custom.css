@@ -537,11 +537,25 @@ Spectral Light
     break-before: left;
     page: entry-image;
   }
+  /* Remove running foot on second page of entries, which is the first page of taext, following the plates */
+  @page quire-entry:nth(2) {
+    @bottom-left {
+      content: none;
+      background-color: tomato;
+    }
+  }
+  .quire-entry {
+    page: quire-entry;
+  }
   /* Add ornament to blank pages */
   @page:blank {
     background-image: url("_assets/images/blank-page.svg");
     background-repeat: no-repeat ;
     background-position: center 28%;
+  }
+  /* Don't add it to title page blank though */
+  @page no-footer:blank {
+    background-image: none;
   }
   /* Image adjustments for print */
   .q-figure.pdf-two-column {
@@ -550,6 +564,10 @@ Spectral Light
   .q-figure.pdf-break-after {
     break-after: always;
     page-break-after: always;
+  }
+  /* Remove page number from copyright page */
+  #print-copyright.quire-page.frontmatter {
+    page: no-footer;
   }
 }
 
