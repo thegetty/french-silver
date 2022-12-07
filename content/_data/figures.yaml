@@ -803,6 +803,14 @@ figure_list:
           - label: "4"
             src: "figures/fig-1-4-d.jpg"
 
+  - id: "fig-1-4-print"
+    src: "figures/fig-1-4-print.jpg"
+    zoom: true
+    label: "Fig. 1.4"
+    caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”*, 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
+    credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27. © National Trust Images / James Dobson"
+    alt: ""
+
   - id: "fig-1-5"
     src: "figures/fig-1-5.jpg"
     zoom: true
