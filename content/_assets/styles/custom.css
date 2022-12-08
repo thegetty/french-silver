@@ -201,6 +201,7 @@ Spectral Light
   .q-figure.q-figure--group.quire-grid-2,
   .q-figure.q-figure--group.quire-grid-3 {
     text-align: left;
+    margin-bottom: 0;
   }
   .q-figure.q-figure--group.quire-grid-2 .q-figure {
     width: calc((100% - 2rem) / 2);
@@ -208,6 +209,7 @@ Spectral Light
     display: inline-block;
     vertical-align: top;
     margin-top: 0;
+    margin-bottom: 1rem;
   }
   .q-figure.q-figure--group.quire-grid-2 .q-figure:nth-child(2n) {
     margin-right: 0;
@@ -218,6 +220,7 @@ Spectral Light
     display: inline-block;
     vertical-align: top;
     margin-top: 0;
+    margin-bottom: 1rem;
   }
   .q-figure.q-figure--group.quire-grid-3 .q-figure:nth-child(3n) {
     margin-right: 0;
@@ -565,9 +568,32 @@ Spectral Light
     break-after: always;
     page-break-after: always;
   }
+  .q-figure.pdf-float-top {
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .q-figure.pdf-float-bottom {
+    -prince-float: bottom;
+    margin-bottom: 0 !important;
+  }
   /* Remove page number from copyright page */
   #print-copyright.quire-page.frontmatter {
     page: no-footer;
+  }
+  /* Remove duplicative table labels in print */
+  .quire-page#appendix .q-figure#table-1 .q-figure__caption,
+  .quire-page#appendix .q-figure#table-2 .q-figure__caption {
+    display: none;
+  }
+  /* Keep the short footnotes section in one column */
+  .quire-page#appendix .footnotes-list {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  /* Keep references together */
+  .quire-page#bibliography dd {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 }
 
