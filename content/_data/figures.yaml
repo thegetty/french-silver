@@ -160,7 +160,7 @@ figure_list:
     zoom: true
     media_type: axial
     label: "Plate 1.3"
-    caption: "Water fountain (82.DG.17), x-axial view."
+    caption: "Water Fountain (82.DG.17), x-axial view."
     credit: ""
     alt: ""
 
@@ -168,7 +168,7 @@ figure_list:
     src: "figures/cat-1-10.jpg"
     zoom: true
     label: "Cat. 1.10"
-    caption: "Water fountain (82.DG.17), X-radiograph."
+    caption: "Water Fountain (82.DG.17), X-radiograph."
     credit: ""
     alt: ""
 
@@ -176,7 +176,7 @@ figure_list:
     src: "figures/cat-1-2.jpg"
     zoom: true
     label: "Cat. 1.2"
-    caption: "Water fountain (82.DG.17), back with lion mask."
+    caption: "Water Fountain (82.DG.17), back with lion mask."
     credit: ""
     alt: ""
 
@@ -184,7 +184,7 @@ figure_list:
     src: "figures/cat-1-2.jpg"
     zoom: true
     label: "Plate 1.2"
-    caption: "Water fountain (82.DG.17), back with lion mask."
+    caption: "Water Fountain (82.DG.17), back with lion mask."
     credit: ""
     alt: ""
 
@@ -336,7 +336,7 @@ figure_list:
     src: "figures/cat-2-5.jpg"
     zoom: true
     label: "Cat. 2.5"
-    caption: "Lidded bowl (71.DG.77), from above."
+    caption: "Lidded Bowl (71.DG.77), from above."
     credit: ""
     alt: ""
 
@@ -344,7 +344,7 @@ figure_list:
     src: "figures/cat-2-5.jpg"
     zoom: true
     label: "Plate 2.2"
-    caption: "Lidded bowl (71.DG.77), from above."
+    caption: "Lidded Bowl (71.DG.77), from above."
     credit: ""
     alt: ""
 
@@ -652,7 +652,7 @@ figure_list:
     zoom: true
     media_type: axial
     label: "Plate 9.2"
-    caption: "Sauceboat on stand (71.DG.76.a–b), x-axial view."
+    caption: "Sauceboat on Stand (71.DG.76.a–b), x-axial view."
     credit: ""
     alt: ""
 
@@ -872,7 +872,7 @@ figure_list:
     zoom: true
     label: "Fig. 10.3"
     caption: "Robert Joseph Auguste (French, 1723–1805), *Table Service of George III*, ca. 1776–85. Silver."
-    credit: "Paris, Musée du Louvre, OA10608–OA10624, OA 12878–12885. Photo © Musée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier"
+    credit: "Paris, Musée du Louvre, OA10608–OA10624, OA 12878–12885. Photo © Musée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier / Art Resource, NY"
     alt: ""
 
   - id: "fig-10-4"
@@ -1120,7 +1120,7 @@ Resource, NY”"
     src: "figures/fig-9-2.jpg"
     zoom: true
     label: "Fig. 9.2"
-    caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat ou Stand* (*Saucière sur support*), view showing (effaced) armorial cartouche, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
+    caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Sauceboat on Stand* (*Saucière sur support*), view showing (effaced) armorial cartouche, 1762–63. Silver, W: 20 cm (7 7/8 in.). *Royal and Noble*, sale cat., Sotheby’s, London, January 20, 2022: lot 56."
     credit: "Courtesy of Sotheby’s, London"
     alt: ""
 
@@ -1928,7 +1928,7 @@ Resource, NY”"
     src: "figures/mark-5-8.jpg"
     zoom: true
     label: "Mark 5.8"
-    caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, a laurel leaves and stem."
+    caption: "Vessel (84.DG.744.1.b), detail of exterior of the foot rim, with a countermark, laurel leaves and stem."
     credit: ""
     alt: ""
 
@@ -1944,7 +1944,7 @@ Resource, NY”"
     src: "figures/mark-6-1.jpg"
     zoom: true
     label: "Mark 6.1"
-    caption: "Lid (82.DG.13.1.a), detail of a discharge mark (a hen head), and a countermark (a laurel leaves and stem)."
+    caption: "Lid (82.DG.13.1.a), detail of a discharge mark (a hen head), and a countermark (laurel leaves and stem)."
     credit: ""
     alt: ""
 
@@ -2000,7 +2000,7 @@ Resource, NY”"
     src: "figures/mark-6-3.jpg"
     zoom: true
     label: "Mark 6.3"
-    caption: "Liner (82.DG.13.1.b), detail of a countermark, a laurel leaves and stem."
+    caption: "Liner (82.DG.13.1.b), detail of a countermark, laurel leaves and stem."
     credit: ""
     alt: ""
 
@@ -2200,7 +2200,7 @@ Resource, NY”"
     src: "figures/plate-10-1.jpg"
     zoom: true
     label: "Plate 10.1"
-    caption: "Pair of girandoles (cat. no. 10)."
+    caption: "Two Girandoles (cat. no. 10)."
     credit: ""
     alt: ""
 
@@ -2208,7 +2208,7 @@ Resource, NY”"
     src: "figures/plate-2-1.jpg"
     zoom: true
     label: "Plate 2.1"
-    caption: "Lidded bowl (cat. no. 2)."
+    caption: "Lidded Bowl (cat. no. 2)."
     credit: ""
     alt: ""
 
@@ -2216,7 +2216,7 @@ Resource, NY”"
     src: "figures/plate-3-1.jpg"
     zoom: true
     label: "Plate 3.1"
-    caption: "Pair of liners, tureens, and stands (cat. no. 3)."
+    caption: "Pair of Tureens, Liners, and Stands (cat. no. 3)."
     credit: ""
     alt: ""
 
@@ -2224,7 +2224,7 @@ Resource, NY”"
     src: "figures/plate-4-1.jpg"
     zoom: true
     label: "Plate 4.1"
-    caption: "Sugar casters in the form of cane field laborers (cat. no. 4)."
+    caption: "Sugar Casters in the Form of Cane Field Laborers (cat. no. 4)."
     credit: ""
     alt: ""
 
@@ -2232,7 +2232,7 @@ Resource, NY”"
     src: "figures/plate-5-1.jpg"
     zoom: true
     label: "Plate 5.1"
-    caption: "Pair of sugar casters (cat. no. 5)."
+    caption: "Pair of Sugar Casters (cat. no. 5)."
     credit: ""
     alt: ""
 
@@ -2240,7 +2240,7 @@ Resource, NY”"
     src: "figures/plate-6-1.jpg"
     zoom: true
     label: "Plate 6.1"
-    caption: "Pair of lidded tureens, liners, and stands (cat. no. 6)."
+    caption: "Pair of Lidded Tureens, Liners, and Stands (cat. no. 6)."
     credit: ""
     alt: ""
 
@@ -2256,7 +2256,7 @@ Resource, NY”"
     src: "figures/plate-8-1.jpg"
     zoom: true
     label: "Plate 8.1"
-    caption: "*La machine d’argent* (cat. no. 8)."
+    caption: "*La Machine d’Argent* (cat. no. 8)."
     credit: ""
     alt: ""
 
@@ -2264,7 +2264,7 @@ Resource, NY”"
     src: "figures/plate-9-1.jpg"
     zoom: true
     label: "Plate 9.1"
-    caption: "Sauceboat on stand (cat. no. 9)."
+    caption: "Sauceboat on Stand (cat. no. 9)."
     credit: ""
     alt: ""
 
