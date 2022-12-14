@@ -32,10 +32,6 @@ outputs: [html]
 
 {{ publication.revision_statement | markdownify }}
 
-## Revision History
-
-{{ publication.revision_statement | markdownify }}
-
 {% for revision in publication.revision_history %}
 
 ### {{ revision.date }}
@@ -89,9 +85,9 @@ outputs: [html]
 </div>
 <div class="cover-image-credits">
 
-Front cover:
+Front cover: Detail of cat. no. 6, Pair of Lidded Tureens, Liners, and Stands
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>
 
