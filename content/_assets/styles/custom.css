@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #007FA9;
+  --accent-color: #294dc5;
   /* same as $accent-color in content/_assets/styles/variables.scss */
 }
 
@@ -544,7 +544,6 @@ Spectral Light
   @page quire-entry:nth(2) {
     @bottom-left {
       content: none;
-      background-color: tomato;
     }
   }
   .quire-entry {

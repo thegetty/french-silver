@@ -6,7 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: #007FA9;
+// $accent-color: #007FA9;
+// $accent-color: #2b4189;
+$accent-color: #294dc5;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
@@ -127,8 +129,8 @@ $quire-navbar-text-color: null;
 // Cover colors
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
-$quire-cover-color-1: null;
-$quire-cover-color-2: null;
+$quire-cover-color-1: $accent-color;
+$quire-cover-color-2: $accent-color;
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
