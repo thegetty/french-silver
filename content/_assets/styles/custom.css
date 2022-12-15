@@ -595,6 +595,11 @@ Spectral Light
     break-inside: avoid;
     page-break-inside: avoid;
   }
+  /* Add page break to avoid widowed lines */
+  #catalogue-10 h5#inscriptions {
+    break-before: always;
+    page-break-before: always;
+  }
 }
 
 /* COPYRIGHT & ABOUT
