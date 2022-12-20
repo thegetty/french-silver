@@ -119,6 +119,12 @@ Spectral Light
 .toc-list .author-line {
   display: inline;
 }
+.toc-list .page-item a[href='/catalogue/1/'] .contributor-divider,
+.toc-list .page-item a[href='/catalogue/1/'] .contributor,
+.toc-list .page-item a[href='#catalogue-1'] .contributor-divider,
+.toc-list .page-item a[href='#catalogue-1'] .contributor {
+  display: none;
+}
 
 .quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
   text-transform: lowercase;
