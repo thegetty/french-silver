@@ -498,6 +498,9 @@ Spectral Light
   .quire-page__content .container .content ul li::before {
     content: none;
   }
+  .quire-page__content .container .content ul.quire-contributors-list {
+    margin-left: 0;
+  }
   /* Make Intro 2 column in PDF */
   #intro.quire-page .quire-page__content {
     column-count: 2;
