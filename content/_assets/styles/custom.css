@@ -119,6 +119,12 @@ Spectral Light
 .toc-list .author-line {
   display: inline;
 }
+.toc-list .page-item a[href='/catalogue/1/'] .contributor-divider,
+.toc-list .page-item a[href='/catalogue/1/'] .contributor,
+.toc-list .page-item a[href='#catalogue-1'] .contributor-divider,
+.toc-list .page-item a[href='#catalogue-1'] .contributor {
+  display: none;
+}
 
 .quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
   text-transform: lowercase;
@@ -350,12 +356,6 @@ Spectral Light
 .england-coinage-table td:first-child {
   width: 10rem;
 }
-.essayone-table td:last-child {
-  width: 30%;
-}
-.essayone-table td:nth-child(2) {
-  width: 25%;
-}
 
 /* FOOTNOTES
 ============================================================================= */
@@ -491,6 +491,9 @@ Spectral Light
   }
   .quire-page__content .container .content ul li::before {
     content: none;
+  }
+  .quire-page__content .container .content ul.quire-contributors-list {
+    margin-left: 0;
   }
   /* Make Intro 2 column in PDF */
   #intro.quire-page .quire-page__content {
