@@ -9,7 +9,9 @@ menu: false
 
 {{ config.quire_credit_line }}
 
-The free online edition of this open-access publication is available at getty.edu/publications/french-silver/ and includes zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book.
+The free online edition of this open-access publication is available at getty.edu/publications/french-silver/ and includes 360-degree views and
+zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book, and JPG downloads of the main catalogue images.
+
 
 {% copyright %}
 
