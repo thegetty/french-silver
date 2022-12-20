@@ -927,7 +927,7 @@ figure_list:
     src: "figures/fig-3-1.jpg"
     zoom: true
     label: "Fig. 3.1"
-    caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 5/16 in.)."
+    caption: "Thomas Germain (French, 1673–1748) and François Thomas Germain (French, 1726–1791), *Centerpiece for a Table* (*Surtout de table*), 1729/31–57. Silver, 80 × 109 cm (31 1/2 × 42 15/16 in.)."
     credit: "Lisbon, Museu Nacional de Arte Antiga, inv. 1827 Our. © Direçāo-Geral do Património Cultural / Arquivo e Documntaçā Fotográfica / Luis Piorro"
     alt: ""
 
@@ -1088,8 +1088,8 @@ figure_list:
     zoom: true
     label: "Fig. 8.2"
     caption: "Jean-Baptiste Oudry (French, 1686–1755), *Chasse au sanglier avec onze chiens (Boar Hunt with Eleven Dogs*), 1734. Oil on canvas, 120 × 172 cm (47 1/4 × 67 3/4 in.)."
-    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947. “bpk Bildagentur / Staatliches Museum /Elke Walford / Art
-Resource, NY”"
+    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947. bpk Bildagentur / Staatliches Museum /Elke Walford / Art
+Resource, NY"
     alt: ""
 
   - id: "fig-8-3"
