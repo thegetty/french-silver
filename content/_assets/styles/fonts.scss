@@ -154,6 +154,45 @@ $assets-dir: "/_assets/" !default;
   font-style: italic;
 }
 
+////
+// Times
+//
+// Times Regular
+@font-face {
+  font-family: "Times";
+  src: font("times/times-regular.woff2") format("woff2"),
+       font("times/times-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Times Italic
+@font-face {
+  font-family: "Times";
+  src: font("times/times-italic.woff2") format("woff2"),
+       font("times/times-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+// Times Bold
+@font-face {
+  font-family: "Times";
+  src: font("times/times-bold.woff2") format("woff2"),
+       font("times/times-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+// Times Bold Italic
+@font-face {
+  font-family: "Times";
+  src: font("times/times-bolditalic.woff2") format("woff2"),
+       font("times/times-bolditalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
 /**
 * Load material icon font
 */

@@ -5,7 +5,7 @@ layout: cover
 menu: false
 toc: false
 outputs: [html]
-image: figures/plate-3-1.jpg
+image: cat-6-1--detail.jpg
 ---
 
 {% if publication.additional_contributors %}

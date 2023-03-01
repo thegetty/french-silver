@@ -1,6 +1,33 @@
 :root {
-  --accent-color: #007FA9;
+  --accent-color: #294dc5;
   /* same as $accent-color in content/_assets/styles/variables.scss */
+}
+
+/* TEMPORARY "Uncorrected Proof" Banner */
+@media screen {
+  .quire-page::before,
+  .quire-page::after {
+    color: black;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .quire-page::before {
+    content: "PRESS";
+    background-color: cyan;
+    bottom: -115px;
+    right: -115px;
+  }
+  .quire-page::after {
+    content: "PREVIEW";
+    bottom: -130px;
+    right: -130px;
+  }
 }
 
 
@@ -92,6 +119,12 @@ Spectral Light
 .toc-list .author-line {
   display: inline;
 }
+.toc-list .page-item a[href='/catalogue/1/'] .contributor-divider,
+.toc-list .page-item a[href='/catalogue/1/'] .contributor,
+.toc-list .page-item a[href='#catalogue-1'] .contributor-divider,
+.toc-list .page-item a[href='#catalogue-1'] .contributor {
+  display: none;
+}
 
 .quire-entry h2 .lowercase, .quire-essay h2 .lowercase, .quire-page h2 .lowercase {
   text-transform: lowercase;
@@ -103,12 +136,6 @@ Spectral Light
 
 .block-of-text .roman {
   font-style: normal;
-}
-
-/* Hide author title and affiliation on Acknowledgments page */
-#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__title,
-#acknowledgments .quire-contributors-list.name-title-block .quire-contributor__affiliation {
-  display: none;
 }
 
 /* Properly hide list of pages below contributor bios */
@@ -207,6 +234,7 @@ Spectral Light
   .q-figure.q-figure--group.quire-grid-2,
   .q-figure.q-figure--group.quire-grid-3 {
     text-align: left;
+    margin-bottom: 0;
   }
   .q-figure.q-figure--group.quire-grid-2 .q-figure {
     width: calc((100% - 2rem) / 2);
@@ -214,6 +242,7 @@ Spectral Light
     display: inline-block;
     vertical-align: top;
     margin-top: 0;
+    margin-bottom: 1rem;
   }
   .q-figure.q-figure--group.quire-grid-2 .q-figure:nth-child(2n) {
     margin-right: 0;
@@ -224,6 +253,7 @@ Spectral Light
     display: inline-block;
     vertical-align: top;
     margin-top: 0;
+    margin-bottom: 1rem;
   }
   .q-figure.q-figure--group.quire-grid-3 .q-figure:nth-child(3n) {
     margin-right: 0;
@@ -325,12 +355,6 @@ Spectral Light
 /* Manage column widths in specific instances to refine line breaks in cells */
 .england-coinage-table td:first-child {
   width: 10rem;
-}
-.essayone-table td:last-child {
-  width: 30%;
-}
-.essayone-table td:nth-child(2) {
-  width: 25%;
 }
 
 /* FOOTNOTES
@@ -468,6 +492,9 @@ Spectral Light
   .quire-page__content .container .content ul li::before {
     content: none;
   }
+  .quire-page__content .container .content ul.quire-contributors-list {
+    margin-left: 0;
+  }
   /* Make Intro 2 column in PDF */
   #intro.quire-page .quire-page__content {
     column-count: 2;
@@ -527,11 +554,8 @@ Spectral Light
     max-height: 9.375in;
     max-width: 6.75in;
   }
-  .quire-entry__image-wrap .q-figure__label--below .q-figure__modal-link {
-    color: #bfbfbf;
-  }
-  .quire-entry__image-wrap .q-figure__caption-content {
-    color: #fff;
+  .quire-entry__image-wrap .q-figure__caption {
+    display: none;
   }
   @page entry-image {
     background-color: #2e2e2e;
@@ -546,11 +570,24 @@ Spectral Light
     break-before: left;
     page: entry-image;
   }
+  /* Remove running foot on second page of entries, which is the first page of taext, following the plates */
+  @page quire-entry:nth(2) {
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-entry {
+    page: quire-entry;
+  }
   /* Add ornament to blank pages */
   @page:blank {
     background-image: url("_assets/images/blank-page.svg");
     background-repeat: no-repeat ;
     background-position: center 28%;
+  }
+  /* Don't add it to title page blank though */
+  @page no-footer:blank {
+    background-image: none;
   }
   /* Image adjustments for print */
   .q-figure.pdf-two-column {
@@ -559,6 +596,38 @@ Spectral Light
   .q-figure.pdf-break-after {
     break-after: always;
     page-break-after: always;
+  }
+  .q-figure.pdf-float-top {
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .q-figure.pdf-float-bottom {
+    -prince-float: bottom;
+    margin-bottom: 0 !important;
+  }
+  /* Remove page number from copyright page */
+  #print-copyright.quire-page.frontmatter {
+    page: no-footer;
+  }
+  /* Remove duplicative table labels in print */
+  .quire-page#appendix .q-figure#table-1 .q-figure__caption,
+  .quire-page#appendix .q-figure#table-2 .q-figure__caption {
+    display: none;
+  }
+  /* Keep the short footnotes section in one column */
+  .quire-page#appendix .footnotes-list {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  /* Keep references together */
+  .quire-page#bibliography dd {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  /* Add page break to avoid widowed lines */
+  #catalogue-10 h5#inscriptions {
+    break-before: always;
+    page-break-before: always;
   }
 }
 
@@ -626,4 +695,10 @@ Spectral Light
 }
 .quire-page__content .container .content .footnotes li p {
   margin-bottom: 0;
+}
+.quire-page__content .container .content .footnotes li p + p {
+  margin-top: .3em;
+}
+.quire-page__content .container .content .footnotes a.footnote-backref {
+  line-height: 0;
 }

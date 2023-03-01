@@ -65,9 +65,18 @@ While the paged.js work is ongoing, a PDF of French Silver should be created wit
 
 3. In `_site/pdf.html` find `iiif/(.*?)/print-image.jpg` and replace with `iiif/$1/$1/print-image.jpg`
 
-4. Run `npm run build:prince`
+4. Open `_site/index.html`, find the SVG element that has the Creative Commons license icons, and copy and past it right after the opening `<body>` tag in `_site/pdf.html`
+
+5. Find `<h1 class="quire-page__header__title" id="bibliography">` and `<a href="#bibliography">Bibliography</a>` and append `-main` to the id and the href in each
+
+6. Copy `content/_assets/images/blank-page.svg` into `_site/_assets/images`
+
+7. Run `npm run build:prince`
 
 ## Customizations Made to 11ty Templates/Files
+
+**_includes/components/navigation.js**
+Include current page name instead of homepage link in center nav.
 
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
@@ -77,6 +86,9 @@ Adjusted SCSS for classic theme figure styles.
 
 **_layouts/bibliography.liquid**
 Pointed it to layout: essay, rather than layout: page so that it would be two-column in PDF.
+
+**_plugins/figures/iiif/config.js**
+Increased print-image.jpg size and set withoutEnlargement to true
 
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.

@@ -9,7 +9,9 @@ menu: false
 
 {{ config.quire_credit_line }}
 
-The free online edition of this open-access publication is available at getty.edu/publications/french-silver/ and includes zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book.
+The free online edition of this open-access publication is available at getty.edu/publications/french-silver/ and includes 360-degree views and
+zoomable high-resolution photography. Also available are free PDF and EPUB downloads of the book, and JPG downloads of the main catalogue images.
+
 
 {% copyright %}
 
@@ -45,9 +47,9 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 </div>
 <div class="cover-image-credits">
 
-Front cover:
-Back cover:
+Front cover: Detail of cat. no. 6, Pair of Lidded Tureens, Liners, and Stands
+Back cover: Cat. no. 1, Water Fountain; Cat. no. 8, *La Machine d'Argent*
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
 
 </div>

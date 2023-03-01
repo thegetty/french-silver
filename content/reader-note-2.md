@@ -125,7 +125,7 @@ These monetary values were fixed until 1790. During this period, the cost of liv
 
 [^4]: One troy pound consists of twelve troy ounces (ozt.). James Rothwell, Decorative Arts Curator, National Trust of England, Wales, and Northern Ireland, noted that, in historic lists of English/British silver plate, silver bullion weights were rarely recorded down to the grain level. Typically, the pennyweight (dwt.) was rounded up or down accordingly. James Rothwell, email message to author, January 4, 2021.
 
-[^5]: The following sources summarize the essential literature from diverse fields of research: {% cite 'Borges et al. 2018' %}; {% cite 'Amussen and Long 2020' %}; and {% cite 'Bigelow 2020' %}, especially pp. 1–19, “Introduction: The Meaning of Metals.”
+[^5]: The following sources summarize the essential literature from diverse fields of research: {% cite 'Borges et al. 2018' %}; {% cite 'Asmussen and Long 2020' %}; and {% cite 'Bigelow 2020' %}, especially pp. 1–19, “Introduction: The Meaning of Metals.”
 
 [^6]: {% cite 'Sgard 1982' %}, 425–26.
 
