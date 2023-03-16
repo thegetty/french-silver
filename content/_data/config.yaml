@@ -1,5 +1,5 @@
 analytics:
-  googleId: ''
+  googleId: 'UA-8087223-1'
 
 bylineFormat: name # name | name-title | false
 
