@@ -68,9 +68,6 @@ Changed the main title to come from {{ publication.cover_title }}, which include
 **content/_assets/styles/components/q-figure.scss**
 Adjusted SCSS for classic theme figure styles.
 
-**_layouts/bibliography.liquid**
-Pointed it to layout: essay, rather than layout: page so that it would be two-column in PDF.
-
 **_plugins/figures/iiif/config.js**
 Increased print-image.jpg size and set withoutEnlargement to true
 
