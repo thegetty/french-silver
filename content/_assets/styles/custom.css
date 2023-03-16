@@ -116,13 +116,19 @@ Spectral Light
 .author-line {
   display: none;
 }
-.toc-list .author-line {
+.table-of-contents-list .author-line {
   display: inline;
 }
-.toc-list .page-item a[href='/catalogue/1/'] .contributor-divider,
-.toc-list .page-item a[href='/catalogue/1/'] .contributor,
-.toc-list .page-item a[href='#catalogue-1'] .contributor-divider,
-.toc-list .page-item a[href='#catalogue-1'] .contributor {
+.table-of-contents-list .page-item a[href='/catalogue/1/'] .contributor-divider,
+.table-of-contents-list .page-item a[href='/catalogue/1/'] .contributor,
+.table-of-contents-list .page-item a[href='#catalogue-1'] .contributor-divider,
+.table-of-contents-list .page-item a[href='#catalogue-1'] .contributor {
+  display: none;
+}
+/* Hide bylines on the pages where `contributor_byline: false` isn't working */
+#acknowledgments .quire-page__header__contributor,
+#foreword .quire-page__header__contributor,
+#catalogue-1 .quire-page__header__contributor {
   display: none;
 }
 
@@ -495,7 +501,8 @@ Spectral Light
   .quire-page__content .container .content ul.quire-contributors-list {
     margin-left: 0;
   }
-  /* Make Intro 2 column in PDF */
+  /* Make Intro and Biblio two-column in PDF */
+  #bibliography.quire-page .quire-page__content,
   #intro.quire-page .quire-page__content {
     column-count: 2;
     column-gap: 0.1875in;
