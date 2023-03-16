@@ -9,21 +9,11 @@ https://www.getty.edu/publications/french-silver/
 | `forthcoming` | A static placeholder page that is displayed at the book’s final URL on getty.edu prior to publication |
 | `first-pages`, `second-pages`, `final-pages`| 11ty versions of the project at various stages. All working branches should be made off of these. |
 
-## Using the 11ty Version
+## Previewing the Site
 
 1. Clone this repository and select the appropriate branch.
 
-2. In Terminal, make sure you are using Node 16.15.0 or higher, with `node --version`. (See section on NVM below.)
-
-3. Run `npm install` to install the project dependencies. This just needs to be done once when first cloning the project, or whenever the core template/code files are updated.
-
-4. Enter the following command to add the preview URL to your environment variables. This is hopefully temporary, but currently required because of the way IIIF images are set up. Doing so with `export URL=http://localhost:8080` adds it just for the current session. This will need to be repeated each time you close and reopen your command-line shell. Or you can add it to your .bash-profile to make it persist.
-
-```
-export URL=http://localhost:8080
-```
-
-5. See the preview with `npm run dev`. I find it needs to be stopped and restarted often to get it to refresh changes, especially with YAML.
+2. With Quire CLI `1.0.0-rc.5` and Node `18.12.1`, run `quire preview`.
 
 ## Using NVM to Manage Different Node Verisons
 
@@ -57,21 +47,15 @@ nvm install 16.15.0
 
 ## Creating a PDF Version
 
-While the paged.js work is ongoing, a PDF of French Silver should be created with PrinceXML (First pages was created using Prince 14.2.)
+While the paged.js work is ongoing, a PDF of *French Silver* should be created with PrinceXML 14.2.
 
-1. Run either `npm run dev` (and then stop it) or `npm run build` to generate the latest version of `_site/pdf.html` and `_site/pdf.css` from which the PDF will be generated
+1. Clear the `_epub`, `_site`, and `public` directories and then run `quire build`
 
-2. In `_site/pdf.css` find `/_assets/fonts/` and replace with `_assets/fonts/`
+2. In `_site/pdf.css` find all instances of `/_assets/fonts/` and replace with `_assets/fonts/`. (Or, prior to running `quire build`, change the value of `$assets-dir` in `content/_assets/styles/fonts.scss`.)
 
-3. In `_site/pdf.html` find `iiif/(.*?)/print-image.jpg` and replace with `iiif/$1/$1/print-image.jpg`
+3. Open `_site/index.html`, find the SVG element that has the Creative Commons license icons, and copy and past it right after the opening `<body>` tag in `_site/pdf.html`
 
-4. Open `_site/index.html`, find the SVG element that has the Creative Commons license icons, and copy and past it right after the opening `<body>` tag in `_site/pdf.html`
-
-5. Find `<h1 class="quire-page__header__title" id="bibliography">` and `<a href="#bibliography">Bibliography</a>` and append `-main` to the id and the href in each
-
-6. Copy `content/_assets/images/blank-page.svg` into `_site/_assets/images`
-
-7. Run `npm run build:prince`
+7. Run `quire pdf --lib prince`
 
 ## Customizations Made to 11ty Templates/Files
 
