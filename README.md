@@ -59,6 +59,9 @@ While the paged.js work is ongoing, a PDF of *French Silver* should be created w
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/head.js**
+Changed location and file type of favicon.
+
 **_includes/components/navigation.js**
 Include current page name instead of homepage link in center nav.
 
