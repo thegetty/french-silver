@@ -6,6 +6,8 @@
 #
 # This file houses the bibliographic info and general metadata for your digital
 # publication.
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'https://www.getty.edu/publications/french-silver'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -113,20 +115,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (7.1 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/X.pdf
-  - type: other-format
-    name: EPUB (## MB)
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/X.epub
+    url: /downloads/Bremer-David_FrenchSilver.pdf
+  # - type: other-format
+  #   name: EPUB (## MB)
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/X.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/products/X
+    url: https://shop.getty.edu/products/french-silver-in-the-j-paul-getty-museum-978-1606068281
   - type: footer-link
     name: About
     link_relation: about
@@ -177,4 +179,4 @@ repository_url: https://github.com/thegetty/french-silver
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.jpg
+promo_image: cover-social.jpg

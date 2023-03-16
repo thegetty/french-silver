@@ -1,11 +1,14 @@
 ---
+## CUSTOMIZED FILE -- Bronze Guidelines
+## uses .publication.cover_title in place of the default title, line 21
+##
 class: quire-cover
 description: Quire publication cover page
 layout: base.11ty.js
 ---
 
 {% assign coverImage = image %}
-{% assign imagePath = config.params.imageDir | concat: coverImage | join: '/' %}
+{% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
   <div
@@ -14,7 +17,7 @@ layout: base.11ty.js
   />
   <div class="quire-cover__hero-body hero-body">
     <div class="container is-fluid">
-      <h1 class="title">
+      <h1 class="title" id="page-header-{{ page.filePathStem }}">
         {{ publication.cover_title }}
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
