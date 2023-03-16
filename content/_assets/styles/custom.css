@@ -128,7 +128,10 @@ Spectral Light
 /* Hide bylines on the pages where `contributor_byline: false` isn't working */
 #acknowledgments .quire-page__header__contributor,
 #foreword .quire-page__header__contributor,
-#catalogue-1 .quire-page__header__contributor {
+#catalogue-1 .quire-page__header__contributor,
+[data-page-id="acknowledgments"] .quire-page__header__contributor,
+[data-page-id="foreword"] .quire-page__header__contributor,
+[data-page-id="catalogue-1"] .quire-page__header__contributor {
   display: none;
 }
 
