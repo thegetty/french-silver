@@ -118,12 +118,12 @@ resource_link:
     name: PDF (7.1 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/Bremer-David_FrenchSilver.pdf
+    url: _assets/downloads/Bremer-David_FrenchSilver.pdf
   # - type: other-format
   #   name: EPUB (## MB)
   #   media_type: application/epub+zip
   #   link_relation: alternate
-  #   url: /downloads/X.epub
+  #   url: _assets/downloads/X.epub
   - type: other-format
     name: Paperback
     media_type: print
