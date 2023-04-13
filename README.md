@@ -65,6 +65,11 @@ Changed location and file type of favicon.
 **_includes/components/navigation.js**
 Include current page name instead of homepage link in center nav.
 
+**_includes/components/analytics.js**
+**_includes/components/head.js**
+**_layouts/base.11ty.js**
+Updated snippets for Google Analytics 4
+
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 

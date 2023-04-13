@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
-// changed location and file type of favicon, line 78
+// changed location and file type of favicon, line 81
+// and moved analytics tag up for GA4, line 67
 //
 /**
  * Head Tag
@@ -63,6 +64,8 @@ module.exports = function(eleventyConfig) {
         <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.54" type="module"></script>
         <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
 
+        ${analytics()}
+
         ${publisherLinks}
 
         ${contributorLinks}
@@ -86,7 +89,6 @@ module.exports = function(eleventyConfig) {
 
         <!-- {% render 'polyfills/template.html' %} -->
 
-        ${analytics()}
       </head>
     `
   }
