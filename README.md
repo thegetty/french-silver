@@ -73,15 +73,15 @@ Updated snippets for Google Analytics 4
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 
-**content/_assets/styles/components/q-figure.scss**
-Adjusted SCSS for classic theme figure styles.
-
 **_plugins/figures/iiif/config.js**
 Increased print-image.jpg size and set withoutEnlargement to true
 
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
 
-**_plugins/transforms/outputs/pdf/layout.html**
-**_plugins/transforms/outputs/pdf/write.js**
-Add DIVs to properly style PDF output based on current SCSS.
+**content/_assets/styles/colors.scss**
+**content/_assets/styles/fonts.scss**
+**content/_assets/styles/print.scss**
+**content/_assets/styles/variables.scss**
+Style customizations
+
