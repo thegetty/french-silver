@@ -17,8 +17,7 @@ module.exports = async function(data) {
   const pageId = this.slugify(url) || path.parse(inputPath).name
   const { googleId } = config.analytics
 
-  const analyticsSnippet = googleId ? `<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=${googleId}
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
+  const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
 
   return this.renderTemplate(
     html`
