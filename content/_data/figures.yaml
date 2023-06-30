@@ -9,7 +9,7 @@ figure_list:
     label: "Armorial 1.1"
     caption: "Vessel (82.DG.17.b), detail of an armorial cartouche with the engraved coat of arms of Sir Nathaniel Curzon and Caroline Colyear."
     credit: ""
-    alt: ""
+    alt: "A family insignia framed by scales and surrounded by leafy decorations at the center of a silver vessel."
 
   - id: "armorial-2-1"
     src: "figures/armorial-2-1.jpg"
@@ -153,7 +153,7 @@ figure_list:
     label: "Cat. 1.1"
     caption: "Vessel (82.DG.17.b), detail of the maker’s mark, consisting of the initials “I.L.R.,” and a warden’s mark, a crowned *R*."
     credit: ""
-    alt: ""
+    alt: "Detail of silver vessel with the letters R and I.L.R. framed by two laurel branches."
 
   - id: "plate-1-2"
     src: "figures/placeholder.jpg"
@@ -178,7 +178,7 @@ figure_list:
     label: "Cat. 1.10"
     caption: "Water Fountain (82.DG.17), X-radiograph."
     credit: ""
-    alt: ""
+    alt: "X-radiograph of a silver fountain with two handles, an adolescent on the lid, a lion in the center, and a tap below the lion."
 
   - id: "cat-1-2"
     src: "figures/cat-1-2.jpg"
@@ -186,7 +186,7 @@ figure_list:
     label: "Cat. 1.2"
     caption: "Water Fountain (82.DG.17), back with lion mask."
     credit: ""
-    alt: ""
+    alt: "Backside of a silver vessel decorated with leaves, a lion head, and a boy holding a conch shell."
 
   - id: "cat-1-3"
     src: "figures/cat-1-3.jpg"
@@ -194,7 +194,7 @@ figure_list:
     label: "Cat. 1.3"
     caption: "Lid (82.DG.17.a), detail with putto finial."
     credit: ""
-    alt: ""
+    alt: "The lid of a silver vessel featuring a boy holding a conch shell sitting atop a dolphin and leaves."
 
   - id: "cat-1-4"
     src: "figures/cat-1-4.jpg"
@@ -202,7 +202,7 @@ figure_list:
     label: "Cat. 1.4"
     caption: "Vessel (82.DG.17.b), detail of lion mask."
     credit: ""
-    alt: ""
+    alt: "A lion's face surrounded by leaves and flowers on a silver vessel."
 
   - id: "cat-1-5"
     src: "figures/cat-1-5.jpg"
@@ -210,7 +210,7 @@ figure_list:
     label: "Cat. 1.5"
     caption: "Water fountain (82.DG.17), proper left view."
     credit: ""
-    alt: ""
+    alt: "Profile view of a heavily ornamented silver vessel with a spout."
 
   - id: "cat-1-6"
     src: "figures/cat-1-6.jpg"
@@ -218,7 +218,7 @@ figure_list:
     label: "Cat. 1.6"
     caption: "Vessel (82.DG.17.b), interior view showing the disc-shaped patch."
     credit: ""
-    alt: ""
+    alt: "Close-up of a silver vessel's textured interior with a circular indent."
 
   - id: "cat-1-7"
     src: "figures/cat-1-7.jpg"
@@ -226,7 +226,7 @@ figure_list:
     label: "Cat. 1.7"
     caption: "Vessel (82.DG.17.b), detail of tap in profile."
     credit: ""
-    alt: ""
+    alt: "Silver spout protruding from a bird's mouth with a large handle."
 
   - id: "cat-1-8"
     src: "figures/cat-1-8.jpg"
@@ -234,7 +234,7 @@ figure_list:
     label: "Cat. 1.8"
     caption: "Vessel (82.DG.17.b), interior view showing the inserted tap."
     credit: ""
-    alt: ""
+    alt: "Textured interior of a silver vessel revealing the base of a spigot."
 
   - id: "cat-1-9"
     src: "figures/cat-1-9.jpg"
@@ -242,7 +242,7 @@ figure_list:
     label: "Cat. 1.9"
     caption: "Vessel (82.DG.17.b), underside of the square base."
     credit: ""
-    alt: ""
+    alt: "Square base of a silver vessel enclosing six circles of ornamentation with varying levels of wear."
 
   - id: "cat-10-1"
     src: "figures/cat-10-1.jpg"
@@ -694,7 +694,7 @@ figure_list:
     label: "Fig. 1.1"
     caption: "Royal Tapestry Manufactory at the Gobelins (Paris, active 1660–present), after the design of Charles Le Brun (French, 1619–1690), *L’opéra dans le Louvre / Le mois de janvier* (*The Opera at the Louvre / The Month of January*), from the cycle known as *Les maisons royales* / *Les mois de l’année*, 1681. Wool, silk, gilt metal- and silver-wrapped thread, 400 × 650 cm (157 1/2 × 259 7/8 in.)."
     credit: "Paris, Mobilier national, GMTT-108-001. © Mobilier National/Photo: Isabelle Bideau"
-    alt: ""
+    alt: "Gold-themed tapestry depicting an opera scene from afar, detailing a terrace framed by three columns on each side, gold curtains, and lush flower garlands with red, green, blue, and yellow details."
 
   - id: "fig-1-10"
     src: "figures/fig-1-10.jpg"
@@ -702,7 +702,7 @@ figure_list:
     label: "Fig. 1.10"
     caption: "X-radiograph of vessel (82.DG.17.b), with the separately cast components of the collar highlighted above the lion mask. One cast section of ornament is highlighted in green and another in yellow. The rectangle draws attention to the Paris warden's mark and the maker's mark."
     credit: ""
-    alt: ""
+    alt: "X-radiograph of a fountain's main body with four leaves highlighted green, four highlighted orange, and a neon green rectangle drawing attention to two stamps."
 
   - id: "fig-1-11"
     src: "figures/fig-1-11.jpg"
@@ -710,7 +710,7 @@ figure_list:
     label: "Fig. 1.11"
     caption: "X-radiograph of vessel (82.DG.17.b) showing the skirt beneath the proper-left handle, with the separately cast component highlighted. One set of ornaments is highlighted in green and another in yellow. Circles draw attention to the repeated casting flaws."
     credit: ""
-    alt: ""
+    alt: "X-radiograph of a fountain's main body with two arches in the vessel's skirt highlighted green, two highlighted yellow, and four circles pointing out flaws in each arch."
 
   - id: "fig-1-12"
     src: "figures/fig-1-12.jpg"
@@ -718,7 +718,7 @@ figure_list:
     label: "Fig. 1.12"
     caption: "Visible light image of vessel (82.DG.17.b) showing the corresponding area of the exterior patch highlighted in red. The fine separation on cartouche below the shell is denoted by the solid red line."
     credit: ""
-    alt: ""
+    alt: "Silver fountain with two leaves on the main body of the vessel highlighted red and a red bracket marking the meeting point of a shell and the central design of the vessel."
 
   - id: "fig-1-13"
     src: "figures/fig-1-13.jpg"
@@ -726,7 +726,7 @@ figure_list:
     label: "Fig. 1.13"
     caption: "X-radiograph of vessel (82.DG.17.b) showing the interior and exterior repair patch. Red highlighting indicates exterior patch material, the solid red line emphasizes the fine exterior separation, and dotted red lines represent seams visible on the interior."
     credit: ""
-    alt: ""
+    alt: "Close-up of an x-radiograph of a fountain, highlighting two leaves in red, delineating the separation between a shell and the central design with a red bracket, and circling the center of the leaves with a dotted red line."
 
   - id: "fig-1-14"
     src: "figures/fig-1-14.jpg"
@@ -734,7 +734,7 @@ figure_list:
     label: "Fig. 1.14"
     caption: "X-radiograph of lid (82.DG.17.a) showing repaired casting porosity and figure's solid arms and lower legs and dolphin’s tail."
     credit: ""
-    alt: ""
+    alt: "Close-up of an x-radiograph of a fountain's lid, showing the side profile of a adolescent holding a shell and wrestling a dolphin."
 
   - id: "fig-1-15"
     src: "figures/fig-1-15.jpg"
@@ -742,7 +742,7 @@ figure_list:
     label: "Fig. 1.15"
     caption: "Underside of body, foot, and base of vessel (82.DG.17.b) revealing large pallions of solder along the top of the square base. The top sheet of the base has a round cutout of the center, which has been soldered to the foot."
     credit: ""
-    alt: ""
+    alt: "Close-up of a silver fountain's square base from an angle, revealing six rings of ornamentation making up the hollow base."
 
   - id: "fig-1-16"
     src: "figures/fig-1-16.jpg"
@@ -750,7 +750,7 @@ figure_list:
     label: "Fig. 1.16"
     caption: "Photomicrograph of a lightly scribed notation on the underside of vessel foot (82.DG.17.b), to the right of the more heavily inscribed “384 14” [crossed out]. Image captured at 20x magnification with a Keyence digital microscope."
     credit: "Image: Karen Bishop"
-    alt: ""
+    alt: "Photomicrograph of a vessel foot with the numbers and letters 8850, 35100, and mlttxx inscribed and a scale delineating the distance 1.00 mm relative to the blown-up image."
 
   - id: "fig-1-2"
     src: "figures/fig-1-2.jpg"
@@ -758,7 +758,7 @@ figure_list:
     label: "Fig. 1.2"
     caption: "Ralph Leake (British, died 1716, active from 1671), *Cistern*, 1698–99. Silver, 21.5 × 60.9 cm (8 1/2 × 23 15/16 in.)."
     credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, M.30-1965. © Victoria and Albert Museum, London"
-    alt: ""
+    alt: "Large gold cistern decorated with round arches enclosing leaves and branches with two handles held by lions' heads."
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.jpg"
@@ -766,14 +766,14 @@ figure_list:
     label: "Fig. 1.3"
     caption: "Attributed to Adam Loofs (Dutch, ca. 1645–after 1704), *Pair of Flagons* (*Buires*), ca. 1681. Silver, 85.1 × 52 × 42.3 cm (33 1/2 × 20 1/2 × 16 5/8 in.)."
     credit: "Nottinghamshire, England, Portland Collection, Harley Gallery, Welbeck Abbey, 2906-7. Bridgeman Images"
-    alt: ""
+    alt: "Two identical silver vessels with looping handles, decorated by a deer head with antlers on the lid, an adolescent holding open a dolphin's mouth coming out the center, and foliage wrapping the handles and base."
 
   - id: "fig-1-4"
     zoom: true
     label: "Fig. 1.4"
     caption: "Phillips Garden (British, active 1738–63), *Invoice from Phillips Garden to “Sr. N. Curzon, Bar.t”*, 1759–60. Pen and ink, H: 29.7 cm (11 3/4 in.)."
     credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall, Muniment Room, R1-33-27. © National Trust Images / James Dobson"
-    alt: ""
+    alt: "Paper invoice charting vessel purchases written to Sr. N. Curzon at the top and signed by Phillips Garden at the bottom."
     annotations:
       - input: radio
         items:
@@ -801,7 +801,7 @@ figure_list:
     label: "Fig. 1.5"
     caption: "Robert Adam (British, 1728–1792), *Study of Cistern and Fountain*, ca. 1760. Pencil sketch, 14.4 × 20.3 cm (5 11/16 × 7 15/16 in.)."
     credit: "London, Sir John Soane’s Museum. SM Adam Volume 54 Series III/1. © Sir John Soane’s Museum, London. Photograph by Ardon Bar-Hama"
-    alt: ""
+    alt: "Sketch on paper of a cistern, fountain, and the fountain's lid, labelled with measurements."
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
@@ -809,7 +809,7 @@ figure_list:
     label: "Fig. 1.6"
     caption: "Robert Le Vrac Tournières (French, 1667–1752), *Portrait of Goldsmith Nicolas Delaunay and His Family*, 1704. Oil on panel, 56 × 70.2 cm (22 1/16 × 27 5/8 in.)."
     credit: "Caen, Musée des beaux-arts, 78.2.1. Musée des Beaux-Arts de Caen, photography by M. Seyve"
-    alt: ""
+    alt: "Oil painting of a family of six in a dark room featuring a silver epergne atop a colorful rug and various gold chains."
 
   - id: "fig-1-7"
     src: "figures/fig-1-7.jpg"
@@ -817,7 +817,7 @@ figure_list:
     label: "Fig. 1.7"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *For Sir Nathaniel Curzon Baronet: Study of Vase, Cistern, and Fountain*, 1761. Pen, ink, and pencil, 29 × 40.9 cm (11 7/16 × 16 1/6 in.)."
     credit: "London, Sir John Soane’s Museum. SM Adam Volume 25/81, 82, 83. © Sir John Soane’s Museum, London. Photograph by Ardon Bar-Hama"
-    alt: ""
+    alt: "Sketch on paer of a vase, cistern, and fountain with measurements and the words For Sir Nathaniel Curzon Baronet at the top of the page."
 
   - id: "fig-1-8"
     src: "figures/fig-1-8.jpg"
@@ -825,7 +825,8 @@ figure_list:
     label: "Fig. 1.8"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *Design for the West End of the Dining Room, with the Niche & Side Board, Kedleston Hall*, 1762. Pen, ink, and watercolor, with pencil additions, 34.3 × 45.1 cm (13 1/2 × 17 3/4 in.)."
     credit: "Derbyshire, England, National Trust of England, Wales, and Northern Ireland, Kedleston Hall. © National Trust Images / James Dobson"
-    alt: ""
+    alt: "Pen, ink, and watercolor drawing of a dining room with gold moulding, an ornamented half-circle surrounded by paintings, and two doors framing a dining table displaying various plateware and silverware. 
+    The words Design for the West End of the Dining Room, with the Niche & Side Board are written across the top and the drawing is signed Robert Adam Architect 1762."
 
   - id: "fig-1-9"
     src: "figures/fig-1-9.jpg"
@@ -833,7 +834,7 @@ figure_list:
     label: "Fig. 1.9"
     caption: "Photograph of water fountain (82.DG.17.a–b), with original portions highlighted in blue. Areas with uncertain attribution but which may be original, such as the vessel rim and the putto and dolphin finial, are not highlighted."
     credit: ""
-    alt: ""
+    alt: "Silver fountain with the main body highlighted blue, except for two leaves in the center and the tap."
 
   - id: "fig-10-1"
     src: "figures/fig-10-1.jpg"
@@ -1386,7 +1387,7 @@ Resource, NY"
     label: "Mark 1.1"
     caption: "Vessel (82.DG.17.b), detail of a restricted warranty mark, a small crab."
     credit: ""
-    alt: ""
+    alt: "Close-up of vessel revealing a circular stamp depicting a crab."
 
   - id: "mark-10-1"
     src: "figures/mark-10-1.jpg"
@@ -2178,7 +2179,7 @@ Resource, NY"
     label: "Plate 1.1"
     caption: "Water fountain (cat. no. 1), front with armorial."
     credit: ""
-    alt: ""
+    alt: "Front-side of a silver water fountain, decorated with two handles, an adolescent holding a shell and riding a dolphin, leafy ornamentation, an central tap, and a square base."
 
   - id: "plate-10-1"
     src: "figures/plate-10-1.jpg"
