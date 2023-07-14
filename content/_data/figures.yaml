@@ -809,7 +809,7 @@ figure_list:
     label: "Fig. 1.6"
     caption: "Robert Le Vrac Tournières (French, 1667–1752), *Portrait of Goldsmith Nicolas Delaunay and His Family*, 1704. Oil on panel, 56 × 70.2 cm (22 1/16 × 27 5/8 in.)."
     credit: "Caen, Musée des beaux-arts, 78.2.1. Musée des Beaux-Arts de Caen, photography by M. Seyve"
-    alt: "Oil painting of a family of six in a dark room featuring a silver epergne atop a colorful rug and various gold chains."
+    alt: "Oil painting of a family of six in a dark room featuring a silver centerpiece atop a colorful rug and various gold chains."
 
   - id: "fig-1-7"
     src: "figures/fig-1-7.jpg"
@@ -817,7 +817,7 @@ figure_list:
     label: "Fig. 1.7"
     caption: "Office of Robert Adam (British, active ca. 1758–92), *For Sir Nathaniel Curzon Baronet: Study of Vase, Cistern, and Fountain*, 1761. Pen, ink, and pencil, 29 × 40.9 cm (11 7/16 × 16 1/6 in.)."
     credit: "London, Sir John Soane’s Museum. SM Adam Volume 25/81, 82, 83. © Sir John Soane’s Museum, London. Photograph by Ardon Bar-Hama"
-    alt: "Sketch on paer of a vase, cistern, and fountain with measurements and the words For Sir Nathaniel Curzon Baronet at the top of the page."
+    alt: "Sketch on paper of a vase, cistern, and fountain with measurements and the words For Sir Nathaniel Curzon Baronet at the top of the page."
 
   - id: "fig-1-8"
     src: "figures/fig-1-8.jpg"
@@ -873,7 +873,7 @@ figure_list:
     label: "Fig. 10.5"
     caption: "Robert Joseph Auguste (French, 1723–1805), *One of a Pair of Candelabra* (*Candélabre*), 1767–68. Silver, H: 37.5 cm (14 3/4 in.)."
     credit: "New York, Metropolitan Museum of Art, bequest of Catherine D. Wentworth, 1948, 48.187.389a,b"
-    alt: "Silver girandole with three candle cups branching from a base of three women standing back to back and topped iwth an artichoke."
+    alt: "Silver girandole with three candle cups branching from a base of three women standing back to back and topped with an artichoke."
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.jpg"
@@ -1017,7 +1017,7 @@ figure_list:
     label: "Fig. 6.3"
     caption: "Unknown goldsmith, *Salver on Stand* (detail of armorial), 1550–1600 and 1700–1725, with armorial added by 1755. Gilded silver, 21.2 × 31.2 cm (8 2/5 × 12 1/4 in.)."
     credit: "Lisbon, Palácio da Ajuda, 5158. © Direçāo-Geral do Património Cultural / Arquivo e Documntaçā Fotográfica / Luísa Oliveira"
-    alt: "Close-up of a bishops's galero and prince's coronet on a coat of arms surrounded by tassels on either side on a gilded-silver salver on a stand."
+    alt: "Close-up of a bishops's hat and prince's coronet on a coat of arms surrounded by tassels on either side on a gilded-silver salver on a stand."
 
   - id: "fig-7-1"
     src: "figures/fig-7-1.jpg"
@@ -2178,7 +2178,7 @@ Resource, NY"
     label: "Plate 1.1"
     caption: "Water fountain (cat. no. 1), front with armorial."
     credit: ""
-    alt: "Front-side of a silver water fountain, decorated with two handles, an adolescent holding a shell and riding a dolphin, leafy ornamentation, an central tap, and a square base."
+    alt: "Front-side of a silver water fountain, decorated with two handles, an adolescent holding a shell and riding a dolphin, leafy ornamentation, a central tap, and a square base."
 
   - id: "plate-10-1"
     src: "figures/plate-10-1.jpg"
