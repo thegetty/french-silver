@@ -1072,8 +1072,7 @@ figure_list:
     zoom: true
     label: "Fig. 8.2"
     caption: "Jean-Baptiste Oudry (French, 1686–1755), *Chasse au sanglier avec onze chiens (Boar Hunt with Eleven Dogs*), 1734. Oil on canvas, 120 × 172 cm (47 1/4 × 67 3/4 in.)."
-    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947. bpk Bildagentur / Staatliches Museum /Elke Walford / Art
-Resource, NY"
+    credit: "Schwerin, Germany, Staatliches Museum Schwerin, G 947. bpk Bildagentur / Staatliches Museum /Elke Walford / Art Resource, NY"
     alt: "Oil painting of eleven dogs attacking a boar in the woods."
 
   - id: "fig-8-3"
@@ -2186,7 +2185,7 @@ Resource, NY"
     label: "Plate 10.1"
     caption: "Two Girandoles (cat. no. 10)."
     credit: ""
-    alt: "Pair of silver silver girandoles with four candelabra, one of which is held by a putto, that branch off from a base of three women standing back to back.
+    alt: "Pair of silver silver girandoles with four candelabra, one of which is held by a putto, that branch off from a base of three women standing back to back."
 
   - id: "plate-2-1"
     src: "figures/plate-2-1.jpg"
