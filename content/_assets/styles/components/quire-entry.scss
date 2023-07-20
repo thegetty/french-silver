@@ -590,7 +590,7 @@ $image-divider-height: 16px;
       position: sticky;
       width: 100%;
       overflow: hidden;
-      z-index: 10;
+      // z-index: 10;
       @media screen and (max-width: $desktop) {
         top: calc(#{$navbar-height} + #{$quire-progress-bar-height});
         height: calc(
