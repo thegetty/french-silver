@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Keeps older version with annotations ui rendering with inline images
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 

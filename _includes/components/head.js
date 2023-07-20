@@ -6,7 +6,7 @@
 const path = require('path')
 /**
  * Head Tag
- * 
+ *
  * @param      {Object}  eleventyConfig
  */
 module.exports = function(eleventyConfig) {
@@ -14,6 +14,7 @@ module.exports = function(eleventyConfig) {
   const dublinCore = eleventyConfig.getFilter('dublinCore')
   const jsonld = eleventyConfig.getFilter('jsonld')
   const opengraph = eleventyConfig.getFilter('opengraph')
+  const removeHTML = eleventyConfig.getFilter('removeHTML')
   const twitterCard = eleventyConfig.getFilter('twitterCard')
   const webComponents = eleventyConfig.getFilter('webComponents')
 
@@ -24,9 +25,9 @@ module.exports = function(eleventyConfig) {
    */
   return function (page) {
     const { abstract, canonicalURL, cover, layout, title } = page
-    const pageTitle = title
-      ? `${title} | ${publication.title}`
-      : publication.title
+    const pageTitle = removeHTML(
+      title ? `${title} | ${publication.title}` : publication.title
+    )
 
     const description = publication.description.full || publication.description.one_line
 
