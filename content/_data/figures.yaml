@@ -156,21 +156,30 @@ figure_list:
     alt: "Detail of silver vessel with the letters R and I.L.R. framed by two laurel branches."
 
   - id: "plate-1-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 1.2"
     caption: "Water Fountain (82.DG.17), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-1-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
   
   - id: "plate-1-3"
-    src: "figures/placeholder.jpg"
     zoom: true
     label: "Plate 1.3"
     caption: "Water Fountain (82.DG.17), x-axial x-radiograph view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-1-3/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "left-to-right"
 
   - id: "cat-1-10"
     src: "figures/cat-1-10.jpg"
