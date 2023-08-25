@@ -59,6 +59,9 @@ While the paged.js work is ongoing, a PDF of *French Silver* should be created w
 
 ## Customizations Made to 11ty Templates/Files
 
+**_includes/components/figure/image/html.js**
+Added back in Annotations UI on inline figures
+
 **_includes/components/head.js**
 Changed location and file type of favicon.
 
@@ -81,7 +84,3 @@ Increased print-image.jpg size and set withoutEnlargement to true
 
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
-
-**_plugins/transforms/outputs/pdf/layout.html**
-**_plugins/transforms/outputs/pdf/write.js**
-Add DIVs to properly style PDF output based on current SCSS.

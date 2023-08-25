@@ -1,5 +1,7 @@
 ---
 layout: base.11ty.js
+classes:
+  - quire-base
 order: 1.5
 outputs: [pdf, epub]
 toc: false

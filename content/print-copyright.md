@@ -1,6 +1,8 @@
 ---
 layout: page
-class: backmatter
+classes: 
+  - backmatter
+  - quire-base
 order: 2
 outputs: [pdf, epub]
 toc: false
