@@ -133,7 +133,7 @@ figure_list:
 
   - id: "bio-8-1"
     src: "figures/bio-8-1.jpg"
-    zoom: true
+    # zoom: true
     label: "Bio 8.1"
     caption: "Ralph Leake (English, died 1716, active from 1671), *Cistern* (detail of marker’s mark), 1698–99. Silver, H: 21.5 × Diam: 60.9 cm (8 1/2 × 23 15/16 in.)."
     credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, inv. M.30-1965"
@@ -1429,7 +1429,7 @@ figure_list:
 
   - id: "mark-10-5"
     src: "figures/mark-10-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.5"
     caption: "Girandole (84.DG.42.1), proper right candle cup, exterior of rim, detail of an import mark for a minimum silver standard, a weevil."
     credit: ""
@@ -2069,7 +2069,7 @@ figure_list:
 
   - id: "mark-7-5"
     src: "figures/mark-7-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 7.5"
     caption: "Tray (71.DG.78), detail of an import mark, a small weevil."
     credit: ""
@@ -2141,7 +2141,7 @@ figure_list:
 
   - id: "mark-9-5"
     src: "figures/mark-9-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.5"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a countermark, a hunting horn."
     credit: ""
@@ -2149,7 +2149,7 @@ figure_list:
 
   - id: "mark-9-6"
     src: "figures/mark-9-6.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.6"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a countermark, a man’s slipper."
     credit: ""
@@ -2157,7 +2157,7 @@ figure_list:
 
   - id: "mark-9-7"
     src: "figures/mark-9-7.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.7"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a restricted warranty mark, a boar head."
     credit: ""
@@ -2165,7 +2165,7 @@ figure_list:
 
   - id: "mark-9-8"
     src: "figures/mark-9-8.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.8"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a standard mark, a swan in an oval."
     credit: ""
