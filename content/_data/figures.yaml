@@ -1,8 +1,5 @@
 figure_list:
 
-  # src: "figures/placeholder.jpg"
-  # USED IN INSTANCES WHEN IMAGE HAS NOT BEEN RECEIVED
-
   - id: "armorial-1-1"
     src: "figures/armorial-1-1.jpg"
     zoom: true
