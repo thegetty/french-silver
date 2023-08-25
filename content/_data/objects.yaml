@@ -85,7 +85,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SMK
     figure:
     - id: "plate-4-1"
-    #- id: "plate-4-2"
+    - id: "plate-4-2"
 
   - id: "05"
     title: "Two Sugar Casters (*Deux sucriers à poudre*)"
@@ -128,7 +128,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SH1
     figure:
     - id: "plate-6-1"
-    #- id: "plate-6-2"
+    - id: "plate-6-2"
 
   - id: "07"
     title: "Tray for Lidded Beakers (*Gantière pour gobelets couverts*)"
@@ -151,7 +151,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103QTE
     figure:
     - id: "plate-8-1"
-    #- id: "plate-8-2"
+    - id: "plate-8-2"
 
   - id: "09"
     title: "Sauceboat on Stand (*Saucière* *sur support*)"
@@ -166,7 +166,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/103SCW
     figure:
     - id: "plate-9-1"
-    #- id: "plate-9-2"
+    - id: "plate-9-2"
 
   - id: "10"
     title: "Two Girandoles (*Deux girandoles*)"

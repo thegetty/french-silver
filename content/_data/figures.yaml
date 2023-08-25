@@ -406,13 +406,17 @@ figure_list:
     alt: "Front view of a field laborer carrying a bundle of sugarcane stalks atop a flower-covered mound."
 
   - id: "plate-4-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 4.2"
-    caption: "Sugar caster (88.DH.127.TK), x-axial view."
+    caption: "Sugar caster (88.DH.127.1), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-4-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-4-2"
     src: "figures/cat-4-2.jpg"
@@ -535,13 +539,17 @@ figure_list:
     alt: "Top view of a flower-shaped stand decorated with wreaths along the edge and a coat of arms at its center."
 
   - id: "plate-6-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 6.2"
     caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-6-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-6-4"
     src: "figures/cat-6-4.jpg"
@@ -600,13 +608,17 @@ figure_list:
     alt: "Side view of the centerpiece, revealing a dead bird, onion, mushrooms, and a cauliflower behind a dead rabbit."
 
   - id: "plate-8-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 8.2"
     caption: "*La Machine d’Argent* (2005.43), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-8-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-8-4"
     src: "figures/cat-8-4.jpg"
@@ -641,13 +653,17 @@ figure_list:
     alt: "Angled view of the sauceboat with a high prow, low stern, lip rims that curl downward, and a shell-bordered oval surrounded by olive branches at the midpoint."
 
   - id: "plate-9-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 9.2"
     caption: "Sauceboat on Stand (71.DG.76.a–b), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-9-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-9-2"
     src: "figures/cat-9-2.jpg"
