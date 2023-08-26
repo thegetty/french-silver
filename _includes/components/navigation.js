@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE -- French Silver
-// Include current page name instead of homepage link in center nav, lines 84–88
+// Include current page name instead of homepage link in center nav, lines 85–89
+// Add missing <span class="nav-label"> for hiding elements on mobile, lines 77, 89, 102
 //
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
@@ -73,7 +74,7 @@ module.exports = function(eleventyConfig) {
                 <use xlink:href="#left-arrow-icon"></use>
               </switch>
             </svg>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
@@ -85,7 +86,7 @@ module.exports = function(eleventyConfig) {
       const { label, short_title, title } = data
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
-          ${navBarLabel({ label, short_title, title })}
+        <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
         </li>
       `
     }
@@ -98,7 +99,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
             <svg data-outputs-exclude="epub,pdf">
               <switch>
                 <use xlink:href="#right-arrow-icon"></use>

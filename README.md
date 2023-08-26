@@ -67,6 +67,7 @@ Changed location and file type of favicon.
 
 **_includes/components/navigation.js**
 Include current page name instead of homepage link in center nav.
+Add missing `<span class="nav-label">` for hiding elements on mobile.
 
 **_includes/components/analytics.js**
 **_includes/components/head.js**

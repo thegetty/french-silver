@@ -111,6 +111,25 @@ Spectral Light
   font-weight: 700;
   text-align: center;
 }
+@media screen and (max-width:460px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 4rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.75rem;
+  }
+}
+@media screen and (max-width:370px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 3.5rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.5rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.2rem;
+  }
+}
 
 /* Hack to show specialize author info for Cat. 1 in TOC only */
 .author-line {
@@ -161,6 +180,17 @@ Spectral Light
 }
 .quire-navbar-page-controls__item.quire-home-page {
   font-weight: bold;
+}
+/* Fix display of nav labels on mobile */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 900px) {
+  span.nav-label {
+    display: none !important;
+  }
 }
 
 /* TOMBSTONES
