@@ -65,6 +65,9 @@ Added back in Annotations UI on inline figures
 **_includes/components/head.js**
 Changed location and file type of favicon.
 
+**_includes/components/license-icons.js**
+Exclude SVG icons from EPUB output
+
 **_includes/components/navigation.js**
 Include current page name instead of homepage link in center nav.
 Add missing `<span class="nav-label">` for hiding elements on mobile.
@@ -80,8 +83,14 @@ Changed the main title to come from {{ publication.cover_title }}, which include
 **content/_assets/styles/components/q-figure.scss**
 Adjusted SCSS for classic theme figure styles.
 
+**_plugins/shortcodes/contributors.js**
+Fixed logic on creation of contribuor `id` to avoid retunring undefines.
+
 **_plugins/figures/iiif/config.js**
 Increased print-image.jpg size and set withoutEnlargement to true
 
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
+
+**content/_assets/styles/epub.scss**
+Replace all default EPUB styles
