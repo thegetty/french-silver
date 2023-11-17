@@ -5,8 +5,8 @@
 
 /* TEMPORARY "Uncorrected Proof" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -17,13 +17,13 @@
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "PRESS";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PREVIEW";
     bottom: -130px;
     right: -130px;
@@ -40,32 +40,6 @@
 
 /* COVER
 ============================================================================= */
-/*
-Spectral
-https://github.com/productiontype/Spectral
-Open Font License 1.1 (https://scripts.sil.org/OFL)
-
-Spectral Light
-*/
-@font-face {
-  font-family: "Spectral";
-  src: url("_assets/fonts/spectral/spectral-light.woff2") format("woff2"),
-       url("_assets/fonts/spectral/spectral-light.woff") format("woff"),
-       url("_assets/fonts/spectral/spectral-light.ttf") format("truetype");
-  font-weight: 300;
-  font-style: normal;
-}
-/* Spectral Semi-Bold
-*/
-@font-face {
-  font-family: "Spectral";
-  src: url("_assets/fonts/spectral/spectral-semibold.woff2") format("woff2"),
-       url("_assets/fonts/spectral/spectral-semibold.woff") format("woff"),
-       url("_assets/fonts/spectral/spectral-semibold.ttf") format("truetype");
-  font-weight: 600;
-  font-style: normal;
-}
-
 /* Cover customization to match previous collection catalogues */
 .hero-body .container.is-fluid {
   bottom: 0;
@@ -111,6 +85,25 @@ Spectral Light
   font-weight: 700;
   text-align: center;
 }
+@media screen and (max-width:460px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 4rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.75rem;
+  }
+}
+@media screen and (max-width:370px) {
+  .quire-cover__hero .title .title-large {
+    font-size: 3.5rem;
+  }
+  .quire-cover__hero .title {
+    font-size: 1.5rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.2rem;
+  }
+}
 
 /* Hack to show specialize author info for Cat. 1 in TOC only */
 .author-line {
@@ -123,15 +116,6 @@ Spectral Light
 .table-of-contents-list .page-item a[href='/catalogue/1/'] .contributor,
 .table-of-contents-list .page-item a[href='#catalogue-1'] .contributor-divider,
 .table-of-contents-list .page-item a[href='#catalogue-1'] .contributor {
-  display: none;
-}
-/* Hide bylines on the pages where `contributor_byline: false` isn't working */
-#acknowledgments .quire-page__header__contributor,
-#foreword .quire-page__header__contributor,
-#catalogue-1 .quire-page__header__contributor,
-[data-page-id="acknowledgments"] .quire-page__header__contributor,
-[data-page-id="foreword"] .quire-page__header__contributor,
-[data-page-id="catalogue-1"] .quire-page__header__contributor {
   display: none;
 }
 
@@ -161,6 +145,17 @@ Spectral Light
 }
 .quire-navbar-page-controls__item.quire-home-page {
   font-weight: bold;
+}
+/* Fix display of nav labels on mobile */
+.quire-navbar-page-controls__item.quire-next-page a,
+.quire-navbar-page-controls__item.quire-previous-page a {
+  white-space: nowrap;
+  max-width: calc((100vw - 18rem) * .5);
+}
+@media screen and (max-width: 900px) {
+  span.nav-label {
+    display: none !important;
+  }
 }
 
 /* TOMBSTONES

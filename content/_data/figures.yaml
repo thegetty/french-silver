@@ -1,8 +1,5 @@
 figure_list:
 
-  # src: "figures/placeholder.jpg"
-  # USED IN INSTANCES WHEN IMAGE HAS NOT BEEN RECEIVED
-
   - id: "armorial-1-1"
     src: "figures/armorial-1-1.jpg"
     zoom: true
@@ -133,7 +130,7 @@ figure_list:
 
   - id: "bio-8-1"
     src: "figures/bio-8-1.jpg"
-    zoom: true
+    # zoom: true
     label: "Bio 8.1"
     caption: "Ralph Leake (English, died 1716, active from 1671), *Cistern* (detail of marker’s mark), 1698–99. Silver, H: 21.5 × Diam: 60.9 cm (8 1/2 × 23 15/16 in.)."
     credit: "London, Victoria and Albert Museum, Metalwork Collection, Purchased with assistance from the Worshipful Company of Goldsmiths, inv. M.30-1965"
@@ -156,21 +153,30 @@ figure_list:
     alt: "Detail of silver vessel with the letters R and I.L.R. framed by two laurel branches."
 
   - id: "plate-1-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 1.2"
     caption: "Water Fountain (82.DG.17), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-1-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
   
   - id: "plate-1-3"
-    src: "figures/placeholder.jpg"
     zoom: true
     label: "Plate 1.3"
     caption: "Water Fountain (82.DG.17), x-axial x-radiograph view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-1-3/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "left-to-right"
 
   - id: "cat-1-10"
     src: "figures/cat-1-10.jpg"
@@ -397,13 +403,17 @@ figure_list:
     alt: "Front view of a field laborer carrying a bundle of sugarcane stalks atop a flower-covered mound."
 
   - id: "plate-4-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 4.2"
-    caption: "Sugar caster (88.DH.127.TK), x-axial view."
+    caption: "Sugar caster (88.DH.127.1), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-4-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-4-2"
     src: "figures/cat-4-2.jpg"
@@ -526,13 +536,17 @@ figure_list:
     alt: "Top view of a flower-shaped stand decorated with wreaths along the edge and a coat of arms at its center."
 
   - id: "plate-6-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 6.2"
     caption: "Lidded tureen, liner, and stand (82.DG.13.1.a–d), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-6-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-6-4"
     src: "figures/cat-6-4.jpg"
@@ -591,13 +605,17 @@ figure_list:
     alt: "Side view of the centerpiece, revealing a dead bird, onion, mushrooms, and a cauliflower behind a dead rabbit."
 
   - id: "plate-8-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 8.2"
     caption: "*La Machine d’Argent* (2005.43), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-8-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-8-4"
     src: "figures/cat-8-4.jpg"
@@ -632,13 +650,17 @@ figure_list:
     alt: "Angled view of the sauceboat with a high prow, low stern, lip rims that curl downward, and a shell-bordered oval surrounded by olive branches at the midpoint."
 
   - id: "plate-9-2"
-    src: "figures/placeholder.jpg"
     zoom: true
-    media_type: axial
     label: "Plate 9.2"
     caption: "Sauceboat on Stand (71.DG.76.a–b), x-axial view."
     credit: ""
     alt: ""
+    sequences:
+      - id: "figures/plate-9-2/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 
   - id: "cat-9-2"
     src: "figures/cat-9-2.jpg"
@@ -1429,7 +1451,7 @@ figure_list:
 
   - id: "mark-10-5"
     src: "figures/mark-10-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.5"
     caption: "Girandole (84.DG.42.1), proper right candle cup, exterior of rim, detail of an import mark for a minimum silver standard, a weevil."
     credit: ""
@@ -2069,7 +2091,7 @@ figure_list:
 
   - id: "mark-7-5"
     src: "figures/mark-7-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 7.5"
     caption: "Tray (71.DG.78), detail of an import mark, a small weevil."
     credit: ""
@@ -2141,7 +2163,7 @@ figure_list:
 
   - id: "mark-9-5"
     src: "figures/mark-9-5.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.5"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a countermark, a hunting horn."
     credit: ""
@@ -2149,7 +2171,7 @@ figure_list:
 
   - id: "mark-9-6"
     src: "figures/mark-9-6.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.6"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a countermark, a man’s slipper."
     credit: ""
@@ -2157,7 +2179,7 @@ figure_list:
 
   - id: "mark-9-7"
     src: "figures/mark-9-7.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.7"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a restricted warranty mark, a boar head."
     credit: ""
@@ -2165,7 +2187,7 @@ figure_list:
 
   - id: "mark-9-8"
     src: "figures/mark-9-8.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.8"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of a standard mark, a swan in an oval."
     credit: ""

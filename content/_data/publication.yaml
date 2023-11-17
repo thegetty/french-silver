@@ -119,11 +119,11 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: _assets/downloads/Bremer-David_FrenchSilver.pdf
-  # - type: other-format
-  #   name: EPUB (## MB)
-  #   media_type: application/epub+zip
-  #   link_relation: alternate
-  #   url: _assets/downloads/X.epub
+  - type: other-format
+    name: EPUB (180.6 MB)
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: _assets/downloads/Bremer-David_FrenchSilver.epub
   - type: other-format
     name: Paperback
     media_type: print
@@ -170,6 +170,13 @@ revision_history:
   - date: April 12, 2023
     summary:
       - First edition
+  - date: November 17, 2023
+    summary:
+      - Added 360-degree rotating images for cats. 1, 4, 6, 8, and 9
+      - Updated photography for select cat. 1 figures
+      - Corrected missing figures in cats. 7, 8, 9, and 10
+      - Added EPUB format for download
+      - Fixed style bugs on mobile version
 
 revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/french-silver/](https://github.com/thegetty/french-silver), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 

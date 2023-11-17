@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fixes logic on creation of contribuor `id` to avoid retunring undefines, lines 92 & 107
+//
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
 
@@ -85,6 +89,7 @@ module.exports = function (eleventyConfig) {
       case 'name-title-block': {
         const separator = (format === 'name-title') ? ', ' : ''
         const listItems = contributorList.map((contributor) => {
+          const contributorId = contributor.id ? contributor.id : fullname(contributor)
           const contributorParts = [
             `<span class="quire-contributor__name">${fullname(contributor)}</span>`
           ]
@@ -99,7 +104,7 @@ module.exports = function (eleventyConfig) {
             )
             : null
           return `
-            <li class="quire-contributor" id="${slugify(contributor.id)}">${contributorParts.join(separator)}</li>
+            <li class="quire-contributor" id="${slugify(contributorId)}">${contributorParts.join(separator)}</li>
           `
         })
         contributorsElement = `

@@ -3,9 +3,10 @@
 // changed location and file type of favicon, line 81
 // and moved analytics tag up for GA4, line 67
 //
+const path = require('path')
 /**
  * Head Tag
- * 
+ *
  * @param      {Object}  eleventyConfig
  */
 module.exports = function(eleventyConfig) {
@@ -13,19 +14,20 @@ module.exports = function(eleventyConfig) {
   const dublinCore = eleventyConfig.getFilter('dublinCore')
   const jsonld = eleventyConfig.getFilter('jsonld')
   const opengraph = eleventyConfig.getFilter('opengraph')
+  const removeHTML = eleventyConfig.getFilter('removeHTML')
   const twitterCard = eleventyConfig.getFilter('twitterCard')
   const webComponents = eleventyConfig.getFilter('webComponents')
 
-  const { application, publication } = eleventyConfig.globalData
+  const { application, figures, publication } = eleventyConfig.globalData
 
   /**
    * @param  {Object} params The Whole Dang Data Object, from base.11ty.js
    */
   return function (page) {
     const { abstract, canonicalURL, cover, layout, title } = page
-    const pageTitle = title
-      ? `${title} | ${publication.title}`
-      : publication.title
+    const pageTitle = removeHTML(
+      title ? `${title} | ${publication.title}` : publication.title
+    )
 
     const description = publication.description.full || publication.description.one_line
 
@@ -61,7 +63,7 @@ module.exports = function(eleventyConfig) {
         <link rel="canonical" href="${canonicalURL}">
         <link rel="version-history" href="${publication.repositoryUrl}">
 
-        <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.54" type="module"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.56" type="module"></script>
         <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
 
         ${analytics()}

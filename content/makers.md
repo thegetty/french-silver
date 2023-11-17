@@ -4,7 +4,7 @@ layout: essay
 order: 200
 ---
 
-## Robert Joseph Auguste
+## Robert Joseph Auguste {#robert-joseph-auguste}
 
 {% figure "bio-1-1", "is-pulled-right" %}
 
@@ -14,7 +14,7 @@ French, born in Mons in 1723, son of Christophe Auguste and Anne-Philippe Baldit
 
 From the 1770s, Auguste provided items of precious metal to the *Garde-meuble de la Couronne*: the coronation crown of Louis XVI in 1775, a table service for Louis XVI in 1783, and serving vessels (*pots à oille* or *terrines*) for the queen’s use at the Château de Saint-Cloud in 1788.[^2] Notable private clients patronized him, including the marquise de Pompadour (salts, in 1755), Jean de Jullienne (a square box with pilasters, in 1767), and Augustin Blondel de Gagny (gilded-bronze wall lights with female herms, in 1776). He delivered tableware to international patrons, including Christian VII, King of Denmark, in 1769; the comte de Creutz, Swedish ambassador to France, in 1775–76; George III, as Duke of Brunswick-Lüneburg and Prince-Elector of Hanover, in 1777–86; the duque de Cadaval, Portugal, in 1778–80; and Catherine II, Empress of Russia, in 1778–85. He also produced a large gilded-silver toilette service for Queen Maria of Portugal, in 1784. He subcontracted lesser components of these large services to Claude Auguste Aubry, Nicolas Martin, and Jean Etienne Langlois. At the height of his career, in the month of April 1778, his workshop brought a total of 4,000 *marcs* of silver (a weight equivalent to 979.2 kilograms, or more than one ton) to the Crown’s tax bureau (*bureau des fermiers*) in order to pay the requisite levy.
 
-## Jean-Baptiste François Chéret
+## Jean-Baptiste François Chéret {#jean-baptiste-francois-cheret}
 
 {% figure "bio-2-1", "is-pulled-right" %}
 
@@ -24,7 +24,7 @@ French, baptized in Paris on October 10, 1728, son of master goldsmith Pierre Ch
 
 Documents and extant works testify to the creative productivity of the Chéret workshop from 1759 to the Revolution, spanning the Rococo to Neoclassical styles. Rarely, though, are the names of his clients revealed. Three names only are known: Louis XV, who presented a gilded-silver ewer and basin by Chéret in 1770 to his mistress, Marguerite Catherin Hinault, and her husband, the marquis Blaise Arod de Montmelas; Prince Cardito, who rejected the vessel he commissioned from Chéret in 1789; and the city of Marseilles, which commissioned in 1789 an allegorical vase for their mayor, Jean-Pierre d’Isnard.[^5] That vase does not seem to have survived. Two tureens exhibit Chéret’s evolving exploration of Neoclassical forms. The earlier example of 1772, bearing the arms of comte Branicki, is in the transitional style with thick oak leaf and acorn garlands, while the other, of 1789, has a band of scrolling acanthus leaves in low relief, characteristic of the later arabesque style.[^6] Other extant works tend to be rather modest in size. The Metropolitan Museum of Art has a concentration of six of his pieces ranging from tableware to items from toilette services and dating from 1763 to 1784.[^7] The Musée des arts décoratifs, Paris, has three pieces of tableware of 1759–60, 1762–63, and 1786–87.[^8]
 
-## Louis Cordier
+## Louis Cordier {#louis-cordier}
 
 French, born in Paris, son of the Parisian goldsmith Claude Cordier; residing on the pont Saint-Michel, registered his mark on April 28, 1692; worked on the quai de la Mégisserie in 1737; trained two successive apprentices at that address: Philippe Roland, from 1737, and François Leclerc, from 1746; retired on February 20, 1748.[^9]
 
@@ -34,7 +34,7 @@ Few pieces survive bearing the mark of Louis Cordier. A pair of small beakers (*
 
 {% figuregroup "2", "bio-3-1, bio-3-2", "is-pulled-right" %}
 
-## Simon Gallien
+## Simon Gallien {#simon-gallien}
 
 {% figure "bio-4-1", "is-pulled-right" %}
 
@@ -44,7 +44,7 @@ French, possibly the goldsmith (*orfèvre*) living in the enclosure of the Abbey
 
 Though Simon Gallien’s career spanned more than forty years, few works by his hand are in public collections. The most important, and most unusual, is the ceremonial gilded-silver sword and harness (*baudrier*) he provided in 1729 to Marc de Beauvau, prince de Craon, at the price of 2,312 livres, on the occasion of the state funeral of duc Leopold of Lorraine, in Nancy. In 2015 the object was classified as a national treasure, and in 2017 it was acquired by the Musée de Lorraine de Nancy, Palais des ducs de Lorraine.[^16] Gallien’s other surviving pieces are domestic wares, including a pair of candlesticks of 1735–36 in the Musée des arts décoratifs, Paris,[^17] cutlery of 1734–35, and a mustard pot of 1739–40.[^18]
 
-## Phillips Garden
+## Phillips Garden {#phillips-garden}
 
 {% figure "bio-5-1", "is-pulled-right" %}
 
@@ -54,7 +54,7 @@ British, orphaned son of John Garden, who had been a London citizen and a draper
 
 A trade card for Phillips Garden, working goldsmith and jeweler at the Golden Lion in Saint Paul’s Church Yard, London, includes an interior view of his shop, replete with glazed showcases of silver plate, including monteiths, cisterns, bowls, trays, salvers, plates, flagons, pitchers, ewers, coffee pots, teapots, sauceboats, candlesticks, etc. The etched and engraved print is attributed to Francis Garden and dates from the 1750s, when Phillips Garden lived and worked at the Golden Lion.[^20] Interestingly, the trade card further states that Garden “Likewise Deals in Second-hand Plate & Watches at Reasonable Prices.”
 
-## François Thomas Germain
+## François Thomas Germain {#francois-thomas-germain}
 
 {% figure "bio-6-1", "is-pulled-right" %}
 
@@ -64,7 +64,7 @@ French, born in Paris on April 17, 1726, son of the Parisian goldsmith Thomas Ge
 
 The production of the Germain workshop under François Thomas was prolific in the years following the death of his father. As one of three goldsmiths to the king (serving with Claude II Ballin, Jacques III Roëttiers, and then Jacques Ballin), he fulfilled royal commissions throughout the 1750s, supplying altar fixtures, table and toilette services, candelabra, and writing sets of astounding virtuosity to the extended royal family as well as diplomatic gifts to the department of foreign affairs. Activity peaked in 1752, when the workshop delivered some 2,000 *marcs* of finished works to the Crown’s furniture warehouse (*Garde-meuble de la Couronne*) alone (a weight equivalent to 489 kilograms, or 1,078.5 pounds).[^22] The renowned workshop also served princely, aristocratic, and private clients in France and abroad, from Lisbon to Saint Petersburg. Orders gradually declined, however, as the financial toll of the Seven Years’ War (1756–63) increased. Having enlarged the workshop to meet demand, this downturn proved ruinous for Germain, whose career never recovered from the ensuing bankruptcy of 1765.
 
-## Thomas Germain
+## Thomas Germain {#thomas-germain}
 
 {% figure "bio-7-1", "is-pulled-right" %}
 
@@ -74,7 +74,7 @@ French, born in Paris on August 15, 1673, son of the Parisian goldsmith to the k
 
 Upon Thomas Germain’s return to Paris from Italy in 1706, he fulfilled ecclesiastical commissions in silver and in bronze, including a silver monstrance, bronze candlesticks, and a bronze crucifix for the Cathédrale Notre-Dame de Paris in 1716–18. Following his appointment as goldsmith-sculptor to the king (*orfèvre-sculpteur du roi*) in 1723, his work was in high demand and his production was prodigious. As one of three goldsmiths to the king (serving with Nicolas Besnier and Claude II Ballin), he delivered a variety of wares to the Crown’s furniture warehouse (*Garde-meuble de la Couronne*) until his death in August 1748, notably: a large gold toilette service of thirty-five pieces for Marie Leczinska, Queen of France, in 1726; rattles for each royal child, beginning with the first, born in 1726; a silver *necessaire* for Louis XV, in 1727; a gold, gilded-silver, and silver toilette service for Marie Thérèse Raphaëlle d’Espagne, the dauphine, in 1746; and two large girandoles in gold for the king’s formal table setting, known as *le grand couvert*, in 1747. He delivered wares to the courts of Portugal, from 1725 to 1748; Vienna, in 1725 and in 1733; Spain, in 1727–28; Naples, in 1732–33 and 1738; and Denmark, in 1738–42. He also catered to many private patrons, such as Samuel Jacques Bernard, comte de Coubert.
 
-## Ralph Leake
+## Ralph Leake {#ralph-leake}
 
 {% figure "bio-8-1", "is-pulled-right" %}
 
@@ -84,7 +84,7 @@ English, son of yeoman Thomas Leake of Osbaston, Shropshire; was apprentice to t
 
 Ralph Leake made a gilded-silver alms basin, with a central scene of the Last Supper in relief, as part of an altar service for Saint James’s Church, Piccadilly, London, in its inaugural year of 1683. Concerning this service, John Evelyn wrote in November 1684, “There was no altar anywhere in England, nor has there been any abroad, more handsomely adorned.”[^25] Besides the two cisterns that survive from the pair of fountains and cisterns from Kedleston Hall, Derbyshire, England (see [cat. no. 1](/catalogue/1/) in this catalogue), there is the standing dish of 1685–86 in the collection of the Goldsmiths’ Company, engraved with the arms of the Duke of Grafton and bearing his maker’s mark.[^26]
 
-## Jean Leroy
+## Jean Leroy {#jean-leroy}
 
 {% figure "bio-9-1", "is-pulled-right" %}
 
@@ -94,7 +94,7 @@ French, born in Saumur; was a journeyman in Paris; residing in the rue d’Avign
 
 Apparently, only three works survive bearing the mark of Jean Leroy. The earliest piece is a small octagonal toilette box, with the Paris warden’s date letter for 1627–28, in a private collection.[^38] Its segmented surfaces are embossed and finely chased with naturalistic flowers, leaves, and a bird in relief against matted grounds. His mark is also found on the base of one of a pair of small gilded-silver perfume flasks in the Victoria and Albert Museum, London. The flasks otherwise bear the marks of Geneviève Carabin and an indistinct Paris date letter, possibly for 1671–72.[^39] One surmises that a considerable portion of Leroy’s Paris-based oeuvre was lost due to the French sumptuary edicts of 1689 and 1709 and that any London-based work by him remains unrecognized due to the absence of an identifying mark. If he did indeed make silver plate in England, it would have been subsumed into the production of a freeman of the Worshipful Company of Goldsmiths of the City of London, who used his own registered mark.
 
-## The Martin Family
+## The Martin Family {#the-martin-family}
 
 {% figure "bio-10-1", "is-pulled-right" %}
 
