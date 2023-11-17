@@ -5,8 +5,8 @@
 
 /* TEMPORARY "Uncorrected Proof" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -17,13 +17,13 @@
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "PRESS";
     background-color: cyan;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PREVIEW";
     bottom: -130px;
     right: -130px;
