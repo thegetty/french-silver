@@ -23,6 +23,10 @@ layout: base.11ty.js
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
         {{ publication.cover_title }}
+        {% if publication.subtitle %}
+          <span class="visually-hidden">: </span>
+          <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
+        {% endif %}
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
       <div class="contributor">

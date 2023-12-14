@@ -15,11 +15,12 @@ module.exports = async function(data) {
   const { classes, collections, config, content, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const { googleId } = config.analytics
+  const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
   const figures = pageData.page.figures
 
-  const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
+  const figuresJSON = figures ? JSON.stringify(figures) : '{}'
 
   return html`
     <!doctype html>
@@ -29,6 +30,7 @@ module.exports = async function(data) {
         ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
+        ${this.quireData(figuresJSON, 'page-figures')}
         <div class="quire no-js" id="container">
           <div
             aria-expanded="false"
