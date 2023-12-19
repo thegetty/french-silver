@@ -18,9 +18,19 @@ module.exports = async function(data) {
   const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
-  const figures = pageData.page.figures
-
-  const figuresJSON = figures ? JSON.stringify(figures) : '{}'
+  const { figures=[] } = pageData.page
+  let figuresJSON;
+  /**
+   * This is currently throwing errors
+   */
+  // try {
+  //   figuresJSON = figures ? JSON.stringify(figures) : '{}'
+  // } catch(error) {
+  //   // currently throws an error on sequences, as `Sequence.figure` causes a circular reference
+  //   console.warn('ERROR', error)
+  // }
+  // currently NOT writing quire data to the page until sequence bug is ironed out
+  // ${this.quireData(figuresJSON, 'page-figures')}
 
   return html`
     <!doctype html>
@@ -30,7 +40,6 @@ module.exports = async function(data) {
         ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
-        ${this.quireData(figuresJSON, 'page-figures')}
         <div class="quire no-js" id="container">
           <div
             aria-expanded="false"
