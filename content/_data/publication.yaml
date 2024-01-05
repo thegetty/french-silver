@@ -8,7 +8,7 @@
 # publication.
 # The publication's base URL, i.e. 'https://www.my-publication.org'
 # url: 'https://www.getty.edu/publications/french-silver'
-url: 'https://localhost:8080'
+url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
