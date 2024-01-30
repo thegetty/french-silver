@@ -13,21 +13,19 @@ const logger = chalkFactory('Figure Video')
  * @return     {String}  HTML containing a fallback image and a caption
  */
 module.exports = function(eleventyConfig) {
-  const figureCaption = eleventyConfig.getFilter('figureCaption')
-  const figureLabel = eleventyConfig.getFilter('figureLabel')
-
   const { imageDir } = eleventyConfig.globalData.config.figures
+  const figureMediaEmbedUrl = eleventyConfig.getFilter('figureMediaEmbedUrl')
 
   return function({
     aspect_ratio: aspectRatio,
-    caption,
-    credit,
-    id,
-    label,
     mediaId,
     mediaType,
     poster=''
   }) {
+    const { sourceUrl } = figureMediaEmbedUrl({ mediaId, mediaType })
+    const mediaSourceLink = sourceUrl
+      ? `<span class="q-figure__caption-embed-link"><a href="${sourceUrl}"><em>${sourceUrl}</em></a></span>`
+      : ''
     if (!poster) {
       logger.warn(`Figure '${id}' does not have a 'poster' property. Print media will not render a fallback image for id: ${id}`)
     }
@@ -35,14 +33,12 @@ module.exports = function(eleventyConfig) {
     const posterSrc = poster.startsWith('http')
       ? poster
       : path.join(imageDir, poster)
-    const labelElement = figureLabel({ caption, id, label })
-    const captionElement = figureCaption({ caption, content: labelElement,  credit, mediaId, mediaType })
 
     return html`
       <div class="q-figure__media-wrapper--${ aspectRatio || 'widescreen' }">
         <img src="${posterSrc}" />
+        ${mediaSourceLink}
       </div>
-      ${captionElement}
     `
   }
 }
