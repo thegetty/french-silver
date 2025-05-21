@@ -72,6 +72,7 @@ Added back in Annotations UI on inline figures
 
 **_includes/components/head.js**
 Changed location and file type of favicon.
+Removed noindex,nofollow tag
 
 **_includes/components/license-icons.js**
 Exclude SVG icons from EPUB output
