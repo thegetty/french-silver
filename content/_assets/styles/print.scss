@@ -111,6 +111,10 @@ $print-trim: $print-bleed * 2;
     }
   }
 
+  @page objects {
+    background-color: $print-splash-color;
+  }
+
   @page splash {
     background-color: $print-splash-color;
   }
@@ -156,6 +160,17 @@ $print-trim: $print-bleed * 2;
   }
 
   @page no-footer {
+    @bottom-right {
+      content: none;
+    }
+
+    @bottom-left {
+      content: none;
+    }
+  }
+
+  @page pdf-cover-page {
+    background-color: $print-splash-color;
     @bottom-right {
       content: none;
     }
@@ -275,6 +290,10 @@ $print-trim: $print-bleed * 2;
   .title-page,
   .copyright-page {
     page: no-footer;
+  }
+
+  .objects-page {
+    page: objects;
   }
 
   .quire-splash {
@@ -637,6 +656,31 @@ $print-trim: $print-bleed * 2;
         margin-bottom: 1em;
       }
       .copyright__publisher-logo {
+        display: none;
+      }
+    }
+  }
+  // PDF Cover Pages
+  // -----------------------------------------------------------------------------
+  .quire-page.pdf-cover-page {
+    page: pdf-cover-page;
+
+    .quire-page__content {
+      max-width: initial;
+
+      .content dl.cover-content {
+        margin-left: 0;
+
+        // PrinceXML is not processing this inline style for some reason
+        span[style*='font-Style: Italic'] {
+          font-style: italic;
+        }
+        .cite-current-date__statement {
+          display: none;
+        }
+      }
+      .copyright__publisher-logo,
+      .quire-copyright__icon__link {
         display: none;
       }
     }

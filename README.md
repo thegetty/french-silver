@@ -19,8 +19,8 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
-- Quire CLI 1.0.0-rc.10
+- Node 20.18.1
+- Quire CLI 1.0.0-rc.25
 
 ### Branches
 
@@ -88,14 +88,8 @@ Updated snippets for Google Analytics 4
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 
-**content/_assets/styles/components/q-figure.scss**
-Adjusted SCSS for classic theme figure styles.
-
 **_plugins/shortcodes/contributors.js**
 Fixed logic on creation of contribuor `id` to avoid retunring undefines.
-
-**_plugins/figures/iiif/config.js**
-Increased print-image.jpg size and set withoutEnlargement to true
 
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.

@@ -27,6 +27,7 @@ module.exports = {
         layout: data.layout,
         object: data.object,
         order: data.order,
+        page_pdf_output: data.page_pdf_output,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
@@ -63,7 +64,7 @@ module.exports = {
       computedClasses.push('frontmatter')
     }
     // filter null values, handles 11ty's first pass at build
-    const filteredClasses = classes.filter((x) => x)
+    const filteredClasses = Array.from(classes).filter((x) => x)
 
     // add custom classes from page frontmatter
     return computedClasses.concat(filteredClasses)
@@ -82,7 +83,7 @@ module.exports = {
     return collections.all.find(({ url }) => url === page.url)
   },
   /**
-   * Figures data for figures referenced by id in page frontmatter 
+   * Figures data for figures referenced by id in page frontmatter
    */
   pageFigures: ({ figure, figures }) => {
     if (!figure || !figure.length) return
@@ -95,15 +96,15 @@ module.exports = {
     if (!object || !object.length) return
     return object
       .reduce((validObjects, item) => {
-        const objectData = objects.object_list.find(({ id }) => id === item.id)
+        const objectData = objects.object_list && objects.object_list.length
+          ? objects.object_list.find(({ id }) => id === item.id)
+          : item
         if (!objectData) {
           warn(`pageObjects: no object found with id ${item.id}`)
           return validObjects
         }
 
-        if (!objectData.figure) {
-          warn(`pageObjects: object id ${objectData.id} has no figure data`)
-        } else {
+        if (objectData.figure) {
           objectData.figures = objectData.figure.map((figure) => {
             if (figure.id) {
               return this.getFigure(figure.id)
