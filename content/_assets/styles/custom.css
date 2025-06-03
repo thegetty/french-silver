@@ -114,8 +114,8 @@
 }
 .table-of-contents-list .page-item a[href='/catalogue/1/'] .contributor-divider,
 .table-of-contents-list .page-item a[href='/catalogue/1/'] .contributor,
-.table-of-contents-list .page-item a[href='#catalogue-1'] .contributor-divider,
-.table-of-contents-list .page-item a[href='#catalogue-1'] .contributor {
+.table-of-contents-list .page-item a[href='#page-catalogue-1'] .contributor-divider,
+.table-of-contents-list .page-item a[href='#page-catalogue-1'] .contributor {
   display: none;
 }
 
@@ -345,6 +345,9 @@
   .quire-page__content .table-figure {
     column-span: all;
   }
+  .quire-page__content #table-1 table {
+    font-size: 5.31pt;
+  }
 }
 /* Make citation pop-ups in table only function inside lightbox modal */
 .quire-page__content .table-figure .table-key .quire-citation {
@@ -432,8 +435,10 @@
   .quire-contents-list .page-item a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page);
   }
-  .quire-contents-list .page-item.frontmatter-page a::after {
-    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+  .quire-contents-list .page-item.frontmatter-page a::after,
+  .quire-contents-list .table-of-contents > .table-of-contents-list > .page-item:nth-child(-n+2) > a::after {
+    content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman);
+    font-style: italic;
   }
   /* Style half title and title pages */
   .half-title-page,
@@ -467,7 +472,7 @@
   .quire-page__header:not(.hero__image) {
     page-break-before: always;
   }
-  #catalogue .quire-page__header:not(.hero__image) {
+  #page-catalogue .quire-page__header:not(.hero__image) {
     break-before: right;
   }
   .quire-page__header.hero__image {
@@ -500,8 +505,8 @@
     margin-left: 0;
   }
   /* Make Intro and Biblio two-column in PDF */
-  #bibliography.quire-page .quire-page__content,
-  #intro.quire-page .quire-page__content {
+  #page-bibliography.quire-page .quire-page__content,
+  #page-intro.quire-page .quire-page__content {
     column-count: 2;
     column-gap: 0.1875in;
     max-width: 100%;
@@ -611,26 +616,26 @@
     margin-bottom: 0 !important;
   }
   /* Remove page number from copyright page */
-  #print-copyright.quire-page.frontmatter {
+  #page-print-copyright.quire-page.frontmatter {
     page: no-footer;
   }
   /* Remove duplicative table labels in print */
-  .quire-page#appendix .q-figure#table-1 .q-figure__caption,
-  .quire-page#appendix .q-figure#table-2 .q-figure__caption {
+  .quire-page#page-appendix .q-figure#table-1 .q-figure__caption,
+  .quire-page#page-appendix .q-figure#table-2 .q-figure__caption {
     display: none;
   }
   /* Keep the short footnotes section in one column */
-  .quire-page#appendix .footnotes-list {
+  .quire-page#page-appendix .footnotes-list {
     break-inside: avoid;
     page-break-inside: avoid;
   }
   /* Keep references together */
-  .quire-page#bibliography dd {
+  .quire-page#page-bibliography dd {
     break-inside: avoid;
     page-break-inside: avoid;
   }
   /* Add page break to avoid widowed lines */
-  #catalogue-10 h5#inscriptions {
+  #page-catalogue-10 h5#inscriptions {
     break-before: always;
     page-break-before: always;
   }
@@ -639,14 +644,14 @@
 /* COPYRIGHT & ABOUT
 ============================================================================= */
 /* Columns */
-#print-copyright.quire-page .quire-page__content {
+#page-print-copyright.quire-page .quire-page__content {
   column-count: 2;
   column-gap: .1875in;
   max-width: 100%;
   margin: 0;
 }
 /* Header */
-#print-copyright.quire-page .quire-page__header {
+#page-print-copyright.quire-page .quire-page__header {
   display: none;
 }
 /* Copyright Block */
@@ -686,7 +691,7 @@
 .quire-page__content .container .content figure .q-figure__caption,
 .quire-page__content .container .content .footnotes li,
 .quire-page__content .container .content .quire-page__content__references dl,
-#print-copyright .quire-page__content .container .content {
+#page-print-copyright .quire-page__content .container .content {
   font-family: "Noto Sans", sans-serif;
   font-size: .75rem;
   line-height: 1.6;

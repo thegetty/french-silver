@@ -19,6 +19,7 @@ zoomable high-resolution photography. Also available are free PDF and EPUB downl
 {% copyright %}
 
 First edition, {{ publication.pub_date | date: "%Y" }}
+{% if publication.revision_history.size > 1 %}Last updated, {{ publication.revision_history.last.date }}{% endif %}
 {{ publication.repository_url | replace: "https://", "" }}
 
 <div class="publisher no-break-container">

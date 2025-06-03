@@ -55,15 +55,11 @@ git clone --recursive https://github.com/thegetty/french-silver.git
 
 ## Creating a PDF Version
 
-While the paged.js work is ongoing, a PDF of *French Silver* should be created with PrinceXML 14.2.
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
-1. Clear the `_epub`, `_site`, and `public` directories and then run `quire build`
+2. Run `quire build`
 
-2. In `_site/pdf.css` find all instances of `/_assets/fonts/` and replace with `_assets/fonts/`. (Or, prior to running `quire build`, change the value of `$assets-dir` in `content/_assets/styles/fonts.scss`.)
-
-3. Open `_site/index.html`, find the SVG element that has the Creative Commons license icons, and copy and past it right after the opening `<body>` tag in `_site/pdf.html`
-
-7. Run `quire pdf --lib prince`
+3. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Customizations
 

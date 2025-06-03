@@ -177,6 +177,9 @@ revision_history:
       - Corrected missing figures in cats. 7, 8, 9, and 10
       - Added EPUB format for download
       - Fixed style bugs on mobile version
+  - date: June 3, 2025
+    summary:
+      - Made minor text corrections
 
 revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/french-silver/](https://github.com/thegetty/french-silver), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
