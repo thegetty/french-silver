@@ -74,7 +74,7 @@ figure_list:
 
   - id: "bio-2-1"
     src: "figures/bio-2-1.jpg"
-    zoom: true
+    # zoom: true
     label: "Bio 2.1"
     caption: "Jean-Baptiste François Chéret (French, 1728–1809), *Stand for a Sauceboat* (*Support pour une saucière*) (detail of maker’s mark), 1762–63. Silver, 10.8 × 18.5 × 12.6 cm (4 1/4 × 7 5/16 × 4 15/16 in.)."
     credit: "Los Angeles, J. Paul Getty Museum, 71.DG.76.b"
@@ -760,7 +760,7 @@ figure_list:
 
   - id: "fig-1-15"
     src: "figures/fig-1-15.jpg"
-    zoom: true
+    # zoom: true
     label: "Fig. 1.15"
     caption: "Underside of body, foot, and base of vessel (82.DG.17.b) revealing large pallions of solder along the top of the square base. The top sheet of the base has a round cutout of the center, which has been soldered to the foot."
     credit: ""
@@ -1403,7 +1403,7 @@ figure_list:
 
   - id: "mark-1-1"
     src: "figures/mark-1-1.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 1.1"
     caption: "Vessel (82.DG.17.b), detail of a restricted warranty mark, a small crab."
     credit: ""
@@ -1411,7 +1411,7 @@ figure_list:
 
   - id: "mark-10-1"
     src: "figures/mark-10-1.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.1"
     caption: "Girandole (84.DG.42.1), underneath the base, detail of the maker’s mark, consisting of the initials “R.J.A.”"
     credit: ""
@@ -1427,7 +1427,7 @@ figure_list:
 
   - id: "mark-10-2"
     src: "figures/mark-10-2.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.2"
     caption: "Girandole (84.DG.42.1), underneath the base, detail of a warden’s mark, a crowned *S*."
     credit: ""
@@ -1435,7 +1435,7 @@ figure_list:
 
   - id: "mark-10-3"
     src: "figures/mark-10-3.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.3"
     caption: "Girandole (84.DG.42.1), underneath the base, detail of a charge mark, the cipher of two *L*s, facing and interlaced."
     credit: ""
@@ -1443,7 +1443,7 @@ figure_list:
 
   - id: "mark-10-4"
     src: "figures/mark-10-4.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.4"
     caption: "Girandole (84.DG.42.1), central drip pan surface, detail of a letter *G* (referring to a Hanoverian inventory of 1800)."
     credit: ""
@@ -1467,7 +1467,7 @@ figure_list:
 
   - id: "mark-10-7"
     src: "figures/mark-10-7.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.7"
     caption: "Girandole (84.DG.42.2), underneath the base, detail of a warden’s mark, a crowned *P*."
     credit: ""
@@ -1475,7 +1475,7 @@ figure_list:
 
   - id: "mark-10-8"
     src: "figures/mark-10-8.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.8"
     caption: "Girandole (84.DG.42.2), underneath the base, detail of a charge mark, the monogram for the city of Paris, “P A R I S.”"
     credit: ""
@@ -1483,7 +1483,7 @@ figure_list:
 
   - id: "mark-10-9"
     src: "figures/mark-10-9.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 10.9"
     caption: "Girandole (84.DG.42.2), on the exterior of the foot ring, detail of a discharge mark, an ewer."
     credit: ""
@@ -1515,7 +1515,7 @@ figure_list:
 
   - id: "mark-2-4"
     src: "figures/mark-2-4.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 2.4"
     caption: "Lid (71.DG.77.a), detail of a restricted warranty mark, a boar head."
     credit: ""
@@ -1555,7 +1555,7 @@ figure_list:
 
   - id: "mark-2-9"
     src: "figures/mark-2-9.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 2.9"
     caption: "Bowl (71.DG.77.b), detail of the handle (with a male profile), with a restricted warranty mark, a boar head."
     credit: ""
@@ -1715,7 +1715,7 @@ figure_list:
 
   - id: "mark-4-11"
     src: "figures/mark-4-11.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 4.11"
     caption: "Lid (88.DH.127.2.a), detail of a discharge mark, a fox head."
     credit: ""
@@ -1723,7 +1723,7 @@ figure_list:
 
   - id: "mark-4-12"
     src: "figures/mark-4-12.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 4.12"
     caption: "Lid (88.DH.127.2.a), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1747,7 +1747,7 @@ figure_list:
 
   - id: "mark-4-15"
     src: "figures/mark-4-15.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 4.15"
     caption: "Vessel (88.DH.127.2.b), detail of a discharge mark, a fox head."
     credit: ""
@@ -1755,7 +1755,7 @@ figure_list:
 
   - id: "mark-4-16"
     src: "figures/mark-4-16.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 4.16"
     caption: "Vessel (88.DH.127.2.b), detail of a discharge mark, a helmet with an open visor."
     credit: ""
@@ -1763,7 +1763,7 @@ figure_list:
 
   - id: "mark-4-17"
     src: "figures/mark-4-17.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 4.17"
     caption: "Base (88.DH.127.2.c), detail of a tax mark, a crowned *C*."
     credit: ""
@@ -1971,7 +1971,7 @@ figure_list:
 
   - id: "mark-6-12"
     src: "figures/mark-6-12.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 6.12"
     caption: "Tureen (82.DG.13.2.c), detail of a discharge mark, a boar head."
     credit: ""
@@ -2003,7 +2003,7 @@ figure_list:
 
   - id: "mark-6-3"
     src: "figures/mark-6-3.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 6.3"
     caption: "Liner (82.DG.13.1.b), detail of a countermark, laurel leaves and stem."
     credit: ""
@@ -2083,7 +2083,7 @@ figure_list:
 
   - id: "mark-7-4"
     src: "figures/mark-7-4.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 7.4"
     caption: "Tray (71.DG.78), detail of a discharge mark, a cow (partially struck)."
     credit: ""
@@ -2123,7 +2123,7 @@ figure_list:
 
   - id: "mark-8-3"
     src: "figures/mark-8-3.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 8.3"
     caption: "*La Machine d’Argent* (2005.43), detail of a discharge mark, a cow."
     credit: ""
@@ -2147,7 +2147,7 @@ figure_list:
 
   - id: "mark-9-3"
     src: "figures/mark-9-3.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.3"
     caption: "Sauceboat (71.DG.76.a), detail of a discharge mark, a pointer head."
     credit: ""
@@ -2155,7 +2155,7 @@ figure_list:
 
   - id: "mark-9-4"
     src: "figures/mark-9-4.jpg"
-    zoom: true
+    # zoom: true
     label: "Mark 9.4"
     caption: "Sauceboat, base of stand (71.DG.76.b), detail of the maker’s mark, consisting of the initials “J.B.C.”"
     credit: ""
