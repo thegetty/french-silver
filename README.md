@@ -84,6 +84,10 @@ Updated snippets for Google Analytics 4
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 
+**_layouts/pdf.liquid**
+**_plugins/transforms/outputs/pdf/write.js**
+Include title and language in PDF to help with accessibility
+
 **_plugins/shortcodes/contributors.js**
 Fixed logic on creation of contribuor `id` to avoid retunring undefines.
 
