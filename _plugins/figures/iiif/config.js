@@ -1,7 +1,3 @@
-//
-// CUSTOMIZED FILE -- French Silver
-// Increased print-image size and set withoutEnlargement, lines 114–15
-//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 

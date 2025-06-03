@@ -49,7 +49,7 @@ Thus far, the French silver at the J. Paul Getty Museum features works by Parisi
 
 [^6]: “Inventory of Sutton Place Gold and Silver [compiled at the J. Paul Getty Museum, Malibu], January 20, 1981,” on file in the Sculpture and Decorative Arts Department, the J. Paul Getty Museum.
 
-[^7]: See the survey of the most important pieces in {% cite 'Sassoon and Wilson 1986' %}, 127–36, nos. 267–301. The bulk of the deaccessioned British gold and silver sold over three sales at auction: *Important English and Continental Silver and Objects of Vertu*, Christie’s, New York, April 19, 1990, lots 43–50; *Important English and Continental Silver*, Sotheby’s, New York, April 19, 1991, lots 184–215; *Important English and Continental Silver*, Sotheby’s, New York, October 16, 1996, lot 323.
+[^7]: The sole published survey of Getty’s most important British pieces was compiled by Adrian Sassoon. See {% cite 'Sassoon and Wilson 1986' %}, 127–36, nos. 267–301. The bulk of the deaccessioned British gold and silver sold over three sales at auction: *Important English and Continental Silver and Objects of Vertu*, Christie’s, New York, April 19, 1990, lots 43–50; *Important English and Continental Silver*, Sotheby’s, New York, April 19, 1991, lots 184–215; *Important English and Continental Silver*, Sotheby’s, New York, October 16, 1996, lot 323.
 
 [^8]: Getty Research Institute, Institutional Records and Archives, IA40009, *J. Paul Getty Diaries*, *April 18, 1971–July 28, 1972*: 40, November 18, 1972, http://hdl.handle.net/10020/2010ia16v25.
 

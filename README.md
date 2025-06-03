@@ -19,8 +19,8 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
-- Quire CLI 1.0.0-rc.10
+- Node 20.18.1
+- Quire CLI 1.0.0-rc.25
 
 ### Branches
 
@@ -41,9 +41,9 @@ git clone --recursive https://github.com/thegetty/french-silver.git
 
 ### Previewing the Online Edition Locally
 
-1. Install Node.js 18.16.0 and verify with with `node --version`
+1. Install Node.js 20.18.1
 
-2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.10`
+2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.25`
 
 3. Clone this repository and select the appropriate branch
 
@@ -55,15 +55,19 @@ git clone --recursive https://github.com/thegetty/french-silver.git
 
 ## Creating a PDF Version
 
-While the paged.js work is ongoing, a PDF of *French Silver* should be created with PrinceXML 14.2.
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
-1. Clear the `_epub`, `_site`, and `public` directories and then run `quire build`
+2. Run `quire build`
 
-2. In `_site/pdf.css` find all instances of `/_assets/fonts/` and replace with `_assets/fonts/`. (Or, prior to running `quire build`, change the value of `$assets-dir` in `content/_assets/styles/fonts.scss`.)
+3. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
-3. Open `_site/index.html`, find the SVG element that has the Creative Commons license icons, and copy and past it right after the opening `<body>` tag in `_site/pdf.html`
+### Creating an EPUB Version
 
-7. Run `quire pdf --lib prince`
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+3. Run `quire epub`
 
 ### Customizations
 
@@ -89,17 +93,22 @@ Updated snippets for Google Analytics 4
 **_layouts/cover.liquid**
 Changed the main title to come from {{ publication.cover_title }}, which includes some HTML markup to tag key words in the title to display larger.
 
-**content/_assets/styles/components/q-figure.scss**
-Adjusted SCSS for classic theme figure styles.
+**_layouts/pdf.liquid**
+**_plugins/transforms/outputs/pdf/write.js**
+Include title and language in PDF to help with accessibility
 
 **_plugins/shortcodes/contributors.js**
 Fixed logic on creation of contribuor `id` to avoid retunring undefines.
 
-**_plugins/figures/iiif/config.js**
-Increased print-image.jpg size and set withoutEnlargement to true
-
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
+
+**_plugins/shortcodes/tombstone.js**
+**content/_assets/styles/components/quire-entry.scss**
+Tag headers to tombstone tables to improve accessibility
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Fix external links in PDF output
 
 **content/_assets/styles/epub.scss**
 Replace all default EPUB styles

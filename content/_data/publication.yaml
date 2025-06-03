@@ -115,7 +115,7 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (7.1 MB)
+    name: PDF (8.9 MB)
     media_type: application/pdf
     link_relation: alternate
     url: _assets/downloads/Bremer-David_FrenchSilver.pdf
@@ -177,6 +177,10 @@ revision_history:
       - Corrected missing figures in cats. 7, 8, 9, and 10
       - Added EPUB format for download
       - Fixed style bugs on mobile version
+  - date: June 3, 2025
+    summary:
+      - Made minor text corrections
+      - Improved image performance and PDF accessibility
 
 revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/french-silver/](https://github.com/thegetty/french-silver), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
