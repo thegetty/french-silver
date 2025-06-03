@@ -94,6 +94,10 @@ Fixed logic on creation of contribuor `id` to avoid retunring undefines.
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
 
+**_plugins/shortcodes/tombstone.js**
+**content/_assets/styles/components/quire-entry.scss**
+Tag headers to tombstone tables to improve accessibility
+
 **_plugins/transforms/outputs/pdf/transform.js**
 Fix external links in PDF output
 
