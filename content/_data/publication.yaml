@@ -180,6 +180,7 @@ revision_history:
   - date: June 3, 2025
     summary:
       - Made minor text corrections
+      - Improved image performance and PDF accessibility
 
 revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/french-silver/](https://github.com/thegetty/french-silver), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 

@@ -41,9 +41,9 @@ git clone --recursive https://github.com/thegetty/french-silver.git
 
 ### Previewing the Online Edition Locally
 
-1. Install Node.js 18.16.0 and verify with with `node --version`
+1. Install Node.js 20.18.1
 
-2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.10`
+2. Install the Quire CLI with `npm install -g @thegetty/quire-cli@1.0.0-rc.25`
 
 3. Clone this repository and select the appropriate branch
 
@@ -60,6 +60,14 @@ git clone --recursive https://github.com/thegetty/french-silver.git
 2. Run `quire build`
 
 3. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
+
+### Creating an EPUB Version
+
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+3. Run `quire epub`
 
 ### Customizations
 
