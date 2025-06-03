@@ -90,6 +90,9 @@ Fixed logic on creation of contribuor `id` to avoid retunring undefines.
 **_plugins/shortcodes/figureGroup.js**
 Output simple group of figures rather than in rows.
 
+**_plugins/transforms/outputs/pdf/transform.js**
+Fix external links in PDF output
+
 **content/_assets/styles/epub.scss**
 Replace all default EPUB styles
 
