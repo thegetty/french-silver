@@ -107,6 +107,10 @@ Output simple group of figures rather than in rows.
 **content/_assets/styles/components/quire-entry.scss**
 Tag headers to tombstone tables to improve accessibility
 
+**_plugins/transforms/fractions/index.js**
+**_plugins/transforms/index.js**
+Add new transform to wrap fractions in non-breaking <span>
+
 **_plugins/transforms/outputs/pdf/transform.js**
 Fix external links in PDF output
 

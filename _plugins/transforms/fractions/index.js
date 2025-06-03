@@ -13,7 +13,7 @@ const { error } = chalkFactory('transforms:fractions')
  */
 module.exports = async function (content) {
   const findPattern = /([0-9]+[&nbsp;|\s]+[0-9]+\/[0-9]+)/g
-  const replacePattern = '<span style="white-space: nowrap;">$1</span>'
+  const replacePattern = "<span style='white-space: nowrap;'>$1</span>"
 
   return content.replace(findPattern, replacePattern)
 }
